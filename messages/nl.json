@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "title": "EnergieMIND — AI-gestuurde energie-intelligentie",
+    "description": "EnergieMIND verbindt energiesystemen, mijnbouw-warmteterugwinning, AI-optimalisatie en duurzame infrastructuur tot één intelligente energielaag."
+  },
+  "nav": {
+    "home": "Home",
+    "mission": "Missie",
+    "energyIntelligence": "Energie-intelligentie",
+    "miningHeatUtility": "Mijnbouw-warmteutiliteit",
+    "technology": "Technologie",
+    "pilotProgram": "Pilotprogramma",
+    "ecosystem": "Ecosysteem",
+    "enmToken": "ENM Token",
+    "roadmap": "Roadmap",
+    "contact": "Contact"
+  },
+  "hero": {
+    "headline": "EnergieMIND",
+    "subheadline": "AI-gestuurde energie-intelligentie voor mijnbouw-warmteutiliteit, duurzame infrastructuur en toekomstige energienetwerken.",
+    "supporting": "Energie-intelligentie · Mijnbouw-warmteterugwinning · AI-optimalisatie · Duurzame infrastructuur · ENM Utility Layer",
+    "ctaExplore": "Ontdek EnergieMIND",
+    "ctaPilot": "Bespreek pilotmogelijkheden",
+    "ctaToken": "Bekijk ENM Token-informatie"
+  },
+  "mission": {
+    "title": "Missie",
+    "subtitle": "Energie, mijnbouw, AI en duurzaamheid verbinden",
+    "description": "EnergieMIND verbindt energiesystemen, mijnbouwsystemen, AI-coördinatie en duurzaamheid tot één intelligent energie-infrastructuurconcept. We ontwikkelen de coördinatielaag waar computationele energie, teruggewonnen warmte en infrastructuurintelligentie samenwerken.",
+    "pageTitle": "Onze missie",
+    "pageIntro": "EnergieMIND is ontworpen om te transformeren hoe energie- en mijnbouwsystemen samenwerken — verspilde computationele energie omzetten in nuttige warmte, intelligentie en duurzame infrastructuurwaarde.",
+    "visionTitle": "Visie",
+    "visionText": "Een toekomst waarin elke joule computationele energie intelligent wordt gecoördineerd — hashkracht, terugwinbare warmte, operationele data en optimalisatiemogelijkheden opleverend voor gebouwen, bedrijven en energienetwerken.",
+    "approachTitle": "Aanpak",
+    "approachText": "We combineren energiemonitoring, AI-ondersteunde optimalisatie, mijnbouw-warmteterugwinning en duurzaam infrastructuurontwerp in één uniform energie-intelligentieplatform — momenteel in ontwikkeling en pilotvoorbereiding."
+  },
+  "problem": {
+    "title": "Het probleem",
+    "subtitle": "Energiesystemen missen coördinatie en intelligentie",
+    "items": {
+      "wastedEnergy": "Energie wordt verspild bij opwekking, distributie en verbruik.",
+      "wastedHeat": "Mijnbouwwarmte wordt verspild terwijl commerciële gebouwen verwarming nodig hebben.",
+      "noIntelligence": "Energiesystemen missen realtime intelligentie en coördinatie.",
+      "infrastructure": "Infrastructuur heeft betere coördinatie nodig tussen energie, warmte en rekenkracht."
+    }
+  },
+  "thesis": {
+    "title": "De EnergieMIND-stelling",
+    "subtitle": "Computationele energie mag niet verspild worden",
+    "description": "Mining-machines kunnen meer produceren dan hashkracht. EnergieMIND is ontworpen om de volledige waardeketen van computationele energie-infrastructuur te vangen en coördineren.",
+    "outputs": {
+      "hashPower": "Hashkracht voor netwerkbeveiliging",
+      "heat": "Terugwinbare warmte voor gebouwen en faciliteiten",
+      "data": "Operationele en energieprestatiedata",
+      "metrics": "Realtime operationele statistieken",
+      "optimization": "Mogelijkheden voor energieoptimalisatie"
+    }
+  },
+  "pillars": {
+    "title": "Kernpijlers",
+    "subtitle": "Vijf onderling verbonden lagen van energie-intelligentie",
+    "energyIntelligence": {
+      "title": "Energie-intelligentie",
+      "description": "AI-ondersteunde monitoring, analyse en optimalisatie van energiestromen in mijnbouw-, verwarmings- en infrastructuresystemen."
+    },
+    "miningHeatUtility": {
+      "title": "Mijnbouw-warmteutiliteit",
+      "description": "Mijnbouwwarmte gebruiken voor woningen, hotels, bedrijven en commerciële faciliteiten — computationeel bijproduct omzetten in nuttige thermische energie."
+    },
+    "energyDashboard": {
+      "title": "Energie-dashboard",
+      "description": "Monitoring van energieverbruik, miner-output, warmteterugwinning en operationele prestaties in één uniform overzicht."
+    },
+    "sustainableInfrastructure": {
+      "title": "Duurzame infrastructuur",
+      "description": "Hernieuwbare energie, mijnbouwoperaties, verwarmingssystemen en energie-efficiëntie verbinden tot gecoördineerde infrastructuur."
+    },
+    "enmUtilityLayer": {
+      "title": "ENM Utility Layer",
+      "description": "Toekomstige getokeniseerde coördinatielaag voor ecosysteemutiliteit — deelname aan het EnergieMIND-energienetwerk mogelijk maken."
+    }
+  },
+  "pilot": {
+    "title": "Pilotprogramma",
+    "subtitle": "Ontworpen voor toekomstige commerciële pilots",
+    "description": "EnergieMIND bereidt pilotmogelijkheden voor diverse faciliteitstypen. We ontwikkelen oplossingen voor organisaties geïnteresseerd in mijnbouw-warmteutiliteit en energie-intelligentie.",
+    "targets": {
+      "hotels": "Hotels",
+      "commercial": "Commerciële gebouwen",
+      "greenhouses": "Kassen",
+      "farms": "Boerderijen",
+      "solar": "Zonne-energielocaties",
+      "industrial": "Industriële faciliteiten",
+      "mining": "Mijnbouwinstallaties",
+      "datacenters": "Datacenters"
+    },
+    "pageTitle": "Pilotprogramma",
+    "pageIntro": "EnergieMIND bevindt zich in de pilotvoorbereidingsfase. We ontwerpen implementatiemodellen voor faciliteiten die kunnen profiteren van mijnbouw-warmteterugwinning, energie-intelligentie en AI-ondersteunde optimalisatie.",
+    "cta": "Bespreek pilotmogelijkheden"
+  },
+  "ecosystem": {
+    "title": "Ecosysteem",
+    "subtitle": "Onderdeel van het TVK / EnteleKRON-ecosysteem",
+    "description": "EnergieMIND is de energie-intelligentie- en duurzame infrastructuurlaag binnen een breder ecosysteem van vertrouwen, AI en infrastructuur.",
+    "layers": {
+      "tvk": {
+        "name": "TVK Group",
+        "role": "Holdinglaag"
+      },
+      "infrasphere": {
+        "name": "InfraSphere",
+        "role": "Infrastructuurlaag"
+      },
+      "sovra": {
+        "name": "SOVRA",
+        "role": "AI-intelligentielaag"
+      },
+      "entelekron": {
+        "name": "EnteleKRON",
+        "role": "Vertrouwenslaag"
+      },
+      "energiemind": {
+        "name": "EnergieMIND",
+        "role": "Energie-intelligentielaag"
+      },
+      "enm": {
+        "name": "ENM",
+        "role": "Utility-tokenlaag"
+      }
+    },
+    "pageTitle": "Ecosysteem",
+    "pageIntro": "EnergieMIND fungeert als energie-intelligentielaag binnen het TVK / EnteleKRON-ecosysteem — infrastructuur, AI, vertrouwen en utility-coördinatie verbindend."
+  },
+  "enm": {
+    "title": "ENM Token",
+    "subtitle": "Utilitylaag voor het EnergieMIND-ecosysteem",
+    "description": "ENM is de Ethereum ERC-20-token voorbereid voor de EnergieMIND-laag. Het is ontworpen als utility-coördinatietoken binnen het ecosysteem — niet als investeringsproduct.",
+    "contract": "Contractadres",
+    "contractAddress": "0x00faB8baFfF3f849dd23FF68cfE51d8E3d09937D",
+    "network": "Ethereum (ERC-20)",
+    "riskNotice": "Risicowaarschuwing",
+    "riskText": "ENM is een utility-token binnen het EnergieMIND-ecosysteem. Het is geen investeringsproduct. Tokenwaarden kunnen fluctueren. Er worden geen rendementen beloofd. Neem alleen deel na begrip van de risico's. Volledige token- en presale-details zijn beschikbaar op enm.network.",
+    "cta": "Ga naar ENM Network",
+    "pageTitle": "ENM Token-informatie",
+    "pageIntro": "ENM dient als utility-tokenlaag voor het EnergieMIND-ecosysteem. Voor volledige tokendetails, presale-informatie en documentatie, bezoek enm.network.",
+    "utilityTitle": "Utility-doel",
+    "utilityText": "ENM is ontworpen voor ecosysteem utility-coördinatie — deelname aan het EnergieMIND energie-intelligentienetwerk mogelijk maken. Het wordt niet gepresenteerd als investeringsvehikel.",
+    "disclaimerTitle": "Belangrijke disclaimer",
+    "disclaimerText": "Deze pagina biedt alleen basiscontractinformatie. EnergieMIND.com richt zich op het energie-intelligentieproject. Alle gedetailleerde tokeninformatie, presale-details en risicoverklaringen worden bijgehouden op enm.network."
+  },
+  "roadmap": {
+    "title": "Roadmap",
+    "subtitle": "Ontwikkelingsmijlpalen",
+    "pageTitle": "Roadmap",
+    "pageIntro": "EnergieMIND-ontwikkeling volgt een gefaseerde aanpak — van concept en architectuur via pilotvoorbereiding tot toekomstige implementatie.",
+    "phases": {
+      "phase1": {
+        "title": "Fase 1 — Concept en architectuur",
+        "status": "In uitvoering",
+        "items": "Ontwikkeling energie-intelligentieconcept, ecosysteemarchitectuurontwerp, onderzoek mijnbouw-warmteutiliteit"
+      },
+      "phase2": {
+        "title": "Fase 2 — Technologieontwikkeling",
+        "status": "In ontwikkeling",
+        "items": "Ontwikkeling energie-dashboard, AI-optimalisatiemodules, ontwerp warmteterugwinningssystemen"
+      },
+      "phase3": {
+        "title": "Fase 3 — Pilotvoorbereiding",
+        "status": "Gepland",
+        "items": "Identificatie pilotlocaties, faciliteitsbeoordeling, ontwerp implementatiemodellen"
+      },
+      "phase4": {
+        "title": "Fase 4 — Commerciële pilots",
+        "status": "Toekomst",
+        "items": "Pilots in hotels, commerciële gebouwen en agrarische faciliteiten, prestatievalidatie"
+      },
+      "phase5": {
+        "title": "Fase 5 — Netwerkuitbreiding",
+        "status": "Toekomst",
+        "items": "Multi-locatiecoördinatie, activatie ENM Utility Layer, ecosysteemintegratie"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Neem contact op met EnergieMIND",
+    "pageTitle": "Contact",
+    "pageIntro": "Geïnteresseerd in pilotmogelijkheden, partnerschappen of meer weten over EnergieMIND? We verwelkomen vragen van organisaties die energie-intelligentie en mijnbouw-warmteutiliteit verkennen.",
+    "pilotInquiry": "Pilotprogramma-aanvragen",
+    "pilotText": "Voor organisaties geïnteresseerd in toekomstige pilotimplementaties van mijnbouw-warmteutiliteit en energie-intelligentiesystemen.",
+    "partnershipInquiry": "Partnerschapsaanvragen",
+    "partnershipText": "Voor infrastructuurpartners, energiebedrijven en technologie-integrators binnen het ecosysteem.",
+    "generalInquiry": "Algemene aanvragen",
+    "generalText": "Voor algemene vragen over EnergieMIND, het ecosysteem of technologieontwikkeling.",
+    "email": "contact@energiemind.com",
+    "tokenNote": "Voor ENM-token-specifieke vragen, bezoek enm.network"
+  },
+  "energyIntelligence": {
+    "pageTitle": "Energie-intelligentie",
+    "pageIntro": "AI-ondersteunde monitoring en optimalisatie van energiestromen — ontworpen om intelligentie te brengen in mijnbouw-, verwarmings- en infrastructuresystemen.",
+    "section1Title": "Realtime monitoring",
+    "section1Text": "EnergieMIND ontwikkelt dashboards en monitoringsystemen die energieverbruik, -productie en optimalisatiemogelijkheden in verbonden infrastructuur volgen.",
+    "section2Title": "AI-ondersteunde optimalisatie",
+    "section2Text": "Machine learning-modellen ontworpen om energiepatronen te analyseren, vraag te voorspellen en operationele schema's voor mijnbouw- en verwarmingssystemen te optimaliseren.",
+    "section3Title": "Infrastructuurcoördinatie",
+    "section3Text": "Hernieuwbare energiebronnen, mijnbouwoperaties en warmtevraag verbinden tot een gecoördineerd energie-intelligentienetwerk."
+  },
+  "miningHeatUtility": {
+    "pageTitle": "Mijnbouw-warmteutiliteit",
+    "pageIntro": "Computationeel bijproduct omzetten in nuttige thermische energie voor gebouwen, bedrijven en commerciële faciliteiten.",
+    "section1Title": "Warmteterugwinningsconcept",
+    "section1Text": "Mining-hardware genereert aanzienlijke thermische output. EnergieMIND is ontworpen om deze warmte op te vangen en door te sturen naar faciliteiten die verwarming nodig hebben — hotels, kassen, commerciële gebouwen en agrarische operaties.",
+    "section2Title": "Dual-value mining",
+    "section2Text": "In plaats van warmte als afval te behandelen, kunnen mijnbouwoperaties zowel computationele output als nuttige thermische energie produceren — de totale energie-efficiëntie verbeterend.",
+    "section3Title": "Faciliteitsintegratie",
+    "section3Text": "Warmteterugwinningssystemen ontworpen voor integratie met bestaande HVAC-infrastructuur, mijnbouw-warmteutiliteit mogelijk makend zonder grote faciliteitswijzigingen."
+  },
+  "technology": {
+    "pageTitle": "Technologie",
+    "pageIntro": "De technische basis van EnergieMIND — energie-dashboards, AI-optimalisatie, warmteterugwinningssystemen en infrastructuurcoördinatie.",
+    "section1Title": "Energie-dashboardplatform",
+    "section1Text": "Een uniform monitoringplatform ontworpen om energiestromen, minerprestaties, warmteterugwinningspercentages en systeemgezondheid in verbonden infrastructuur te volgen.",
+    "section2Title": "AI-optimalisatiemotor",
+    "section2Text": "Machine learning-modules voor energiepatroonanalyse, vraagvoorspelling en optimalisatie van operationele schema's in mijnbouw- en verwarmingssystemen.",
+    "section3Title": "Warmteterugwinningssystemen",
+    "section3Text": "Engineeringontwerpen voor het opvangen en distribueren van mijnbouwwarmte naar verbonden faciliteiten — van directe luchtverwarming tot watergebaseerde warmtewisselsystemen.",
+    "section4Title": "Infrastructuur-API's",
+    "section4Text": "Integratie-interfaces ontworpen voor het verbinden van hernieuwbare energiesystemen, mining-hardware, verwarmingsinfrastructuur en de ENM Utility Layer."
+  },
+  "footer": {
+    "tagline": "AI-gestuurde energie-intelligentie voor duurzame infrastructuur.",
+    "company": "TVK Infrastructure & Energy Systems LTD",
+    "rights": "Alle rechten voorbehouden.",
+    "enmNetwork": "ENM Network",
+    "tvkGroup": "TVK Group",
+    "legal": "EnergieMIND is een zich ontwikkelend energie-intelligentieproject. Er worden geen investeringsrendementen beloofd. ENM-tokendetails worden bijgehouden op enm.network."
+  },
+  "common": {
+    "learnMore": "Meer informatie",
+    "backToHome": "Terug naar home",
+    "selectLanguage": "Taal selecteren",
+    "statusDeveloping": "In ontwikkeling",
+    "statusPlanned": "Gepland",
+    "statusFuture": "Toekomst",
+    "statusInProgress": "In uitvoering"
+  }
+}

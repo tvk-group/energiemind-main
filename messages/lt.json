@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "title": "EnergieMIND — AI valdoma energijos intelektas",
+    "description": "EnergieMIND sujungia energijos sistemas, kasybos šilumos atkūrimą, AI optimizavimą ir tvarią infrastruktūrą į vieną intelektualų energijos sluoksnį."
+  },
+  "nav": {
+    "home": "Pradžia",
+    "mission": "Misija",
+    "energyIntelligence": "Energijos intelektas",
+    "miningHeatUtility": "Kasybos šilumos naudojimas",
+    "technology": "Technologija",
+    "pilotProgram": "Bandomoji programa",
+    "ecosystem": "Ekosistema",
+    "enmToken": "ENM Tokenas",
+    "roadmap": "Kelio žemėlapis",
+    "contact": "Kontaktai"
+  },
+  "hero": {
+    "headline": "EnergieMIND",
+    "subheadline": "AI valdoma energijos intelektas kasybos šilumos naudojimui, tvariai infrastruktūrai ir ateities energijos tinklams.",
+    "supporting": "Energijos intelektas · Kasybos šilumos atkūrimas · AI optimizavimas · Tvari infrastruktūra · ENM naudingumo sluoksnis",
+    "ctaExplore": "Naršykite EnergieMIND",
+    "ctaPilot": "Aptarkite bandomąsias galimybes",
+    "ctaToken": "Peržiūrėti ENM Token informaciją"
+  },
+  "mission": {
+    "title": "Misija",
+    "subtitle": "Sujungti energiją, kasybą, AI ir tvarumą",
+    "description": "EnergieMIND sujungia energijos sistemas, kasybos sistemas, AI koordinavimą ir tvarumą į vieną intelektualios energijos infrastruktūros koncepciją. Kuriate koordinavimo sluoksnį, kuriame skaičiavimo energija, atgauta šiluma ir infrastruktūros intelektas veikia kartu.",
+    "pageTitle": "Mūsų misija",
+    "pageIntro": "EnergieMIND sukurtas transformuoti energijos ir kasybos sistemų sąveiką — paverčiant iššvaistytą skaičiavimo energiją naudinga šiluma, intelektu ir tvarios infrastruktūros verte.",
+    "visionTitle": "Vizija",
+    "visionText": "Ateitis, kur kiekvienas skaičiavimo energijos džaulis yra intelektualiai koordinuojamas — gaminantis hash galią, atgautiną šilumą, operacinius duomenis ir optimizavimo galimybes pastatams, ūkiams ir energijos tinklams.",
+    "approachTitle": "Požiūris",
+    "approachText": "Sujungiame energijos stebėjimą, AI pagrįstą optimizavimą, kasybos šilumos atkūrimą ir tvarios infrastruktūros projektavimą į vieningą energijos intelekto platformą — šiuo metu vystymo ir bandomojo rengimo stadijoje."
+  },
+  "problem": {
+    "title": "Problema",
+    "subtitle": "Energijos sistemoms trūksta koordinavimo ir intelekto",
+    "items": {
+      "wastedEnergy": "Energija švaistoma gamyboje, distribucijoje ir vartojime.",
+      "wastedHeat": "Kasybos šiluma švaistoma, o komerciniai pastatai reikalauja šildymo.",
+      "noIntelligence": "Energijos sistemoms trūksta realaus laiko intelekto ir koordinavimo.",
+      "infrastructure": "Infrastruktūrai reikia geresnio energijos, šilumos ir skaičiavimo koordinavimo."
+    }
+  },
+  "thesis": {
+    "title": "EnergieMIND tezė",
+    "subtitle": "Skaičiavimo energija neturėtų būti švaistoma",
+    "description": "Kasybos mašinos gali gaminti daugiau nei hash galią. EnergieMIND sukurtas užfiksuoti ir koordinuoti visą skaičiavimo energijos infrastruktūros vertės grandinę.",
+    "outputs": {
+      "hashPower": "Hash galia tinklo saugumui",
+      "heat": "Atgautina šiluma pastatams ir objektams",
+      "data": "Operaciniai ir energijos našumo duomenys",
+      "metrics": "Realiojo laiko operaciniai rodikliai",
+      "optimization": "Energijos optimizavimo galimybės"
+    }
+  },
+  "pillars": {
+    "title": "Pagrindiniai ramsčiai",
+    "subtitle": "Penki susieti energijos intelekto sluoksniai",
+    "energyIntelligence": {
+      "title": "Energijos intelektas",
+      "description": "AI pagrįstas energijos srautų stebėjimas, analizė ir optimizavimas kasybos, šildymo ir infrastruktūros sistemose."
+    },
+    "miningHeatUtility": {
+      "title": "Kasybos šilumos naudojimas",
+      "description": "Kasybos šilumos naudojimas namams, viešbučiams, ūkiams ir komerciniams objektams — skaičiavimo šalutinio produkto pavertimas naudinga šilumos energija."
+    },
+    "energyDashboard": {
+      "title": "Energijos skydelis",
+      "description": "Energijos vartojimo, kasyklininkų produkcijos, šilumos atkūrimo rodiklių ir operacinio našumo stebėjimas viename vaizde."
+    },
+    "sustainableInfrastructure": {
+      "title": "Tvari infrastruktūra",
+      "description": "Atsinaujinančios energijos, kasybos operacijų, šildymo sistemų ir energijos efektyvumo sujungimas į koordinuotą infrastruktūrą."
+    },
+    "enmUtilityLayer": {
+      "title": "ENM naudingumo sluoksnis",
+      "description": "Ateities tokenizuotas koordinavimo sluoksnis ekosistemos naudingumui — leidžia dalyvauti EnergieMIND energijos tinkle."
+    }
+  },
+  "pilot": {
+    "title": "Bandomoji programa",
+    "subtitle": "Sukurta ateities komerciniams bandymams",
+    "description": "EnergieMIND rengia bandomąsias galimybes įvairių tipų objektams. Kuriate sprendimus organizacijoms, besidominčioms kasybos šilumos naudojimu ir energijos intelektu.",
+    "targets": {
+      "hotels": "Viešbučiai",
+      "commercial": "Komerciniai pastatai",
+      "greenhouses": "Šiltnamiai",
+      "farms": "Ūkiai",
+      "solar": "Saulės energetikos objektai",
+      "industrial": "Pramoniniai objektai",
+      "mining": "Kasybos objektai",
+      "datacenters": "Duomenų centrai"
+    },
+    "pageTitle": "Bandomoji programa",
+    "pageIntro": "EnergieMIND yra bandomojo rengimo fazėje. Projektuojame diegimo modelius objektams, kurie gali pasinaudoti kasybos šilumos atkūrimu, energijos intelektu ir AI pagrįstu optimizavimu.",
+    "cta": "Aptarkite bandomąsias galimybes"
+  },
+  "ecosystem": {
+    "title": "Ekosistema",
+    "subtitle": "TVK / EnteleKRON ekosistemos dalis",
+    "description": "EnergieMIND yra energijos intelekto ir tvarios infrastruktūros sluoksnis platesnėje pasitikėjimo, AI ir infrastruktūros ekosistemoje.",
+    "layers": {
+      "tvk": {
+        "name": "TVK Group",
+        "role": "Holdingo sluoksnis"
+      },
+      "infrasphere": {
+        "name": "InfraSphere",
+        "role": "Infrastruktūros sluoksnis"
+      },
+      "sovra": {
+        "name": "SOVRA",
+        "role": "AI intelekto sluoksnis"
+      },
+      "entelekron": {
+        "name": "EnteleKRON",
+        "role": "Pasitikėjimo sluoksnis"
+      },
+      "energiemind": {
+        "name": "EnergieMIND",
+        "role": "Energijos intelekto sluoksnis"
+      },
+      "enm": {
+        "name": "ENM",
+        "role": "Naudingumo tokeno sluoksnis"
+      }
+    },
+    "pageTitle": "Ekosistema",
+    "pageIntro": "EnergieMIND veikia kaip energijos intelekto sluoksnis TVK / EnteleKRON ekosistemoje — sujungdamas infrastruktūrą, AI, pasitikėjimą ir naudingumo koordinavimą."
+  },
+  "enm": {
+    "title": "ENM Tokenas",
+    "subtitle": "Naudingumo sluoksnis EnergieMIND ekosistemai",
+    "description": "ENM yra Ethereum ERC-20 tokenas, paruoštas EnergieMIND sluoksniui. Sukurtas kaip naudingumo koordinavimo tokenas ekosistemoje — ne investicinis produktas.",
+    "contract": "Sutarties adresas",
+    "contractAddress": "0x00faB8baFfF3f849dd23FF68cfE51d8E3d09937D",
+    "network": "Ethereum (ERC-20)",
+    "riskNotice": "Rizikos pranešimas",
+    "riskText": "ENM yra naudingumo tokenas EnergieMIND ekosistemoje. Tai nėra investicinis produktas. Tokenų vertės gali svyruoti. Grąža nežadama. Dalyvaukite tik supratę rizikas. Visos tokeno ir išankstinio pardavimo detalės prieinamos enm.network.",
+    "cta": "Eiti į ENM Network",
+    "pageTitle": "ENM Token informacija",
+    "pageIntro": "ENM veikia kaip naudingumo tokeno sluoksnis EnergieMIND ekosistemai. Visoms tokeno detalėms, išankstinio pardavimo informacijai ir dokumentacijai apsilankykite enm.network.",
+    "utilityTitle": "Naudingumo tikslas",
+    "utilityText": "ENM sukurtas ekosistemos naudingumo koordinavimui — leidžia dalyvauti EnergieMIND energijos intelekto tinkle. Nepateikiamas kaip investicinė priemonė.",
+    "disclaimerTitle": "Svarbus atsakomybės apribojimas",
+    "disclaimerText": "Šis puslapis pateikia tik pagrindinę sutarties informaciją. EnergieMIND.com orientuojasi į energijos intelekto projektą. Visos detalios tokeno informacijos, išankstinio pardavimo detalės ir rizikos atskleidimai palaikomi enm.network."
+  },
+  "roadmap": {
+    "title": "Kelio žemėlapis",
+    "subtitle": "Vystymo etapai",
+    "pageTitle": "Kelio žemėlapis",
+    "pageIntro": "EnergieMIND vystymas vyksta etapais — nuo koncepcijos ir architektūros per bandomąjį rengimą iki būsimo diegimo.",
+    "phases": {
+      "phase1": {
+        "title": "1 etapas — Koncepcija ir architektūra",
+        "status": "Vykdoma",
+        "items": "Energijos intelekto koncepcijos vystymas, ekosistemos architektūros projektavimas, kasybos šilumos naudojimo tyrimai"
+      },
+      "phase2": {
+        "title": "2 etapas — Technologijų vystymas",
+        "status": "Kuriama",
+        "items": "Energijos skydelio vystymas, AI optimizavimo moduliai, šilumos atkūrimo sistemų projektavimas"
+      },
+      "phase3": {
+        "title": "3 etapas — Bandomasis rengimas",
+        "status": "Planuojama",
+        "items": "Bandomųjų vietų identifikavimas, objektų vertinimas, diegimo modelių projektavimas"
+      },
+      "phase4": {
+        "title": "4 etapas — Komerciniai bandymai",
+        "status": "Ateitis",
+        "items": "Bandymai viešbučiuose, komerciniuose pastatuose ir žemės ūkio objektuose, našumo validacija"
+      },
+      "phase5": {
+        "title": "5 etapas — Tinklo plėtra",
+        "status": "Ateitis",
+        "items": "Daugelio vietų koordinavimas, ENM naudingumo sluoksnio aktyvavimas, ekosistemos integracija"
+      }
+    }
+  },
+  "contact": {
+    "title": "Kontaktai",
+    "subtitle": "Susisiekite su EnergieMIND",
+    "pageTitle": "Kontaktai",
+    "pageIntro": "Dominasi bandomosiomis galimybėmis, partnerystėmis ar norite sužinoti daugiau apie EnergieMIND? Laukiame užklausų iš organizacijų, tyrinėjančių energijos intelektą ir kasybos šilumos naudojimą.",
+    "pilotInquiry": "Bandomosios programos užklausos",
+    "pilotText": "Organizacijoms, besidominčioms būsimu kasybos šilumos naudojimo ir energijos intelekto sistemų bandomuoju diegimu.",
+    "partnershipInquiry": "Partnerystės užklausos",
+    "partnershipText": "Infrastruktūros partneriams, energetikos įmonėms ir technologijų integratoriams ekosistemoje.",
+    "generalInquiry": "Bendros užklausos",
+    "generalText": "Bendri klausimai apie EnergieMIND, ekosistemą ar technologijų vystymą.",
+    "email": "contact@energiemind.com",
+    "tokenNote": "Dėl ENM tokeno užklausų apsilankykite enm.network"
+  },
+  "energyIntelligence": {
+    "pageTitle": "Energijos intelektas",
+    "pageIntro": "AI pagrįstas energijos srautų stebėjimas ir optimizavimas — sukurtas suteikti intelektą kasybos, šildymo ir infrastruktūros sistemoms.",
+    "section1Title": "Realaus laiko stebėjimas",
+    "section1Text": "EnergieMIND kuria skydelius ir stebėjimo sistemas, sekančias energijos vartojimą, gamybą ir optimizavimo galimybes prijungtoje infrastruktūroje.",
+    "section2Title": "AI pagrįstas optimizavimas",
+    "section2Text": "Mašininio mokymosi modeliai energijos modelių analizei, paklausos prognozavimui ir kasybos bei šildymo sistemų operacinių grafikų optimizavimui.",
+    "section3Title": "Infrastruktūros koordinavimas",
+    "section3Text": "Atsinaujinančių energijos šaltinių, kasybos operacijų ir šildymo paklausos sujungimas į koordinuotą energijos intelekto tinklą."
+  },
+  "miningHeatUtility": {
+    "pageTitle": "Kasybos šilumos naudojimas",
+    "pageIntro": "Skaičiavimo šalutinio produkto pavertimas naudinga šilumos energija pastatams, ūkiams ir komerciniams objektams.",
+    "section1Title": "Šilumos atkūrimo koncepcija",
+    "section1Text": "Kasybos aparatūra generuoja didelę šiluminę išvestį. EnergieMIND sukurtas užfiksuoti šią šilumą ir nukreipti ją į objektus, kuriems reikia šildymo — viešbučiai, šiltnamiai, komerciniai pastatai ir žemės ūkio operacijos.",
+    "section2Title": "Dvigubos vertės kasyba",
+    "section2Text": "Vietoj šilumos traktavimo kaip atliekų, kasybos operacijos gali gaminti ir skaičiavimo išvestį, ir naudingą šilumos energiją — gerindamos bendrą energijos efektyvumą.",
+    "section3Title": "Objekto integracija",
+    "section3Text": "Šilumos atkūrimo sistemos, sukurtos integracijai su esama HVAC infrastruktūra, leidžiančios kasybos šilumos naudojimą be didelių objekto modifikacijų."
+  },
+  "technology": {
+    "pageTitle": "Technologija",
+    "pageIntro": "EnergieMIND techninis pagrindas — energijos skydeliai, AI optimizavimas, šilumos atkūrimo sistemos ir infrastruktūros koordinavimas.",
+    "section1Title": "Energijos skydelio platforma",
+    "section1Text": "Vieninga stebėjimo platforma energijos srautams, kasyklininkų našumui, šilumos atkūrimo rodikliams ir sistemos sveikatai stebėti prijungtoje infrastruktūroje.",
+    "section2Title": "AI optimizavimo variklis",
+    "section2Text": "Mašininio mokymosi moduliai energijos modelių analizei, paklausos prognozavimui ir operacinių grafikų optimizavimui kasybos ir šildymo sistemose.",
+    "section3Title": "Šilumos atkūrimo sistemos",
+    "section3Text": "Inžineriniai sprendimai kasybos šilumai užfiksuoti ir paskirstyti prijungtiems objektams — nuo tiesioginio oro šildymo iki vandens pagrindu veikiančių šilumos mainų sistemų.",
+    "section4Title": "Infrastruktūros API",
+    "section4Text": "Integracijos sąsajos atsinaujinančių energijos sistemų, kasybos aparatūros, šildymo infrastruktūros ir ENM naudingumo sluoksnio sujungimui."
+  },
+  "footer": {
+    "tagline": "AI valdoma energijos intelektas tvariai infrastruktūrai.",
+    "company": "TVK Infrastructure & Energy Systems LTD",
+    "rights": "Visos teisės saugomos.",
+    "enmNetwork": "ENM Network",
+    "tvkGroup": "TVK Group",
+    "legal": "EnergieMIND yra vystomas energijos intelekto projektas. Investicinė grąža nežadama. ENM tokeno detalės palaikomos enm.network."
+  },
+  "common": {
+    "learnMore": "Sužinokite daugiau",
+    "backToHome": "Grįžti į pradžią",
+    "selectLanguage": "Pasirinkite kalbą",
+    "statusDeveloping": "Kuriama",
+    "statusPlanned": "Planuojama",
+    "statusFuture": "Ateitis",
+    "statusInProgress": "Vykdoma"
+  }
+}

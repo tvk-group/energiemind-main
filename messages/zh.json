@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "title": "EnergieMIND — AI驱动的能源智能",
+    "description": "EnergieMIND将能源系统、挖矿热能回收、AI优化和可持续基础设施整合为一个智能能源层。"
+  },
+  "nav": {
+    "home": "首页",
+    "mission": "使命",
+    "energyIntelligence": "能源智能",
+    "miningHeatUtility": "挖矿热能利用",
+    "technology": "技术",
+    "pilotProgram": "试点计划",
+    "ecosystem": "生态系统",
+    "enmToken": "ENM代币",
+    "roadmap": "路线图",
+    "contact": "联系"
+  },
+  "hero": {
+    "headline": "EnergieMIND",
+    "subheadline": "AI驱动的能源智能，用于挖矿热能利用、可持续基础设施和未来能源网络。",
+    "supporting": "能源智能 · 挖矿热能回收 · AI优化 · 可持续基础设施 · ENM实用层",
+    "ctaExplore": "探索 EnergieMIND",
+    "ctaPilot": "讨论试点机会",
+    "ctaToken": "查看 ENM 代币信息"
+  },
+  "mission": {
+    "title": "使命",
+    "subtitle": "连接能源、挖矿、AI与可持续发展",
+    "description": "EnergieMIND将能源系统、挖矿系统、AI协调和可持续发展整合为一个智能能源基础设施概念。我们正在开发协调层，使计算能源、回收热能和基础设施智能协同工作。",
+    "pageTitle": "我们的使命",
+    "pageIntro": "EnergieMIND旨在改变能源和挖矿系统的交互方式——将浪费的计算能源转化为有用的热能、智能和可持续基础设施价值。",
+    "visionTitle": "愿景",
+    "visionText": "未来每一焦耳计算能源都被智能协调——为建筑、农场和能源网络提供算力、可回收热能、运营数据和优化机会。",
+    "approachTitle": "方法",
+    "approachText": "我们将能源监测、AI辅助优化、挖矿热能回收和可持续基础设施设计整合为统一的能源智能平台——目前处于开发和试点准备阶段。"
+  },
+  "problem": {
+    "title": "问题",
+    "subtitle": "能源系统缺乏协调和智能",
+    "items": {
+      "wastedEnergy": "能源在发电、配电和消耗中被浪费。",
+      "wastedHeat": "挖矿热能被浪费，而商业建筑需要供暖。",
+      "noIntelligence": "能源系统缺乏实时智能和协调。",
+      "infrastructure": "基础设施需要能源、热能和计算之间更好的协调。"
+    }
+  },
+  "thesis": {
+    "title": "EnergieMIND 论点",
+    "subtitle": "计算能源不应被浪费",
+    "description": "挖矿机器可以产生不止算力。EnergieMIND旨在捕获和协调计算能源基础设施的完整价值链。",
+    "outputs": {
+      "hashPower": "用于网络安全的算力",
+      "heat": "用于建筑和设施的可回收热能",
+      "data": "运营和能源性能数据",
+      "metrics": "实时运营指标",
+      "optimization": "能源优化机会"
+    }
+  },
+  "pillars": {
+    "title": "核心支柱",
+    "subtitle": "五个相互关联的能源智能层",
+    "energyIntelligence": {
+      "title": "能源智能",
+      "description": "AI辅助监测、分析和优化挖矿、供暖和基础设施系统中的能源流动。"
+    },
+    "miningHeatUtility": {
+      "title": "挖矿热能利用",
+      "description": "将挖矿热能用于住宅、酒店、农场和商业设施——将计算副产品转化为有用的热能。"
+    },
+    "energyDashboard": {
+      "title": "能源仪表板",
+      "description": "在统一视图中监测能源消耗、矿机输出、热能回收率和运营性能。"
+    },
+    "sustainableInfrastructure": {
+      "title": "可持续基础设施",
+      "description": "将可再生能源、挖矿运营、供暖系统和能源效率连接为协调的基础设施。"
+    },
+    "enmUtilityLayer": {
+      "title": "ENM 实用层",
+      "description": "面向生态系统实用性的未来代币化协调层——支持参与 EnergieMIND 能源网络。"
+    }
+  },
+  "pilot": {
+    "title": "试点计划",
+    "subtitle": "为未来的商业试点而设计",
+    "description": "EnergieMIND正在为各类设施准备试点机会。我们为对挖矿热能利用和能源智能感兴趣的组织开发解决方案。",
+    "targets": {
+      "hotels": "酒店",
+      "commercial": "商业建筑",
+      "greenhouses": "温室",
+      "farms": "农场",
+      "solar": "太阳能站点",
+      "industrial": "工业设施",
+      "mining": "挖矿设施",
+      "datacenters": "数据中心"
+    },
+    "pageTitle": "试点计划",
+    "pageIntro": "EnergieMIND处于试点准备阶段。我们正在为可从挖矿热能回收、能源智能和AI辅助优化中受益的设施设计部署模型。",
+    "cta": "讨论试点机会"
+  },
+  "ecosystem": {
+    "title": "生态系统",
+    "subtitle": "TVK / EnteleKRON 生态系统的一部分",
+    "description": "EnergieMIND是更广泛信任、AI和基础设施生态系统中的能源智能和可持续基础设施层。",
+    "layers": {
+      "tvk": {
+        "name": "TVK Group",
+        "role": "控股层"
+      },
+      "infrasphere": {
+        "name": "InfraSphere",
+        "role": "基础设施层"
+      },
+      "sovra": {
+        "name": "SOVRA",
+        "role": "AI智能层"
+      },
+      "entelekron": {
+        "name": "EnteleKRON",
+        "role": "信任层"
+      },
+      "energiemind": {
+        "name": "EnergieMIND",
+        "role": "能源智能层"
+      },
+      "enm": {
+        "name": "ENM",
+        "role": "实用代币层"
+      }
+    },
+    "pageTitle": "生态系统",
+    "pageIntro": "EnergieMIND作为 TVK / EnteleKRON 生态系统中的能源智能层运行——连接基础设施、AI、信任和实用协调。"
+  },
+  "enm": {
+    "title": "ENM 代币",
+    "subtitle": "EnergieMIND 生态系统的实用层",
+    "description": "ENM是为 EnergieMIND 层准备的以太坊 ERC-20 代币。它被设计为生态系统内的实用协调代币——而非投资产品。",
+    "contract": "合约地址",
+    "contractAddress": "0x00faB8baFfF3f849dd23FF68cfE51d8E3d09937D",
+    "network": "Ethereum (ERC-20)",
+    "riskNotice": "风险声明",
+    "riskText": "ENM是 EnergieMIND 生态系统内的实用代币。它不是投资产品。代币价值可能波动。不承诺回报。请在了解风险后参与。完整代币和预售详情请访问 enm.network。",
+    "cta": "前往 ENM Network",
+    "pageTitle": "ENM 代币信息",
+    "pageIntro": "ENM作为 EnergieMIND 生态系统的实用代币层。完整代币详情、预售信息和文档请访问 enm.network。",
+    "utilityTitle": "实用目的",
+    "utilityText": "ENM专为生态系统实用协调而设计——支持参与 EnergieMIND 能源智能网络。它不作为投资工具呈现。",
+    "disclaimerTitle": "重要免责声明",
+    "disclaimerText": "本页仅提供基本合约信息。EnergieMIND.com 专注于能源智能项目。所有详细代币信息、预售详情和风险披露均在 enm.network 维护。"
+  },
+  "roadmap": {
+    "title": "路线图",
+    "subtitle": "开发里程碑",
+    "pageTitle": "路线图",
+    "pageIntro": "EnergieMIND 开发遵循分阶段方法——从概念和架构到试点准备和未来部署。",
+    "phases": {
+      "phase1": {
+        "title": "阶段 1 — 概念与架构",
+        "status": "进行中",
+        "items": "能源智能概念开发、生态系统架构设计、挖矿热能利用研究"
+      },
+      "phase2": {
+        "title": "阶段 2 — 技术开发",
+        "status": "开发中",
+        "items": "能源仪表板开发、AI优化模块、热能回收系统设计"
+      },
+      "phase3": {
+        "title": "阶段 3 — 试点准备",
+        "status": "已计划",
+        "items": "试点场地识别、设施评估、部署模型设计"
+      },
+      "phase4": {
+        "title": "阶段 4 — 商业试点",
+        "status": "未来",
+        "items": "酒店、商业建筑和农业设施试点、性能验证"
+      },
+      "phase5": {
+        "title": "阶段 5 — 网络扩展",
+        "status": "未来",
+        "items": "多站点协调、ENM 实用层激活、生态系统集成"
+      }
+    }
+  },
+  "contact": {
+    "title": "联系",
+    "subtitle": "联系 EnergieMIND",
+    "pageTitle": "联系",
+    "pageIntro": "对试点机会、合作伙伴关系或了解更多 EnergieMIND 感兴趣？我们欢迎探索能源智能和挖矿热能利用的组织咨询。",
+    "pilotInquiry": "试点计划咨询",
+    "pilotText": "面向对挖矿热能利用和能源智能系统未来试点部署感兴趣的组织。",
+    "partnershipInquiry": "合作伙伴咨询",
+    "partnershipText": "面向生态系统内的基础设施合作伙伴、能源公司和技​​术集成商。",
+    "generalInquiry": "一般咨询",
+    "generalText": "关于 EnergieMIND、生态系统或技术开发的一般问题。",
+    "email": "contact@energiemind.com",
+    "tokenNote": "有关 ENM 代币的具体咨询，请访问 enm.network"
+  },
+  "energyIntelligence": {
+    "pageTitle": "能源智能",
+    "pageIntro": "AI辅助监测和优化能源流动——旨在为挖矿、供暖和基础设施系统带来智能。",
+    "section1Title": "实时监测",
+    "section1Text": "EnergieMIND正在开发仪表板和监测系统，跟踪互联基础设施中的能源消耗、生产和优化机会。",
+    "section2Title": "AI辅助优化",
+    "section2Text": "用于分析能源模式、预测需求和优化挖矿及供暖系统运营计划的机器学习模型。",
+    "section3Title": "基础设施协调",
+    "section3Text": "将可再生能源、挖矿运营和供暖需求连接为协调的能源智能网络。"
+  },
+  "miningHeatUtility": {
+    "pageTitle": "挖矿热能利用",
+    "pageIntro": "将计算副产品转化为建筑、农场和商业设施的有用热能。",
+    "section1Title": "热能回收概念",
+    "section1Text": "挖矿硬件产生大量热能输出。EnergieMIND旨在捕获这些热能并将其导向需要供暖的设施——酒店、温室、商业建筑和农业运营。",
+    "section2Title": "双重价值挖矿",
+    "section2Text": "挖矿运营可以同时产生计算输出和有用热能，而非将热能视为废物——提高整体能源效率。",
+    "section3Title": "设施集成",
+    "section3Text": "热能回收系统设计用于与现有暖通空调基础设施集成，无需重大设施改造即可实现挖矿热能利用。"
+  },
+  "technology": {
+    "pageTitle": "技术",
+    "pageIntro": "EnergieMIND 的技术基础——能源仪表板、AI优化、热能回收系统和基础设施协调。",
+    "section1Title": "能源仪表板平台",
+    "section1Text": "统一监测平台，用于跟踪互联基础设施中的能源流动、矿机性能、热能回收率和系统健康状态。",
+    "section2Title": "AI优化引擎",
+    "section2Text": "用于能源模式分析、需求预测和挖矿及供暖系统运营计划优化的机器学习模块。",
+    "section3Title": "热能回收系统",
+    "section3Text": "用于捕获和分配挖矿热能至互联设施的工程设计——从直接空气供暖到水基热交换系统。",
+    "section4Title": "基础设施 API",
+    "section4Text": "用于连接可再生能源系统、挖矿硬件、供暖基础设施和 ENM 实用层的集成接口。"
+  },
+  "footer": {
+    "tagline": "AI驱动的能源智能，服务可持续基础设施。",
+    "company": "TVK Infrastructure & Energy Systems LTD",
+    "rights": "保留所有权利。",
+    "enmNetwork": "ENM Network",
+    "tvkGroup": "TVK Group",
+    "legal": "EnergieMIND是一个发展中的能源智能项目。不承诺投资回报。ENM 代币详情在 enm.network 维护。"
+  },
+  "common": {
+    "learnMore": "了解更多",
+    "backToHome": "返回首页",
+    "selectLanguage": "选择语言",
+    "statusDeveloping": "开发中",
+    "statusPlanned": "已计划",
+    "statusFuture": "未来",
+    "statusInProgress": "进行中"
+  }
+}

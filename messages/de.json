@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "title": "EnergieMIND — KI-gestützte Energieintelligenz",
+    "description": "EnergieMIND verbindet Energiesysteme, Bergbau-Wärmerückgewinnung, KI-Optimierung und nachhaltige Infrastruktur zu einer intelligenten Energieschicht."
+  },
+  "nav": {
+    "home": "Startseite",
+    "mission": "Mission",
+    "energyIntelligence": "Energieintelligenz",
+    "miningHeatUtility": "Bergbau-Wärmenutzung",
+    "technology": "Technologie",
+    "pilotProgram": "Pilotprogramm",
+    "ecosystem": "Ökosystem",
+    "enmToken": "ENM Token",
+    "roadmap": "Roadmap",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "headline": "EnergieMIND",
+    "subheadline": "KI-gestützte Energieintelligenz für Bergbau-Wärmenutzung, nachhaltige Infrastruktur und zukünftige Energienetze.",
+    "supporting": "Energieintelligenz · Bergbau-Wärmerückgewinnung · KI-Optimierung · Nachhaltige Infrastruktur · ENM Utility Layer",
+    "ctaExplore": "EnergieMIND entdecken",
+    "ctaPilot": "Pilotmöglichkeiten besprechen",
+    "ctaToken": "ENM Token-Informationen ansehen"
+  },
+  "mission": {
+    "title": "Mission",
+    "subtitle": "Energie, Bergbau, KI und Nachhaltigkeit verbinden",
+    "description": "EnergieMIND verbindet Energiesysteme, Bergbausysteme, KI-Koordination und Nachhaltigkeit zu einem intelligenten Energieinfrastrukturkonzept. Wir entwickeln die Koordinationsschicht, in der rechnerische Energie, rückgewonnene Wärme und Infrastrukturintelligenz zusammenwirken.",
+    "pageTitle": "Unsere Mission",
+    "pageIntro": "EnergieMIND ist darauf ausgelegt, die Interaktion von Energie- und Bergbausystemen zu transformieren — und verschwendete rechnerische Energie in nutzbare Wärme, Intelligenz und nachhaltigen Infrastrukturwert zu verwandeln.",
+    "visionTitle": "Vision",
+    "visionText": "Eine Zukunft, in der jedes Joule rechnerischer Energie intelligent koordiniert wird — und Hashleistung, rückgewinnbare Wärme, Betriebsdaten und Optimierungsmöglichkeiten für Gebäude, Betriebe und Energienetze liefert.",
+    "approachTitle": "Ansatz",
+    "approachText": "Wir kombinieren Energiemonitoring, KI-gestützte Optimierung, Bergbau-Wärmerückgewinnung und nachhaltiges Infrastrukturdesign zu einer einheitlichen Energieintelligenzplattform — derzeit in Entwicklung und Pilotvorbereitung."
+  },
+  "problem": {
+    "title": "Das Problem",
+    "subtitle": "Energiesysteme fehlt Koordination und Intelligenz",
+    "items": {
+      "wastedEnergy": "Energie wird bei Erzeugung, Verteilung und Verbrauch verschwendet.",
+      "wastedHeat": "Bergbauwärme wird verschwendet, während Gewerbegebäude Heizung benötigen.",
+      "noIntelligence": "Energiesystemen fehlt Echtzeit-Intelligenz und Koordination.",
+      "infrastructure": "Die Infrastruktur braucht bessere Koordination zwischen Energie, Wärme und Rechenleistung."
+    }
+  },
+  "thesis": {
+    "title": "Die EnergieMIND-These",
+    "subtitle": "Rechnerische Energie sollte nicht verschwendet werden",
+    "description": "Mining-Maschinen können mehr als Hashleistung erzeugen. EnergieMIND ist darauf ausgelegt, die gesamte Wertschöpfungskette der rechnerischen Energieinfrastruktur zu erfassen und zu koordinieren.",
+    "outputs": {
+      "hashPower": "Hashleistung für Netzwerksicherheit",
+      "heat": "Rückgewinnbare Wärme für Gebäude und Anlagen",
+      "data": "Betriebs- und Energieleistungsdaten",
+      "metrics": "Echtzeit-Betriebskennzahlen",
+      "optimization": "Möglichkeiten zur Energieoptimierung"
+    }
+  },
+  "pillars": {
+    "title": "Kernpfeiler",
+    "subtitle": "Fünf miteinander verbundene Schichten der Energieintelligenz",
+    "energyIntelligence": {
+      "title": "Energieintelligenz",
+      "description": "KI-gestütztes Monitoring, Analyse und Optimierung von Energieflüssen in Bergbau-, Heiz- und Infrastruktursystemen."
+    },
+    "miningHeatUtility": {
+      "title": "Bergbau-Wärmenutzung",
+      "description": "Nutzung von Bergbauwärme für Wohnungen, Hotels, Betriebe und Gewerbeobjekte — Umwandlung des rechnerischen Nebenprodukts in nutzbare thermische Energie."
+    },
+    "energyDashboard": {
+      "title": "Energie-Dashboard",
+      "description": "Überwachung von Energieverbrauch, Miner-Leistung, Wärmerückgewinnungsraten und Betriebsleistung in einer einheitlichen Ansicht."
+    },
+    "sustainableInfrastructure": {
+      "title": "Nachhaltige Infrastruktur",
+      "description": "Verbindung von erneuerbarer Energie, Bergbaubetrieb, Heizsystemen und Energieeffizienz zu koordinierter Infrastruktur."
+    },
+    "enmUtilityLayer": {
+      "title": "ENM Utility Layer",
+      "description": "Zukünftige tokenisierte Koordinationsschicht für Ökosystem-Nutzen — Ermöglichung der Teilnahme am EnergieMIND-Energienetz."
+    }
+  },
+  "pilot": {
+    "title": "Pilotprogramm",
+    "subtitle": "Konzipiert für zukünftige kommerzielle Piloten",
+    "description": "EnergieMIND bereitet Pilotmöglichkeiten für verschiedene Anlagentypen vor. Wir entwickeln Lösungen für Organisationen, die an Bergbau-Wärmenutzung und Energieintelligenz interessiert sind.",
+    "targets": {
+      "hotels": "Hotels",
+      "commercial": "Gewerbegebäude",
+      "greenhouses": "Gewächshäuser",
+      "farms": "Landwirtschaftliche Betriebe",
+      "solar": "Solarstandorte",
+      "industrial": "Industrieanlagen",
+      "mining": "Bergbauanlagen",
+      "datacenters": "Rechenzentren"
+    },
+    "pageTitle": "Pilotprogramm",
+    "pageIntro": "EnergieMIND befindet sich in der Pilotvorbereitungsphase. Wir entwickeln Einsatzmodelle für Anlagen, die von Bergbau-Wärmerückgewinnung, Energieintelligenz und KI-gestützter Optimierung profitieren können.",
+    "cta": "Pilotmöglichkeiten besprechen"
+  },
+  "ecosystem": {
+    "title": "Ökosystem",
+    "subtitle": "Teil des TVK / EnteleKRON-Ökosystems",
+    "description": "EnergieMIND ist die Energieintelligenz- und nachhaltige Infrastrukturschicht innerhalb eines breiteren Ökosystems aus Vertrauen, KI und Infrastruktur.",
+    "layers": {
+      "tvk": {
+        "name": "TVK Group",
+        "role": "Holding-Schicht"
+      },
+      "infrasphere": {
+        "name": "InfraSphere",
+        "role": "Infrastrukturschicht"
+      },
+      "sovra": {
+        "name": "SOVRA",
+        "role": "KI-Intelligenzschicht"
+      },
+      "entelekron": {
+        "name": "EnteleKRON",
+        "role": "Vertrauensschicht"
+      },
+      "energiemind": {
+        "name": "EnergieMIND",
+        "role": "Energieintelligenzschicht"
+      },
+      "enm": {
+        "name": "ENM",
+        "role": "Utility-Token-Schicht"
+      }
+    },
+    "pageTitle": "Ökosystem",
+    "pageIntro": "EnergieMIND fungiert als Energieintelligenzschicht innerhalb des TVK / EnteleKRON-Ökosystems — und verbindet Infrastruktur, KI, Vertrauen und Utility-Koordination."
+  },
+  "enm": {
+    "title": "ENM Token",
+    "subtitle": "Utility-Schicht für das EnergieMIND-Ökosystem",
+    "description": "ENM ist der Ethereum ERC-20-Token, der für die EnergieMIND-Schicht vorbereitet wird. Er ist als Utility-Koordinationstoken innerhalb des Ökosystems konzipiert — nicht als Investmentprodukt.",
+    "contract": "Vertragsadresse",
+    "contractAddress": "0x00faB8baFfF3f849dd23FF68cfE51d8E3d09937D",
+    "network": "Ethereum (ERC-20)",
+    "riskNotice": "Risikohinweis",
+    "riskText": "ENM ist ein Utility-Token innerhalb des EnergieMIND-Ökosystems. Es ist kein Investmentprodukt. Token-Werte können schwanken. Es werden keine Renditen versprochen. Nehmen Sie nur nach Verständnis der Risiken teil. Vollständige Token- und Presale-Details finden Sie unter enm.network.",
+    "cta": "Zum ENM Network",
+    "pageTitle": "ENM Token-Informationen",
+    "pageIntro": "ENM dient als Utility-Token-Schicht für das EnergieMIND-Ökosystem. Vollständige Token-Details, Presale-Informationen und Dokumentation finden Sie unter enm.network.",
+    "utilityTitle": "Utility-Zweck",
+    "utilityText": "ENM ist für die Ökosystem-Utility-Koordination konzipiert — und ermöglicht die Teilnahme am EnergieMIND-Energieintelligenznetz. Es wird nicht als Investmentvehikel dargestellt.",
+    "disclaimerTitle": "Wichtiger Haftungsausschluss",
+    "disclaimerText": "Diese Seite bietet nur grundlegende Vertragsinformationen. EnergieMIND.com konzentriert sich auf das Energieintelligenzprojekt. Alle detaillierten Token-Informationen, Presale-Details und Risikohinweise werden unter enm.network gepflegt."
+  },
+  "roadmap": {
+    "title": "Roadmap",
+    "subtitle": "Entwicklungsmeilensteine",
+    "pageTitle": "Roadmap",
+    "pageIntro": "Die EnergieMIND-Entwicklung folgt einem phasenweisen Ansatz — von Konzept und Architektur über Pilotvorbereitung bis hin zum zukünftigen Einsatz.",
+    "phases": {
+      "phase1": {
+        "title": "Phase 1 — Konzept & Architektur",
+        "status": "In Bearbeitung",
+        "items": "Entwicklung des Energieintelligenzkonzepts, Ökosystem-Architekturdesign, Forschung zur Bergbau-Wärmenutzung"
+      },
+      "phase2": {
+        "title": "Phase 2 — Technologieentwicklung",
+        "status": "In Entwicklung",
+        "items": "Entwicklung des Energie-Dashboards, KI-Optimierungsmodule, Design von Wärmerückgewinnungssystemen"
+      },
+      "phase3": {
+        "title": "Phase 3 — Pilotvorbereitung",
+        "status": "Geplant",
+        "items": "Identifikation von Pilotstandorten, Anlagenbewertung, Design von Einsatzmodellen"
+      },
+      "phase4": {
+        "title": "Phase 4 — Kommerzielle Piloten",
+        "status": "Zukunft",
+        "items": "Piloten in Hotels, Gewerbegebäuden und landwirtschaftlichen Anlagen, Leistungsvalidierung"
+      },
+      "phase5": {
+        "title": "Phase 5 — Netzwerkerweiterung",
+        "status": "Zukunft",
+        "items": "Multi-Standort-Koordination, Aktivierung des ENM Utility Layer, Ökosystem-Integration"
+      }
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Kontaktieren Sie EnergieMIND",
+    "pageTitle": "Kontakt",
+    "pageIntro": "Interessiert an Pilotmöglichkeiten, Partnerschaften oder mehr über EnergieMIND? Wir begrüßen Anfragen von Organisationen, die Energieintelligenz und Bergbau-Wärmenutzung erkunden.",
+    "pilotInquiry": "Anfragen zum Pilotprogramm",
+    "pilotText": "Für Organisationen, die an zukünftigen Pilot-Einsätzen von Bergbau-Wärmenutzung und Energieintelligenzsystemen interessiert sind.",
+    "partnershipInquiry": "Partnerschaftsanfragen",
+    "partnershipText": "Für Infrastrukturpartner, Energieunternehmen und Technologieintegratoren innerhalb des Ökosystems.",
+    "generalInquiry": "Allgemeine Anfragen",
+    "generalText": "Für allgemeine Fragen zu EnergieMIND, dem Ökosystem oder der Technologieentwicklung.",
+    "email": "contact@energiemind.com",
+    "tokenNote": "Für ENM-token-spezifische Anfragen besuchen Sie bitte enm.network"
+  },
+  "energyIntelligence": {
+    "pageTitle": "Energieintelligenz",
+    "pageIntro": "KI-gestütztes Monitoring und Optimierung von Energieflüssen — entwickelt, um Bergbau-, Heiz- und Infrastruktursystemen Intelligenz zu verleihen.",
+    "section1Title": "Echtzeit-Monitoring",
+    "section1Text": "EnergieMIND entwickelt Dashboards und Monitoring-Systeme, die Energieverbrauch, -erzeugung und Optimierungsmöglichkeiten in verbundener Infrastruktur verfolgen.",
+    "section2Title": "KI-gestützte Optimierung",
+    "section2Text": "Machine-Learning-Modelle zur Analyse von Energiemustern, Bedarfsprognose und Optimierung von Betriebsplänen für Bergbau- und Heizsysteme.",
+    "section3Title": "Infrastrukturkoordination",
+    "section3Text": "Verbindung erneuerbarer Energiequellen, Bergbaubetrieb und Heizbedarf zu einem koordinierten Energieintelligenznetz."
+  },
+  "miningHeatUtility": {
+    "pageTitle": "Bergbau-Wärmenutzung",
+    "pageIntro": "Umwandlung des rechnerischen Nebenprodukts in nutzbare thermische Energie für Gebäude, Betriebe und Gewerbeobjekte.",
+    "section1Title": "Wärmerückgewinnungskonzept",
+    "section1Text": "Mining-Hardware erzeugt erhebliche thermische Leistung. EnergieMIND ist darauf ausgelegt, diese Wärme zu erfassen und an Anlagen weiterzuleiten, die Heizung benötigen — Hotels, Gewächshäuser, Gewerbegebäude und landwirtschaftliche Betriebe.",
+    "section2Title": "Dual-Value-Mining",
+    "section2Text": "Anstatt Wärme als Abfall zu behandeln, können Bergbaubetriebe sowohl rechnerische Leistung als auch nutzbare thermische Energie erzeugen — und so die Gesamtenergieeffizienz verbessern.",
+    "section3Title": "Anlagenintegration",
+    "section3Text": "Wärmerückgewinnungssysteme für die Integration in bestehende HLK-Infrastruktur — Bergbau-Wärmenutzung ohne größere Anlagenumbauten."
+  },
+  "technology": {
+    "pageTitle": "Technologie",
+    "pageIntro": "Das technische Fundament von EnergieMIND — Energie-Dashboards, KI-Optimierung, Wärmerückgewinnungssysteme und Infrastrukturkoordination.",
+    "section1Title": "Energie-Dashboard-Plattform",
+    "section1Text": "Eine einheitliche Monitoring-Plattform zur Verfolgung von Energieflüssen, Miner-Leistung, Wärmerückgewinnungsraten und Systemzustand in verbundener Infrastruktur.",
+    "section2Title": "KI-Optimierungsengine",
+    "section2Text": "Machine-Learning-Module für Energiemusteranalyse, Bedarfsprognose und Optimierung von Betriebsplänen in Bergbau- und Heizsystemen.",
+    "section3Title": "Wärmerückgewinnungssysteme",
+    "section3Text": "Ingenieurdesigns zur Erfassung und Verteilung von Bergbauwärme an verbundene Anlagen — von direkter Luftheizung bis zu wasserbasierten Wärmetauschsystemen.",
+    "section4Title": "Infrastruktur-APIs",
+    "section4Text": "Integrations-Schnittstellen zur Verbindung erneuerbarer Energiesysteme, Mining-Hardware, Heizinfrastruktur und des ENM Utility Layer."
+  },
+  "footer": {
+    "tagline": "KI-gestützte Energieintelligenz für nachhaltige Infrastruktur.",
+    "company": "TVK Infrastructure & Energy Systems LTD",
+    "rights": "Alle Rechte vorbehalten.",
+    "enmNetwork": "ENM Network",
+    "tvkGroup": "TVK Group",
+    "legal": "EnergieMIND ist ein sich entwickelndes Energieintelligenzprojekt. Es werden keine Investitionsrenditen versprochen. ENM-Token-Details werden unter enm.network gepflegt."
+  },
+  "common": {
+    "learnMore": "Mehr erfahren",
+    "backToHome": "Zurück zur Startseite",
+    "selectLanguage": "Sprache wählen",
+    "statusDeveloping": "In Entwicklung",
+    "statusPlanned": "Geplant",
+    "statusFuture": "Zukunft",
+    "statusInProgress": "In Bearbeitung"
+  }
+}

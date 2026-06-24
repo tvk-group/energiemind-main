@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+@theme {
+  --color-navy-900: #0a1628;
+  --color-navy-800: #0f2140;
+  --color-navy-700: #1a3358;
+  --color-navy-600: #234878;
+  --color-energy-blue: #1e6fd9;
+  --color-energy-blue-light: #3d8ef0;
+  --color-energy-green: #2d9f6f;
+  --color-energy-green-light: #3cb88a;
+  --color-silver-100: #f4f6f8;
+  --color-silver-200: #e8ecf0;
+  --color-silver-300: #d1d9e0;
+  --color-silver-400: #a8b5c4;
+  --color-accent-yellow: #f5c842;
+  --font-sans: var(--font-inter), system-ui, -apple-system, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-navy-900);
+  background-color: #ffffff;
+}
+
+[dir="rtl"] {
+  text-align: right;
+}
+
+.section-padding {
+  @apply px-4 sm:px-6 lg:px-8 py-16 lg:py-24;
+}
+
+.container-max {
+  @apply max-w-7xl mx-auto;
+}
+
+.gradient-hero {
+  background: linear-gradient(135deg, #0a1628 0%, #1a3358 50%, #0f2140 100%);
+}
+
+.card {
+  @apply bg-white border border-silver-200 rounded-xl p-6 shadow-sm hover:shadow-md transition-shadow duration-300;
+}
+
+.btn-primary {
+  @apply inline-flex items-center justify-center px-6 py-3 bg-energy-blue text-white font-medium rounded-lg hover:bg-energy-blue-light transition-colors duration-200;
+}
+
+.btn-secondary {
+  @apply inline-flex items-center justify-center px-6 py-3 bg-white text-navy-800 font-medium rounded-lg border border-silver-300 hover:border-energy-blue hover:text-energy-blue transition-colors duration-200;
+}
+
+.btn-outline-light {
+  @apply inline-flex items-center justify-center px-6 py-3 text-white font-medium rounded-lg border border-white/30 hover:bg-white/10 transition-colors duration-200;
+}
+
+.section-title {
+  @apply text-3xl lg:text-4xl font-bold text-navy-900 mb-4;
+}
+
+.section-subtitle {
+  @apply text-lg text-silver-400 max-w-2xl;
+}
+
+.pillar-icon {
+  @apply w-12 h-12 rounded-lg flex items-center justify-center text-2xl mb-4;
+}
