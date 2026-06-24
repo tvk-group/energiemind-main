@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "title": "EnergieMIND — Trí tuệ năng lượng hỗ trợ AI",
+    "description": "EnergieMIND kết nối hệ thống năng lượng, thu hồi nhiệt khai thác, tối ưu hóa AI và cơ sở hạ tầng bền vững thành một lớp năng lượng thông minh."
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "mission": "Sứ mệnh",
+    "energyIntelligence": "Trí tuệ năng lượng",
+    "miningHeatUtility": "Tiện ích nhiệt khai thác",
+    "technology": "Công nghệ",
+    "pilotProgram": "Chương trình thí điểm",
+    "ecosystem": "Hệ sinh thái",
+    "enmToken": "Token ENM",
+    "roadmap": "Lộ trình",
+    "contact": "Liên hệ"
+  },
+  "hero": {
+    "headline": "EnergieMIND",
+    "subheadline": "Trí tuệ năng lượng hỗ trợ AI cho tiện ích nhiệt khai thác, cơ sở hạ tầng bền vững và mạng lưới năng lượng tương lai.",
+    "supporting": "Trí tuệ năng lượng · Thu hồi nhiệt khai thác · Tối ưu hóa AI · Cơ sở hạ tầng bền vững · Lớp tiện ích ENM",
+    "ctaExplore": "Khám phá EnergieMIND",
+    "ctaPilot": "Thảo luận cơ hội thí điểm",
+    "ctaToken": "Xem thông tin Token ENM"
+  },
+  "mission": {
+    "title": "Sứ mệnh",
+    "subtitle": "Kết nối năng lượng, khai thác, AI và tính bền vững",
+    "description": "EnergieMIND kết nối hệ thống năng lượng, hệ thống khai thác, điều phối AI và tính bền vững thành một khái niệm cơ sở hạ tầng năng lượng thông minh. Chúng tôi đang phát triển lớp điều phối nơi năng lượng tính toán, nhiệt thu hồi và trí tuệ cơ sở hạ tầng hoạt động cùng nhau.",
+    "pageTitle": "Sứ mệnh của chúng tôi",
+    "pageIntro": "EnergieMIND được thiết kế để thay đổi cách các hệ thống năng lượng và khai thác tương tác — biến năng lượng tính toán bị lãng phí thành nhiệt hữu ích, trí tuệ và giá trị cơ sở hạ tầng bền vững.",
+    "visionTitle": "Tầm nhìn",
+    "visionText": "Một tương lai nơi mỗi joule năng lượng tính toán được điều phối thông minh — tạo ra sức mạnh hash, nhiệt có thể thu hồi, dữ liệu vận hành và cơ hội tối ưu hóa cho tòa nhà, trang trại và mạng lưới năng lượng.",
+    "approachTitle": "Phương pháp",
+    "approachText": "Chúng tôi kết hợp giám sát năng lượng, tối ưu hóa hỗ trợ AI, thu hồi nhiệt khai thác và thiết kế cơ sở hạ tầng bền vững thành nền tảng trí tuệ năng lượng thống nhất — hiện đang trong giai đoạn phát triển và chuẩn bị thí điểm."
+  },
+  "problem": {
+    "title": "Vấn đề",
+    "subtitle": "Hệ thống năng lượng thiếu điều phối và trí tuệ",
+    "items": {
+      "wastedEnergy": "Năng lượng bị lãng phí trong sản xuất, phân phối và tiêu thụ.",
+      "wastedHeat": "Nhiệt khai thác bị lãng phí trong khi tòa nhà thương mại cần sưởi ấm.",
+      "noIntelligence": "Hệ thống năng lượng thiếu trí tuệ và điều phối thời gian thực.",
+      "infrastructure": "Cơ sở hạ tầng cần điều phối tốt hơn giữa năng lượng, nhiệt và tính toán."
+    }
+  },
+  "thesis": {
+    "title": "Luận điểm EnergieMIND",
+    "subtitle": "Năng lượng tính toán không nên bị lãng phí",
+    "description": "Máy khai thác có thể tạo ra nhiều hơn sức mạnh hash. EnergieMIND được thiết kế để nắm bắt và điều phối toàn bộ chuỗi giá trị cơ sở hạ tầng năng lượng tính toán.",
+    "outputs": {
+      "hashPower": "Sức mạnh hash cho bảo mật mạng",
+      "heat": "Nhiệt có thể thu hồi cho tòa nhà và cơ sở",
+      "data": "Dữ liệu vận hành và hiệu suất năng lượng",
+      "metrics": "Chỉ số vận hành thời gian thực",
+      "optimization": "Cơ hội tối ưu hóa năng lượng"
+    }
+  },
+  "pillars": {
+    "title": "Trụ cột cốt lõi",
+    "subtitle": "Năm lớp trí tuệ năng lượng liên kết",
+    "energyIntelligence": {
+      "title": "Trí tuệ năng lượng",
+      "description": "Giám sát, phân tích và tối ưu hóa dòng năng lượng hỗ trợ AI trong hệ thống khai thác, sưởi ấm và cơ sở hạ tầng."
+    },
+    "miningHeatUtility": {
+      "title": "Tiện ích nhiệt khai thác",
+      "description": "Sử dụng nhiệt khai thác cho nhà ở, khách sạn, trang trại và cơ sở thương mại — biến sản phẩm phụ tính toán thành năng lượng nhiệt hữu ích."
+    },
+    "energyDashboard": {
+      "title": "Bảng điều khiển năng lượng",
+      "description": "Giám sát tiêu thụ năng lượng, đầu ra máy khai thác, tỷ lệ thu hồi nhiệt và hiệu suất vận hành trong một giao diện thống nhất."
+    },
+    "sustainableInfrastructure": {
+      "title": "Cơ sở hạ tầng bền vững",
+      "description": "Kết nối năng lượng tái tạo, hoạt động khai thác, hệ thống sưởi ấm và hiệu quả năng lượng thành cơ sở hạ tầng được điều phối."
+    },
+    "enmUtilityLayer": {
+      "title": "Lớp tiện ích ENM",
+      "description": "Lớp điều phối token hóa tương lai cho tiện ích hệ sinh thái — cho phép tham gia mạng lưới năng lượng EnergieMIND."
+    }
+  },
+  "pilot": {
+    "title": "Chương trình thí điểm",
+    "subtitle": "Thiết kế cho các thí điểm thương mại tương lai",
+    "description": "EnergieMIND đang chuẩn bị cơ hội thí điểm cho nhiều loại cơ sở. Chúng tôi phát triển giải pháp cho các tổ chức quan tâm đến tiện ích nhiệt khai thác và trí tuệ năng lượng.",
+    "targets": {
+      "hotels": "Khách sạn",
+      "commercial": "Tòa nhà thương mại",
+      "greenhouses": "Nhà kính",
+      "farms": "Trang trại",
+      "solar": "Cơ sở năng lượng mặt trời",
+      "industrial": "Cơ sở công nghiệp",
+      "mining": "Cơ sở khai thác",
+      "datacenters": "Trung tâm dữ liệu"
+    },
+    "pageTitle": "Chương trình thí điểm",
+    "pageIntro": "EnergieMIND đang trong giai đoạn chuẩn bị thí điểm. Chúng tôi thiết kế mô hình triển khai cho các cơ sở có thể hưởng lợi từ thu hồi nhiệt khai thác, trí tuệ năng lượng và tối ưu hóa hỗ trợ AI.",
+    "cta": "Thảo luận cơ hội thí điểm"
+  },
+  "ecosystem": {
+    "title": "Hệ sinh thái",
+    "subtitle": "Một phần của hệ sinh thái TVK / EnteleKRON",
+    "description": "EnergieMIND là lớp trí tuệ năng lượng và cơ sở hạ tầng bền vững trong hệ sinh thái rộng hơn về tin cậy, AI và cơ sở hạ tầng.",
+    "layers": {
+      "tvk": {
+        "name": "TVK Group",
+        "role": "Lớp holding"
+      },
+      "infrasphere": {
+        "name": "InfraSphere",
+        "role": "Lớp cơ sở hạ tầng"
+      },
+      "sovra": {
+        "name": "SOVRA",
+        "role": "Lớp trí tuệ AI"
+      },
+      "entelekron": {
+        "name": "EnteleKRON",
+        "role": "Lớp tin cậy"
+      },
+      "energiemind": {
+        "name": "EnergieMIND",
+        "role": "Lớp trí tuệ năng lượng"
+      },
+      "enm": {
+        "name": "ENM",
+        "role": "Lớp token tiện ích"
+      }
+    },
+    "pageTitle": "Hệ sinh thái",
+    "pageIntro": "EnergieMIND hoạt động như lớp trí tuệ năng lượng trong hệ sinh thái TVK / EnteleKRON — kết nối cơ sở hạ tầng, AI, tin cậy và điều phối tiện ích."
+  },
+  "enm": {
+    "title": "Token ENM",
+    "subtitle": "Lớp tiện ích cho hệ sinh thái EnergieMIND",
+    "description": "ENM là token Ethereum ERC-20 được chuẩn bị cho lớp EnergieMIND. Được thiết kế như token điều phối tiện ích trong hệ sinh thái — không phải sản phẩm đầu tư.",
+    "contract": "Địa chỉ hợp đồng",
+    "contractAddress": "0x00faB8baFfF3f849dd23FF68cfE51d8E3d09937D",
+    "network": "Ethereum (ERC-20)",
+    "riskNotice": "Thông báo rủi ro",
+    "riskText": "ENM là token tiện ích trong hệ sinh thái EnergieMIND. Không phải sản phẩm đầu tư. Giá trị token có thể biến động. Không hứa hẹn lợi nhuận. Chỉ tham gia sau khi hiểu rủi ro. Chi tiết token và bán trước đầy đủ có tại enm.network.",
+    "cta": "Đến ENM Network",
+    "pageTitle": "Thông tin Token ENM",
+    "pageIntro": "ENM phục vụ như lớp token tiện ích cho hệ sinh thái EnergieMIND. Để biết chi tiết token, thông tin bán trước và tài liệu, truy cập enm.network.",
+    "utilityTitle": "Mục đích tiện ích",
+    "utilityText": "ENM được thiết kế cho điều phối tiện ích hệ sinh thái — cho phép tham gia mạng trí tuệ năng lượng EnergieMIND. Không được trình bày như phương tiện đầu tư.",
+    "disclaimerTitle": "Tuyên bố miễn trừ quan trọng",
+    "disclaimerText": "Trang này chỉ cung cấp thông tin hợp đồng cơ bản. EnergieMIND.com tập trung vào dự án trí tuệ năng lượng. Tất cả thông tin token chi tiết, chi tiết bán trước và công bố rủi ro được duy trì tại enm.network."
+  },
+  "roadmap": {
+    "title": "Lộ trình",
+    "subtitle": "Cột mốc phát triển",
+    "pageTitle": "Lộ trình",
+    "pageIntro": "Phát triển EnergieMIND theo cách tiếp cận theo giai đoạn — từ khái niệm và kiến trúc qua chuẩn bị thí điểm đến triển khai tương lai.",
+    "phases": {
+      "phase1": {
+        "title": "Giai đoạn 1 — Khái niệm & Kiến trúc",
+        "status": "Đang tiến hành",
+        "items": "Phát triển khái niệm trí tuệ năng lượng, thiết kế kiến trúc hệ sinh thái, nghiên cứu tiện ích nhiệt khai thác"
+      },
+      "phase2": {
+        "title": "Giai đoạn 2 — Phát triển công nghệ",
+        "status": "Đang phát triển",
+        "items": "Phát triển bảng điều khiển năng lượng, mô-đun tối ưu hóa AI, thiết kế hệ thống thu hồi nhiệt"
+      },
+      "phase3": {
+        "title": "Giai đoạn 3 — Chuẩn bị thí điểm",
+        "status": "Đã lên kế hoạch",
+        "items": "Xác định địa điểm thí điểm, đánh giá cơ sở, thiết kế mô hình triển khai"
+      },
+      "phase4": {
+        "title": "Giai đoạn 4 — Thí điểm thương mại",
+        "status": "Tương lai",
+        "items": "Thí điểm tại khách sạn, tòa nhà thương mại và cơ sở nông nghiệp, xác thực hiệu suất"
+      },
+      "phase5": {
+        "title": "Giai đoạn 5 — Mở rộng mạng lưới",
+        "status": "Tương lai",
+        "items": "Điều phối đa địa điểm, kích hoạt lớp tiện ích ENM, tích hợp hệ sinh thái"
+      }
+    }
+  },
+  "contact": {
+    "title": "Liên hệ",
+    "subtitle": "Liên hệ EnergieMIND",
+    "pageTitle": "Liên hệ",
+    "pageIntro": "Quan tâm đến cơ hội thí điểm, đối tác hoặc tìm hiểu thêm về EnergieMIND? Chúng tôi hoan nghênh các yêu cầu từ tổ chức khám phá trí tuệ năng lượng và tiện ích nhiệt khai thác.",
+    "pilotInquiry": "Yêu cầu chương trình thí điểm",
+    "pilotText": "Cho các tổ chức quan tâm đến triển khai thí điểm tương lai của hệ thống tiện ích nhiệt khai thác và trí tuệ năng lượng.",
+    "partnershipInquiry": "Yêu cầu đối tác",
+    "partnershipText": "Cho đối tác cơ sở hạ tầng, công ty năng lượng và tích hợp công nghệ trong hệ sinh thái.",
+    "generalInquiry": "Yêu cầu chung",
+    "generalText": "Câu hỏi chung về EnergieMIND, hệ sinh thái hoặc phát triển công nghệ.",
+    "email": "contact@energiemind.com",
+    "tokenNote": "Đối với yêu cầu cụ thể về token ENM, vui lòng truy cập enm.network"
+  },
+  "energyIntelligence": {
+    "pageTitle": "Trí tuệ năng lượng",
+    "pageIntro": "Giám sát và tối ưu hóa dòng năng lượng hỗ trợ AI — được thiết kế để mang trí tuệ đến hệ thống khai thác, sưởi ấm và cơ sở hạ tầng.",
+    "section1Title": "Giám sát thời gian thực",
+    "section1Text": "EnergieMIND đang phát triển bảng điều khiển và hệ thống giám sát theo dõi tiêu thụ, sản xuất và cơ hội tối ưu hóa năng lượng trong cơ sở hạ tầng được kết nối.",
+    "section2Title": "Tối ưu hóa hỗ trợ AI",
+    "section2Text": "Mô hình học máy để phân tích mẫu năng lượng, dự đoán nhu cầu và tối ưu hóa lịch vận hành cho hệ thống khai thác và sưởi ấm.",
+    "section3Title": "Điều phối cơ sở hạ tầng",
+    "section3Text": "Kết nối nguồn năng lượng tái tạo, hoạt động khai thác và nhu cầu sưởi ấm thành mạng trí tuệ năng lượng được điều phối."
+  },
+  "miningHeatUtility": {
+    "pageTitle": "Tiện ích nhiệt khai thác",
+    "pageIntro": "Biến sản phẩm phụ tính toán thành năng lượng nhiệt hữu ích cho tòa nhà, trang trại và cơ sở thương mại.",
+    "section1Title": "Khái niệm thu hồi nhiệt",
+    "section1Text": "Phần cứng khai thác tạo ra lượng nhiệt đáng kể. EnergieMIND được thiết kế để thu giữ nhiệt này và chuyển hướng đến các cơ sở cần sưởi ấm — khách sạn, nhà kính, tòa nhà thương mại và hoạt động nông nghiệp.",
+    "section2Title": "Khai thác giá trị kép",
+    "section2Text": "Thay vì coi nhiệt là chất thải, hoạt động khai thác có thể tạo ra cả đầu ra tính toán và năng lượng nhiệt hữu ích — cải thiện hiệu quả năng lượng tổng thể.",
+    "section3Title": "Tích hợp cơ sở",
+    "section3Text": "Hệ thống thu hồi nhiệt được thiết kế để tích hợp với cơ sở hạ tầng HVAC hiện có, cho phép tiện ích nhiệt khai thác mà không cần sửa đổi cơ sở lớn."
+  },
+  "technology": {
+    "pageTitle": "Công nghệ",
+    "pageIntro": "Nền tảng kỹ thuật của EnergieMIND — bảng điều khiển năng lượng, tối ưu hóa AI, hệ thống thu hồi nhiệt và điều phối cơ sở hạ tầng.",
+    "section1Title": "Nền tảng bảng điều khiển năng lượng",
+    "section1Text": "Nền tảng giám sát thống nhất để theo dõi dòng năng lượng, hiệu suất máy khai thác, tỷ lệ thu hồi nhiệt và tình trạng hệ thống trong cơ sở hạ tầng được kết nối.",
+    "section2Title": "Công cụ tối ưu hóa AI",
+    "section2Text": "Mô-đun học máy cho phân tích mẫu năng lượng, dự báo nhu cầu và tối ưu hóa lịch vận hành trong hệ thống khai thác và sưởi ấm.",
+    "section3Title": "Hệ thống thu hồi nhiệt",
+    "section3Text": "Thiết kế kỹ thuật để thu giữ và phân phối nhiệt khai thác đến các cơ sở được kết nối — từ sưởi ấm trực tiếp bằng không khí đến hệ thống trao đổi nhiệt dựa trên nước.",
+    "section4Title": "API cơ sở hạ tầng",
+    "section4Text": "Giao diện tích hợp để kết nối hệ thống năng lượng tái tạo, phần cứng khai thác, cơ sở hạ tầng sưởi ấm và lớp tiện ích ENM."
+  },
+  "footer": {
+    "tagline": "Trí tuệ năng lượng hỗ trợ AI cho cơ sở hạ tầng bền vững.",
+    "company": "TVK Infrastructure & Energy Systems LTD",
+    "rights": "Bảo lưu mọi quyền.",
+    "enmNetwork": "ENM Network",
+    "tvkGroup": "TVK Group",
+    "legal": "EnergieMIND là dự án trí tuệ năng lượng đang phát triển. Không hứa hẹn lợi nhuận đầu tư. Chi tiết token ENM được duy trì tại enm.network."
+  },
+  "common": {
+    "learnMore": "Tìm hiểu thêm",
+    "backToHome": "Về trang chủ",
+    "selectLanguage": "Chọn ngôn ngữ",
+    "statusDeveloping": "Đang phát triển",
+    "statusPlanned": "Đã lên kế hoạch",
+    "statusFuture": "Tương lai",
+    "statusInProgress": "Đang tiến hành"
+  }
+}

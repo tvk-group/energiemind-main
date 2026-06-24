@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "title": "EnergieMIND — Kecerdasan Energi Berbasis AI",
+    "description": "EnergieMIND menghubungkan sistem energi, pemulihan panas penambangan, optimasi AI, dan infrastruktur berkelanjutan menjadi satu lapisan energi cerdas."
+  },
+  "nav": {
+    "home": "Beranda",
+    "mission": "Misi",
+    "energyIntelligence": "Kecerdasan Energi",
+    "miningHeatUtility": "Utilitas Panas Penambangan",
+    "technology": "Teknologi",
+    "pilotProgram": "Program Pilot",
+    "ecosystem": "Ekosistem",
+    "enmToken": "Token ENM",
+    "roadmap": "Peta Jalan",
+    "contact": "Kontak"
+  },
+  "hero": {
+    "headline": "EnergieMIND",
+    "subheadline": "Kecerdasan energi berbasis AI untuk utilitas panas penambangan, infrastruktur berkelanjutan, dan jaringan energi masa depan.",
+    "supporting": "Kecerdasan Energi · Pemulihan Panas Penambangan · Optimasi AI · Infrastruktur Berkelanjutan · Lapisan Utilitas ENM",
+    "ctaExplore": "Jelajahi EnergieMIND",
+    "ctaPilot": "Diskusikan Peluang Pilot",
+    "ctaToken": "Lihat Informasi Token ENM"
+  },
+  "mission": {
+    "title": "Misi",
+    "subtitle": "Menghubungkan energi, penambangan, AI, dan keberlanjutan",
+    "description": "EnergieMIND menghubungkan sistem energi, sistem penambangan, koordinasi AI, dan keberlanjutan menjadi satu konsep infrastruktur energi cerdas. Kami mengembangkan lapisan koordinasi di mana energi komputasi, panas yang dipulihkan, dan kecerdasan infrastruktur bekerja bersama.",
+    "pageTitle": "Misi Kami",
+    "pageIntro": "EnergieMIND dirancang untuk mengubah cara sistem energi dan penambangan berinteraksi — mengubah energi komputasi yang terbuang menjadi panas berguna, kecerdasan, dan nilai infrastruktur berkelanjutan.",
+    "visionTitle": "Visi",
+    "visionText": "Masa depan di mana setiap joule energi komputasi dikoordinasikan secara cerdas — menghasilkan daya hash, panas yang dapat dipulihkan, data operasional, dan peluang optimasi untuk bangunan, pertanian, dan jaringan energi.",
+    "approachTitle": "Pendekatan",
+    "approachText": "Kami menggabungkan pemantauan energi, optimasi berbantuan AI, pemulihan panas penambangan, dan desain infrastruktur berkelanjutan ke dalam platform kecerdasan energi terpadu — saat ini dalam pengembangan dan persiapan pilot."
+  },
+  "problem": {
+    "title": "Masalah",
+    "subtitle": "Sistem energi kekurangan koordinasi dan kecerdasan",
+    "items": {
+      "wastedEnergy": "Energi terbuang pada generasi, distribusi, dan konsumsi.",
+      "wastedHeat": "Panas penambangan terbuang sementara bangunan komersial membutuhkan pemanasan.",
+      "noIntelligence": "Sistem energi kekurangan kecerdasan dan koordinasi waktu nyata.",
+      "infrastructure": "Infrastruktur membutuhkan koordinasi yang lebih baik antara energi, panas, dan komputasi."
+    }
+  },
+  "thesis": {
+    "title": "Tesis EnergieMIND",
+    "subtitle": "Energi komputasi tidak boleh terbuang",
+    "description": "Mesin penambangan dapat menghasilkan lebih dari daya hash. EnergieMIND dirancang untuk menangkap dan mengoordinasikan seluruh rantai nilai infrastruktur energi komputasi.",
+    "outputs": {
+      "hashPower": "Daya hash untuk keamanan jaringan",
+      "heat": "Panas yang dapat dipulihkan untuk bangunan dan fasilitas",
+      "data": "Data operasional dan kinerja energi",
+      "metrics": "Metrik operasional waktu nyata",
+      "optimization": "Peluang optimasi energi"
+    }
+  },
+  "pillars": {
+    "title": "Pilar Inti",
+    "subtitle": "Lima lapisan kecerdasan energi yang saling terhubung",
+    "energyIntelligence": {
+      "title": "Kecerdasan Energi",
+      "description": "Pemantauan, analisis, dan optimasi aliran energi berbantuan AI di sistem penambangan, pemanasan, dan infrastruktur."
+    },
+    "miningHeatUtility": {
+      "title": "Utilitas Panas Penambangan",
+      "description": "Menggunakan panas penambangan untuk rumah, hotel, pertanian, dan fasilitas komersial — mengubah produk sampingan komputasi menjadi energi termal berguna."
+    },
+    "energyDashboard": {
+      "title": "Dasbor Energi",
+      "description": "Memantau konsumsi energi, output penambang, tingkat pemulihan panas, dan kinerja operasional dalam satu tampilan terpadu."
+    },
+    "sustainableInfrastructure": {
+      "title": "Infrastruktur Berkelanjutan",
+      "description": "Menghubungkan energi terbarukan, operasi penambangan, sistem pemanasan, dan efisiensi energi ke dalam infrastruktur terkoordinasi."
+    },
+    "enmUtilityLayer": {
+      "title": "Lapisan Utilitas ENM",
+      "description": "Lapisan koordinasi tokenisasi masa depan untuk utilitas ekosistem — memungkinkan partisipasi dalam jaringan energi EnergieMIND."
+    }
+  },
+  "pilot": {
+    "title": "Program Pilot",
+    "subtitle": "Dirancang untuk pilot komersial masa depan",
+    "description": "EnergieMIND menyiapkan peluang pilot di berbagai jenis fasilitas. Kami mengembangkan solusi untuk organisasi yang tertarik pada utilitas panas penambangan dan kecerdasan energi.",
+    "targets": {
+      "hotels": "Hotel",
+      "commercial": "Bangunan Komersial",
+      "greenhouses": "Rumah Kaca",
+      "farms": "Pertanian",
+      "solar": "Lokasi Surya",
+      "industrial": "Fasilitas Industri",
+      "mining": "Fasilitas Penambangan",
+      "datacenters": "Pusat Data"
+    },
+    "pageTitle": "Program Pilot",
+    "pageIntro": "EnergieMIND berada dalam fase persiapan pilot. Kami merancang model penerapan untuk fasilitas yang dapat memanfaatkan pemulihan panas penambangan, kecerdasan energi, dan optimasi berbantuan AI.",
+    "cta": "Diskusikan Peluang Pilot"
+  },
+  "ecosystem": {
+    "title": "Ekosistem",
+    "subtitle": "Bagian dari ekosistem TVK / EnteleKRON",
+    "description": "EnergieMIND adalah lapisan kecerdasan energi dan infrastruktur berkelanjutan dalam ekosistem yang lebih luas dari kepercayaan, AI, dan infrastruktur.",
+    "layers": {
+      "tvk": {
+        "name": "TVK Group",
+        "role": "Lapisan Holding"
+      },
+      "infrasphere": {
+        "name": "InfraSphere",
+        "role": "Lapisan Infrastruktur"
+      },
+      "sovra": {
+        "name": "SOVRA",
+        "role": "Lapisan Kecerdasan AI"
+      },
+      "entelekron": {
+        "name": "EnteleKRON",
+        "role": "Lapisan Kepercayaan"
+      },
+      "energiemind": {
+        "name": "EnergieMIND",
+        "role": "Lapisan Kecerdasan Energi"
+      },
+      "enm": {
+        "name": "ENM",
+        "role": "Lapisan Token Utilitas"
+      }
+    },
+    "pageTitle": "Ekosistem",
+    "pageIntro": "EnergieMIND beroperasi sebagai lapisan kecerdasan energi dalam ekosistem TVK / EnteleKRON — menghubungkan infrastruktur, AI, kepercayaan, dan koordinasi utilitas."
+  },
+  "enm": {
+    "title": "Token ENM",
+    "subtitle": "Lapisan utilitas untuk ekosistem EnergieMIND",
+    "description": "ENM adalah token Ethereum ERC-20 yang disiapkan untuk lapisan EnergieMIND. Dirancang sebagai token koordinasi utilitas dalam ekosistem — bukan produk investasi.",
+    "contract": "Alamat Kontrak",
+    "contractAddress": "0x00faB8baFfF3f849dd23FF68cfE51d8E3d09937D",
+    "network": "Ethereum (ERC-20)",
+    "riskNotice": "Pemberitahuan Risiko",
+    "riskText": "ENM adalah token utilitas dalam ekosistem EnergieMIND. Bukan produk investasi. Nilai token dapat berfluktuasi. Tidak ada janji pengembalian. Berpartisipasilah hanya setelah memahami risiko. Detail token dan pra-penjualan lengkap tersedia di enm.network.",
+    "cta": "Ke ENM Network",
+    "pageTitle": "Informasi Token ENM",
+    "pageIntro": "ENM berfungsi sebagai lapisan token utilitas untuk ekosistem EnergieMIND. Untuk detail token lengkap, informasi pra-penjualan, dan dokumentasi, kunjungi enm.network.",
+    "utilityTitle": "Tujuan Utilitas",
+    "utilityText": "ENM dirancang untuk koordinasi utilitas ekosistem — memungkinkan partisipasi dalam jaringan kecerdasan energi EnergieMIND. Tidak disajikan sebagai kendaraan investasi.",
+    "disclaimerTitle": "Penafian Penting",
+    "disclaimerText": "Halaman ini hanya menyediakan informasi kontrak dasar. EnergieMIND.com berfokus pada proyek kecerdasan energi. Semua informasi token terperinci, detail pra-penjualan, dan pengungkapan risiko dikelola di enm.network."
+  },
+  "roadmap": {
+    "title": "Peta Jalan",
+    "subtitle": "Tonggak pengembangan",
+    "pageTitle": "Peta Jalan",
+    "pageIntro": "Pengembangan EnergieMIND mengikuti pendekatan bertahap — dari konsep dan arsitektur melalui persiapan pilot hingga penerapan masa depan.",
+    "phases": {
+      "phase1": {
+        "title": "Fase 1 — Konsep & Arsitektur",
+        "status": "Sedang Berlangsung",
+        "items": "Pengembangan konsep kecerdasan energi, desain arsitektur ekosistem, penelitian utilitas panas penambangan"
+      },
+      "phase2": {
+        "title": "Fase 2 — Pengembangan Teknologi",
+        "status": "Dalam Pengembangan",
+        "items": "Pengembangan dasbor energi, modul optimasi AI, desain sistem pemulihan panas"
+      },
+      "phase3": {
+        "title": "Fase 3 — Persiapan Pilot",
+        "status": "Direncanakan",
+        "items": "Identifikasi lokasi pilot, penilaian fasilitas, desain model penerapan"
+      },
+      "phase4": {
+        "title": "Fase 4 — Pilot Komersial",
+        "status": "Masa Depan",
+        "items": "Pilot di hotel, bangunan komersial, dan fasilitas pertanian, validasi kinerja"
+      },
+      "phase5": {
+        "title": "Fase 5 — Perluasan Jaringan",
+        "status": "Masa Depan",
+        "items": "Koordinasi multi-lokasi, aktivasi lapisan utilitas ENM, integrasi ekosistem"
+      }
+    }
+  },
+  "contact": {
+    "title": "Kontak",
+    "subtitle": "Hubungi EnergieMIND",
+    "pageTitle": "Kontak",
+    "pageIntro": "Tertarik pada peluang pilot, kemitraan, atau ingin mempelajari lebih lanjut tentang EnergieMIND? Kami menyambut pertanyaan dari organisasi yang mengeksplorasi kecerdasan energi dan utilitas panas penambangan.",
+    "pilotInquiry": "Pertanyaan Program Pilot",
+    "pilotText": "Untuk organisasi yang tertarik pada penerapan pilot masa depan sistem utilitas panas penambangan dan kecerdasan energi.",
+    "partnershipInquiry": "Pertanyaan Kemitraan",
+    "partnershipText": "Untuk mitra infrastruktur, perusahaan energi, dan integrator teknologi dalam ekosistem.",
+    "generalInquiry": "Pertanyaan Umum",
+    "generalText": "Untuk pertanyaan umum tentang EnergieMIND, ekosistem, atau pengembangan teknologi.",
+    "email": "contact@energiemind.com",
+    "tokenNote": "Untuk pertanyaan khusus token ENM, kunjungi enm.network"
+  },
+  "energyIntelligence": {
+    "pageTitle": "Kecerdasan Energi",
+    "pageIntro": "Pemantauan dan optimasi aliran energi berbantuan AI — dirancang untuk membawa kecerdasan ke sistem penambangan, pemanasan, dan infrastruktur.",
+    "section1Title": "Pemantauan Waktu Nyata",
+    "section1Text": "EnergieMIND mengembangkan dasbor dan sistem pemantauan yang melacak konsumsi, produksi, dan peluang optimasi energi di infrastruktur terhubung.",
+    "section2Title": "Optimasi Berbantuan AI",
+    "section2Text": "Model pembelajaran mesin untuk menganalisis pola energi, memprediksi permintaan, dan mengoptimalkan jadwal operasional sistem penambangan dan pemanasan.",
+    "section3Title": "Koordinasi Infrastruktur",
+    "section3Text": "Menghubungkan sumber energi terbarukan, operasi penambangan, dan permintaan pemanasan ke dalam jaringan kecerdasan energi terkoordinasi."
+  },
+  "miningHeatUtility": {
+    "pageTitle": "Utilitas Panas Penambangan",
+    "pageIntro": "Mengubah produk sampingan komputasi menjadi energi termal berguna untuk bangunan, pertanian, dan fasilitas komersial.",
+    "section1Title": "Konsep Pemulihan Panas",
+    "section1Text": "Perangkat keras penambangan menghasilkan output termal signifikan. EnergieMIND dirancang untuk menangkap panas ini dan mengarahkannya ke fasilitas yang membutuhkan pemanasan — hotel, rumah kaca, bangunan komersial, dan operasi pertanian.",
+    "section2Title": "Penambangan Nilai Ganda",
+    "section2Text": "Alih-alih memperlakukan panas sebagai limbah, operasi penambangan dapat menghasilkan output komputasi dan energi termal berguna — meningkatkan efisiensi energi secara keseluruhan.",
+    "section3Title": "Integrasi Fasilitas",
+    "section3Text": "Sistem pemulihan panas dirancang untuk integrasi dengan infrastruktur HVAC yang ada, memungkinkan utilitas panas penambangan tanpa modifikasi fasilitas besar."
+  },
+  "technology": {
+    "pageTitle": "Teknologi",
+    "pageIntro": "Fondasi teknis EnergieMIND — dasbor energi, optimasi AI, sistem pemulihan panas, dan koordinasi infrastruktur.",
+    "section1Title": "Platform Dasbor Energi",
+    "section1Text": "Platform pemantauan terpadu untuk melacak aliran energi, kinerja penambang, tingkat pemulihan panas, dan kesehatan sistem di infrastruktur terhubung.",
+    "section2Title": "Mesin Optimasi AI",
+    "section2Text": "Modul pembelajaran mesin untuk analisis pola energi, peramalan permintaan, dan optimasi jadwal operasional di sistem penambangan dan pemanasan.",
+    "section3Title": "Sistem Pemulihan Panas",
+    "section3Text": "Desain teknik untuk menangkap dan mendistribusikan panas penambangan ke fasilitas terhubung — dari pemanasan udara langsung hingga sistem pertukaran panas berbasis air.",
+    "section4Title": "API Infrastruktur",
+    "section4Text": "Antarmuka integrasi untuk menghubungkan sistem energi terbarukan, perangkat keras penambangan, infrastruktur pemanasan, dan lapisan utilitas ENM."
+  },
+  "footer": {
+    "tagline": "Kecerdasan energi berbasis AI untuk infrastruktur berkelanjutan.",
+    "company": "TVK Infrastructure & Energy Systems LTD",
+    "rights": "Hak cipta dilindungi.",
+    "enmNetwork": "ENM Network",
+    "tvkGroup": "TVK Group",
+    "legal": "EnergieMIND adalah proyek kecerdasan energi yang sedang berkembang. Tidak ada janji pengembalian investasi. Detail token ENM dikelola di enm.network."
+  },
+  "common": {
+    "learnMore": "Pelajari Lebih Lanjut",
+    "backToHome": "Kembali ke Beranda",
+    "selectLanguage": "Pilih Bahasa",
+    "statusDeveloping": "Dalam Pengembangan",
+    "statusPlanned": "Direncanakan",
+    "statusFuture": "Masa Depan",
+    "statusInProgress": "Sedang Berlangsung"
+  }
+}

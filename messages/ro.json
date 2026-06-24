@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "title": "EnergieMIND — Inteligență energetică bazată pe AI",
+    "description": "EnergieMIND conectează sistemele energetice, recuperarea căldurii din minare, optimizarea AI și infrastructura durabilă într-un singur strat energetic inteligent."
+  },
+  "nav": {
+    "home": "Acasă",
+    "mission": "Misiune",
+    "energyIntelligence": "Inteligență energetică",
+    "miningHeatUtility": "Utilitate termică minieră",
+    "technology": "Tehnologie",
+    "pilotProgram": "Program pilot",
+    "ecosystem": "Ecosistem",
+    "enmToken": "Token ENM",
+    "roadmap": "Foaie de parcurs",
+    "contact": "Contact"
+  },
+  "hero": {
+    "headline": "EnergieMIND",
+    "subheadline": "Inteligență energetică bazată pe AI pentru utilitate termică minieră, infrastructură durabilă și rețele energetice viitoare.",
+    "supporting": "Inteligență energetică · Recuperare căldură minieră · Optimizare AI · Infrastructură durabilă · Strat utilitar ENM",
+    "ctaExplore": "Explorează EnergieMIND",
+    "ctaPilot": "Discută oportunități pilot",
+    "ctaToken": "Vezi informații token ENM"
+  },
+  "mission": {
+    "title": "Misiune",
+    "subtitle": "Conectarea energiei, minării, AI și durabilității",
+    "description": "EnergieMIND conectează sistemele energetice, sistemele de minare, coordonarea AI și durabilitatea într-un concept de infrastructură energetică inteligentă. Dezvoltăm stratul de coordonare unde energia computațională, căldura recuperată și inteligența infrastructurii lucrează împreună.",
+    "pageTitle": "Misiunea noastră",
+    "pageIntro": "EnergieMIND este conceput pentru a transforma modul în care sistemele energetice și de minare interacționează — transformând energia computațională irosită în căldură utilă, inteligență și valoare de infrastructură durabilă.",
+    "visionTitle": "Viziune",
+    "visionText": "Un viitor în care fiecare joule de energie computațională este coordonat inteligent — producând putere hash, căldură recuperabilă, date operaționale și oportunități de optimizare pentru clădiri, ferme și rețele energetice.",
+    "approachTitle": "Abordare",
+    "approachText": "Combinăm monitorizarea energiei, optimizarea asistată de AI, recuperarea căldurii din minare și proiectarea infrastructurii durabile într-o platformă unificată de inteligență energetică — în prezent în dezvoltare și pregătire pilot."
+  },
+  "problem": {
+    "title": "Problema",
+    "subtitle": "Sistemelor energetice le lipsește coordonarea și inteligența",
+    "items": {
+      "wastedEnergy": "Energia este irosită la generare, distribuție și consum.",
+      "wastedHeat": "Căldura din minare este irosită în timp ce clădirile comerciale au nevoie de încălzire.",
+      "noIntelligence": "Sistemelor energetice le lipsește inteligența și coordonarea în timp real.",
+      "infrastructure": "Infrastructura are nevoie de o coordonare mai bună între energie, căldură și calcul."
+    }
+  },
+  "thesis": {
+    "title": "Teza EnergieMIND",
+    "subtitle": "Energia computațională nu ar trebui irosită",
+    "description": "Mașinile de minare pot produce mai mult decât putere hash. EnergieMIND este conceput pentru a captura și coordona întregul lanț de valoare al infrastructurii energetice computaționale.",
+    "outputs": {
+      "hashPower": "Putere hash pentru securitatea rețelei",
+      "heat": "Căldură recuperabilă pentru clădiri și instalații",
+      "data": "Date operaționale și de performanță energetică",
+      "metrics": "Metrici operaționale în timp real",
+      "optimization": "Oportunități de optimizare energetică"
+    }
+  },
+  "pillars": {
+    "title": "Piloni fundamentali",
+    "subtitle": "Cinci straturi interconectate de inteligență energetică",
+    "energyIntelligence": {
+      "title": "Inteligență energetică",
+      "description": "Monitorizare, analiză și optimizare asistată de AI a fluxurilor energetice în sistemele de minare, încălzire și infrastructură."
+    },
+    "miningHeatUtility": {
+      "title": "Utilitate termică minieră",
+      "description": "Utilizarea căldurii din minare pentru locuințe, hoteluri, ferme și instalații comerciale — transformarea subprodusului computațional în energie termică utilă."
+    },
+    "energyDashboard": {
+      "title": "Panou energetic",
+      "description": "Monitorizarea consumului de energie, producției minerilor, ratei de recuperare a căldurii și performanței operaționale într-o vizualizare unificată."
+    },
+    "sustainableInfrastructure": {
+      "title": "Infrastructură durabilă",
+      "description": "Conectarea energiei regenerabile, operațiunilor de minare, sistemelor de încălzire și eficienței energetice în infrastructură coordonată."
+    },
+    "enmUtilityLayer": {
+      "title": "Strat utilitar ENM",
+      "description": "Viitor strat de coordonare tokenizat pentru utilitatea ecosistemului — permite participarea la rețeaua energetică EnergieMIND."
+    }
+  },
+  "pilot": {
+    "title": "Program pilot",
+    "subtitle": "Conceput pentru viitoare proiecte pilot comerciale",
+    "description": "EnergieMIND pregătește oportunități pilot pentru diverse tipuri de instalații. Dezvoltăm soluții pentru organizații interesate de utilitatea termică minieră și inteligența energetică.",
+    "targets": {
+      "hotels": "Hoteluri",
+      "commercial": "Clădiri comerciale",
+      "greenhouses": "Sere",
+      "farms": "Ferme",
+      "solar": "Instalații solare",
+      "industrial": "Instalații industriale",
+      "mining": "Instalații miniere",
+      "datacenters": "Centre de date"
+    },
+    "pageTitle": "Program pilot",
+    "pageIntro": "EnergieMIND este în faza de pregătire pilot. Proiectăm modele de implementare pentru instalații care pot beneficia de recuperarea căldurii din minare, inteligența energetică și optimizarea asistată de AI.",
+    "cta": "Discută oportunități pilot"
+  },
+  "ecosystem": {
+    "title": "Ecosistem",
+    "subtitle": "Parte din ecosistemul TVK / EnteleKRON",
+    "description": "EnergieMIND este stratul de inteligență energetică și infrastructură durabilă în cadrul unui ecosistem mai larg de încredere, AI și infrastructură.",
+    "layers": {
+      "tvk": {
+        "name": "TVK Group",
+        "role": "Strat holding"
+      },
+      "infrasphere": {
+        "name": "InfraSphere",
+        "role": "Strat infrastructură"
+      },
+      "sovra": {
+        "name": "SOVRA",
+        "role": "Strat inteligență AI"
+      },
+      "entelekron": {
+        "name": "EnteleKRON",
+        "role": "Strat încredere"
+      },
+      "energiemind": {
+        "name": "EnergieMIND",
+        "role": "Strat inteligență energetică"
+      },
+      "enm": {
+        "name": "ENM",
+        "role": "Strat token utilitar"
+      }
+    },
+    "pageTitle": "Ecosistem",
+    "pageIntro": "EnergieMIND operează ca strat de inteligență energetică în ecosistemul TVK / EnteleKRON — conectând infrastructura, AI, încrederea și coordonarea utilitară."
+  },
+  "enm": {
+    "title": "Token ENM",
+    "subtitle": "Strat utilitar pentru ecosistemul EnergieMIND",
+    "description": "ENM este tokenul Ethereum ERC-20 pregătit pentru stratul EnergieMIND. Este conceput ca token de coordonare utilitară în ecosistem — nu ca produs de investiții.",
+    "contract": "Adresa contractului",
+    "contractAddress": "0x00faB8baFfF3f849dd23FF68cfE51d8E3d09937D",
+    "network": "Ethereum (ERC-20)",
+    "riskNotice": "Notificare de risc",
+    "riskText": "ENM este un token utilitar în ecosistemul EnergieMIND. Nu este un produs de investiții. Valorile tokenului pot fluctua. Nu se promit randamente. Participați doar după înțelegerea riscurilor. Detaliile complete ale tokenului și pre-vânzării sunt pe enm.network.",
+    "cta": "Mergi la ENM Network",
+    "pageTitle": "Informații token ENM",
+    "pageIntro": "ENM servește ca strat de token utilitar pentru ecosistemul EnergieMIND. Pentru detalii complete, informații pre-vânzare și documentație, vizitați enm.network.",
+    "utilityTitle": "Scop utilitar",
+    "utilityText": "ENM este conceput pentru coordonarea utilitară a ecosistemului — permite participarea la rețeaua de inteligență energetică EnergieMIND. Nu este prezentat ca vehicul de investiții.",
+    "disclaimerTitle": "Declinare importantă a responsabilității",
+    "disclaimerText": "Această pagină oferă doar informații de bază despre contract. EnergieMIND.com se concentrează pe proiectul de inteligență energetică. Toate informațiile detaliate despre token, detaliile pre-vânzării și dezvăluirile de risc sunt pe enm.network."
+  },
+  "roadmap": {
+    "title": "Foaie de parcurs",
+    "subtitle": "Repere de dezvoltare",
+    "pageTitle": "Foaie de parcurs",
+    "pageIntro": "Dezvoltarea EnergieMIND urmează o abordare în faze — de la concept și arhitectură prin pregătirea pilotului la implementarea viitoare.",
+    "phases": {
+      "phase1": {
+        "title": "Faza 1 — Concept și arhitectură",
+        "status": "În curs",
+        "items": "Dezvoltarea conceptului de inteligență energetică, proiectarea arhitecturii ecosistemului, cercetare utilitate termică minieră"
+      },
+      "phase2": {
+        "title": "Faza 2 — Dezvoltare tehnologică",
+        "status": "În dezvoltare",
+        "items": "Dezvoltarea panoului energetic, module optimizare AI, proiectare sisteme recuperare căldură"
+      },
+      "phase3": {
+        "title": "Faza 3 — Pregătire pilot",
+        "status": "Planificat",
+        "items": "Identificarea siturilor pilot, evaluarea instalațiilor, proiectarea modelelor de implementare"
+      },
+      "phase4": {
+        "title": "Faza 4 — Proiecte pilot comerciale",
+        "status": "Viitor",
+        "items": "Proiecte pilot în hoteluri, clădiri comerciale și instalații agricole, validare performanță"
+      },
+      "phase5": {
+        "title": "Faza 5 — Extinderea rețelei",
+        "status": "Viitor",
+        "items": "Coordonare multi-sit, activare strat utilitar ENM, integrare ecosistem"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Contactați EnergieMIND",
+    "pageTitle": "Contact",
+    "pageIntro": "Interesat de oportunități pilot, parteneriate sau doriți să aflați mai multe despre EnergieMIND? Primim cu plăcere solicitări de la organizații care explorează inteligența energetică și utilitatea termică minieră.",
+    "pilotInquiry": "Solicitări program pilot",
+    "pilotText": "Pentru organizații interesate de viitoare implementări pilot ale sistemelor de utilitate termică minieră și inteligență energetică.",
+    "partnershipInquiry": "Solicitări parteneriat",
+    "partnershipText": "Pentru parteneri de infrastructură, companii energetice și integratori tehnologici din ecosistem.",
+    "generalInquiry": "Solicitări generale",
+    "generalText": "Pentru întrebări generale despre EnergieMIND, ecosistem sau dezvoltare tehnologică.",
+    "email": "contact@energiemind.com",
+    "tokenNote": "Pentru solicitări specifice tokenului ENM, vizitați enm.network"
+  },
+  "energyIntelligence": {
+    "pageTitle": "Inteligență energetică",
+    "pageIntro": "Monitorizare și optimizare asistată de AI a fluxurilor energetice — concepută pentru a aduce inteligență sistemelor de minare, încălzire și infrastructură.",
+    "section1Title": "Monitorizare în timp real",
+    "section1Text": "EnergieMIND dezvoltă panouri și sisteme de monitorizare care urmăresc consumul, producția și oportunitățile de optimizare energetică în infrastructura conectată.",
+    "section2Title": "Optimizare asistată de AI",
+    "section2Text": "Modele de învățare automată pentru analiza modelelor energetice, predicția cererii și optimizarea programelor operaționale ale sistemelor de minare și încălzire.",
+    "section3Title": "Coordonare infrastructură",
+    "section3Text": "Conectarea surselor de energie regenerabilă, operațiunilor de minare și cererii de încălzire într-o rețea coordonată de inteligență energetică."
+  },
+  "miningHeatUtility": {
+    "pageTitle": "Utilitate termică minieră",
+    "pageIntro": "Transformarea subprodusului computațional în energie termică utilă pentru clădiri, ferme și instalații comerciale.",
+    "section1Title": "Concept recuperare căldură",
+    "section1Text": "Hardware-ul de minare generează o ieșire termică semnificativă. EnergieMIND este conceput pentru a captura această căldură și a o redirecționa către instalații care au nevoie de încălzire — hoteluri, sere, clădiri comerciale și operațiuni agricole.",
+    "section2Title": "Minare cu dublă valoare",
+    "section2Text": "În loc să trateze căldura ca deșeu, operațiunile de minare pot produce atât ieșire computațională cât și energie termică utilă — îmbunătățind eficiența energetică generală.",
+    "section3Title": "Integrare instalații",
+    "section3Text": "Sisteme de recuperare a căldurii concepute pentru integrare cu infrastructura HVAC existentă, permițând utilitatea termică minieră fără modificări majore ale instalațiilor."
+  },
+  "technology": {
+    "pageTitle": "Tehnologie",
+    "pageIntro": "Fundamentul tehnic al EnergieMIND — panouri energetice, optimizare AI, sisteme de recuperare a căldurii și coordonare infrastructură.",
+    "section1Title": "Platformă panou energetic",
+    "section1Text": "Platformă unificată de monitorizare pentru urmărirea fluxurilor energetice, performanței minerilor, ratelor de recuperare a căldurii și stării sistemului în infrastructura conectată.",
+    "section2Title": "Motor optimizare AI",
+    "section2Text": "Module de învățare automată pentru analiza modelelor energetice, prognoza cererii și optimizarea programelor operaționale în sistemele de minare și încălzire.",
+    "section3Title": "Sisteme recuperare căldură",
+    "section3Text": "Proiecte inginerești pentru capturarea și distribuția căldurii din minare către instalații conectate — de la încălzire directă cu aer la sisteme de schimb termic pe apă.",
+    "section4Title": "API-uri infrastructură",
+    "section4Text": "Interfețe de integrare pentru conectarea sistemelor de energie regenerabilă, hardware de minare, infrastructură de încălzire și stratul utilitar ENM."
+  },
+  "footer": {
+    "tagline": "Inteligență energetică bazată pe AI pentru infrastructură durabilă.",
+    "company": "TVK Infrastructure & Energy Systems LTD",
+    "rights": "Toate drepturile rezervate.",
+    "enmNetwork": "ENM Network",
+    "tvkGroup": "TVK Group",
+    "legal": "EnergieMIND este un proiect de inteligență energetică în dezvoltare. Nu se promit randamente la investiții. Detaliile tokenului ENM sunt pe enm.network."
+  },
+  "common": {
+    "learnMore": "Află mai mult",
+    "backToHome": "Înapoi acasă",
+    "selectLanguage": "Selectează limba",
+    "statusDeveloping": "În dezvoltare",
+    "statusPlanned": "Planificat",
+    "statusFuture": "Viitor",
+    "statusInProgress": "În curs"
+  }
+}

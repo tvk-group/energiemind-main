@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "title": "EnergieMIND — AI-driven energiintelligens",
+    "description": "EnergieMIND kopplar energisystem, återvinning av gruvvärme, AI-optimering och hållbar infrastruktur till ett intelligent energilager."
+  },
+  "nav": {
+    "home": "Hem",
+    "mission": "Mission",
+    "energyIntelligence": "Energiintelligens",
+    "miningHeatUtility": "Gruvvärme",
+    "technology": "Teknologi",
+    "pilotProgram": "Pilotprogram",
+    "ecosystem": "Ekosystem",
+    "enmToken": "ENM Token",
+    "roadmap": "Färdplan",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "headline": "EnergieMIND",
+    "subheadline": "AI-driven energiintelligens för gruvvärme, hållbar infrastruktur och framtidens energinät.",
+    "supporting": "Energiintelligens · Återvinning av gruvvärme · AI-optimering · Hållbar infrastruktur · ENM Utility Layer",
+    "ctaExplore": "Utforska EnergieMIND",
+    "ctaPilot": "Diskutera pilotmöjligheter",
+    "ctaToken": "Visa ENM Token-information"
+  },
+  "mission": {
+    "title": "Mission",
+    "subtitle": "Koppla energi, gruvdrift, AI och hållbarhet",
+    "description": "EnergieMIND kopplar energisystem, gruvsystem, AI-koordinering och hållbarhet till ett intelligent energiinfrastrukturkoncept. Vi utvecklar koordinationslagret där beräkningsenergi, återvunnen värme och infrastrukturintelligens samverkar.",
+    "pageTitle": "Vårt uppdrag",
+    "pageIntro": "EnergieMIND är utformat för att transformera hur energi- och gruvsystem interagerar — omvandla bortkastad beräkningsenergi till användbar värme, intelligens och hållbart infrastrukturvärde.",
+    "visionTitle": "Vision",
+    "visionText": "En framtid där varje joule beräkningsenergi koordineras intelligent — producerar hashkraft, återvinningsbar värme, operativa data och optimeringsmöjligheter för byggnader, gårdar och energinät.",
+    "approachTitle": "Tillvägagångssätt",
+    "approachText": "Vi kombinerar energiövervakning, AI-assisterad optimering, återvinning av gruvvärme och hållbar infrastrukturdesign i en enhetlig energiintelligensplattform — för närvarande under utveckling och pilotförberedelse."
+  },
+  "problem": {
+    "title": "Problemet",
+    "subtitle": "Energisystem saknar koordinering och intelligens",
+    "items": {
+      "wastedEnergy": "Energi slösas bort vid produktion, distribution och förbrukning.",
+      "wastedHeat": "Gruvvärme slösas bort medan kommersiella byggnader behöver värme.",
+      "noIntelligence": "Energisystem saknar realtidsintelligens och koordinering.",
+      "infrastructure": "Infrastruktur behöver bättre koordinering mellan energi, värme och beräkning."
+    }
+  },
+  "thesis": {
+    "title": "EnergieMIND-teorin",
+    "subtitle": "Beräkningsenergi bör inte slösas bort",
+    "description": "Gruvmaskiner kan producera mer än hashkraft. EnergieMIND är utformat för att fånga och koordinera hela värdekedjan för beräkningsenergiinfrastruktur.",
+    "outputs": {
+      "hashPower": "Hashkraft för nätverkssäkerhet",
+      "heat": "Återvinningsbar värme för byggnader och anläggningar",
+      "data": "Operativa och energiprestandadata",
+      "metrics": "Operativa mätvärden i realtid",
+      "optimization": "Möjligheter till energioptimering"
+    }
+  },
+  "pillars": {
+    "title": "Kärnpelare",
+    "subtitle": "Fem sammankopplade lager av energiintelligens",
+    "energyIntelligence": {
+      "title": "Energiintelligens",
+      "description": "AI-assisterad övervakning, analys och optimering av energiflöden i gruv-, värme- och infrastruktursystem."
+    },
+    "miningHeatUtility": {
+      "title": "Gruvvärme",
+      "description": "Användning av gruvvärme för hem, hotell, gårdar och kommersiella anläggningar — omvandla beräkningsbiprodukt till användbar termisk energi."
+    },
+    "energyDashboard": {
+      "title": "Energipanel",
+      "description": "Övervakning av energiförbrukning, minerutdata, värmeåtervinningsgrader och operativ prestanda i en enhetlig vy."
+    },
+    "sustainableInfrastructure": {
+      "title": "Hållbar infrastruktur",
+      "description": "Koppling av förnybar energi, gruvdrift, värmesystem och energieffektivitet till koordinerad infrastruktur."
+    },
+    "enmUtilityLayer": {
+      "title": "ENM Utility Layer",
+      "description": "Framtida tokeniserat koordinationslager för ekosystemnytta — möjliggör deltagande i EnergieMIND-energinätet."
+    }
+  },
+  "pilot": {
+    "title": "Pilotprogram",
+    "subtitle": "Utformat för framtida kommersiella piloter",
+    "description": "EnergieMIND förbereder pilotmöjligheter för olika typer av anläggningar. Vi utvecklar lösningar för organisationer intresserade av gruvvärme och energiintelligens.",
+    "targets": {
+      "hotels": "Hotell",
+      "commercial": "Kommersiella byggnader",
+      "greenhouses": "Växthus",
+      "farms": "Gårdar",
+      "solar": "Solanläggningar",
+      "industrial": "Industrianläggningar",
+      "mining": "Gruvanläggningar",
+      "datacenters": "Datacenter"
+    },
+    "pageTitle": "Pilotprogram",
+    "pageIntro": "EnergieMIND är i pilotförberedelsefas. Vi designar distributionsmodeller för anläggningar som kan dra nytta av gruvvärmeåtervinning, energiintelligens och AI-assisterad optimering.",
+    "cta": "Diskutera pilotmöjligheter"
+  },
+  "ecosystem": {
+    "title": "Ekosystem",
+    "subtitle": "Del av TVK / EnteleKRON-ekosystemet",
+    "description": "EnergieMIND är energiintelligens- och hållbar infrastrukturlager inom ett bredare ekosystem av förtroende, AI och infrastruktur.",
+    "layers": {
+      "tvk": {
+        "name": "TVK Group",
+        "role": "Holdinglager"
+      },
+      "infrasphere": {
+        "name": "InfraSphere",
+        "role": "Infrastrukturlager"
+      },
+      "sovra": {
+        "name": "SOVRA",
+        "role": "AI-intelligenslager"
+      },
+      "entelekron": {
+        "name": "EnteleKRON",
+        "role": "Förtroendelager"
+      },
+      "energiemind": {
+        "name": "EnergieMIND",
+        "role": "Energiintelligenslager"
+      },
+      "enm": {
+        "name": "ENM",
+        "role": "Utility-tokenlager"
+      }
+    },
+    "pageTitle": "Ekosystem",
+    "pageIntro": "EnergieMIND fungerar som energiintelligenslager inom TVK / EnteleKRON-ekosystemet — kopplar infrastruktur, AI, förtroende och utility-koordinering."
+  },
+  "enm": {
+    "title": "ENM Token",
+    "subtitle": "Utilitylager för EnergieMIND-ekosystemet",
+    "description": "ENM är Ethereum ERC-20-token förberedd för EnergieMIND-lagret. Den är utformad som utility-koordineringstoken inom ekosystemet — inte som investeringsprodukt.",
+    "contract": "Kontraktsadress",
+    "contractAddress": "0x00faB8baFfF3f849dd23FF68cfE51d8E3d09937D",
+    "network": "Ethereum (ERC-20)",
+    "riskNotice": "Riskmeddelande",
+    "riskText": "ENM är en utility-token inom EnergieMIND-ekosystemet. Det är inte en investeringsprodukt. Tokenvärden kan fluktuera. Inga avkastningar utlovas. Delta endast efter att ha förstått riskerna. Fullständiga token- och försäljningsdetaljer finns på enm.network.",
+    "cta": "Gå till ENM Network",
+    "pageTitle": "ENM Token-information",
+    "pageIntro": "ENM fungerar som utility-tokenlager för EnergieMIND-ekosystemet. För fullständiga tokendetaljer, försäljningsinformation och dokumentation, besök enm.network.",
+    "utilityTitle": "Utility-syfte",
+    "utilityText": "ENM är utformat för ekosystem utility-koordinering — möjliggör deltagande i EnergieMIND energiintelligensnät. Den presenteras inte som investeringsfordon.",
+    "disclaimerTitle": "Viktigt ansvarsfriskrivande",
+    "disclaimerText": "Denna sida ger endast grundläggande kontraktsinformation. EnergieMIND.com fokuserar på energiintelligensprojektet. All detaljerad tokeninformation, försäljningsdetaljer och riskupplysningar underhålls på enm.network."
+  },
+  "roadmap": {
+    "title": "Färdplan",
+    "subtitle": "Utvecklingsmilstolpar",
+    "pageTitle": "Färdplan",
+    "pageIntro": "EnergieMIND-utveckling följer en fasad metod — från koncept och arkitektur genom pilotförberedelse till framtida distribution.",
+    "phases": {
+      "phase1": {
+        "title": "Fas 1 — Koncept och arkitektur",
+        "status": "Pågår",
+        "items": "Utveckling av energiintelligenskoncept, ekosystemarkitekturdesign, forskning om gruvvärme"
+      },
+      "phase2": {
+        "title": "Fas 2 — Teknikutveckling",
+        "status": "Under utveckling",
+        "items": "Utveckling av energipanel, AI-optimeringsmoduler, design av värmeåtervinningssystem"
+      },
+      "phase3": {
+        "title": "Fas 3 — Pilotförberedelse",
+        "status": "Planerad",
+        "items": "Identifiering av pilotsajter, anläggningsbedömning, design av distributionsmodeller"
+      },
+      "phase4": {
+        "title": "Fas 4 — Kommersiella piloter",
+        "status": "Framtid",
+        "items": "Piloter i hotell, kommersiella byggnader och jordbruksanläggningar, prestandavalidering"
+      },
+      "phase5": {
+        "title": "Fas 5 — Nätverksexpansion",
+        "status": "Framtid",
+        "items": "Multi-site-koordinering, aktivering av ENM Utility Layer, ekosystemintegration"
+      }
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Kontakta EnergieMIND",
+    "pageTitle": "Kontakt",
+    "pageIntro": "Intresserad av pilotmöjligheter, partnerskap eller att lära mer om EnergieMIND? Vi välkomnar förfrågningar från organisationer som utforskar energiintelligens och gruvvärme.",
+    "pilotInquiry": "Förfrågningar om pilotprogram",
+    "pilotText": "För organisationer intresserade av framtida pilotdistributioner av gruvvärme- och energiintelligenssystem.",
+    "partnershipInquiry": "Partnerskapsförfrågningar",
+    "partnershipText": "För infrastrukturpartners, energibolag och teknikintegratörer inom ekosystemet.",
+    "generalInquiry": "Allmänna förfrågningar",
+    "generalText": "För allmänna frågor om EnergieMIND, ekosystemet eller teknikutveckling.",
+    "email": "contact@energiemind.com",
+    "tokenNote": "För ENM-token-specifika förfrågningar, besök enm.network"
+  },
+  "energyIntelligence": {
+    "pageTitle": "Energiintelligens",
+    "pageIntro": "AI-assisterad övervakning och optimering av energiflöden — utformad för att ge intelligens till gruv-, värme- och infrastruktursystem.",
+    "section1Title": "Realtidsövervakning",
+    "section1Text": "EnergieMIND utvecklar paneler och övervakningssystem som spårar energiförbrukning, produktion och optimeringsmöjligheter i ansluten infrastruktur.",
+    "section2Title": "AI-assisterad optimering",
+    "section2Text": "Maskininlärningsmodeller utformade för att analysera energimönster, förutsäga efterfrågan och optimera driftscheman för gruv- och värmesystem.",
+    "section3Title": "Infrastrukturkoordinering",
+    "section3Text": "Koppling av förnybara energikällor, gruvdrift och värmeefterfrågan till ett koordinerat energiintelligensnät."
+  },
+  "miningHeatUtility": {
+    "pageTitle": "Gruvvärme",
+    "pageIntro": "Omvandla beräkningsbiprodukt till användbar termisk energi för byggnader, gårdar och kommersiella anläggningar.",
+    "section1Title": "Värmeåtervinningskoncept",
+    "section1Text": "Gruvhårdvara genererar betydande termisk output. EnergieMIND är utformat för att fånga denna värme och dirigera den till anläggningar som behöver värme — hotell, växthus, kommersiella byggnader och jordbruksverksamhet.",
+    "section2Title": "Dual-value mining",
+    "section2Text": "Istället för att behandla värme som avfall kan gruvdrift producera både beräkningsoutput och användbar termisk energi — förbättra den totala energieffektiviteten.",
+    "section3Title": "Anläggningsintegration",
+    "section3Text": "Värmeåtervinningssystem utformade för integration med befintlig HVAC-infrastruktur, möjliggör gruvvärme utan större anläggningsändringar."
+  },
+  "technology": {
+    "pageTitle": "Teknologi",
+    "pageIntro": "Den tekniska grunden för EnergieMIND — energipaneler, AI-optimering, värmeåtervinningssystem och infrastrukturkoordinering.",
+    "section1Title": "Energipanelplattform",
+    "section1Text": "En enhetlig övervakningsplattform utformad för att spåra energiflöden, minerprestanda, värmeåtervinningsgrader och systemhälsa i ansluten infrastruktur.",
+    "section2Title": "AI-optimeringsmotor",
+    "section2Text": "Maskininlärningsmoduler för energimönsteranalys, efterfrågeprognos och optimering av driftscheman i gruv- och värmesystem.",
+    "section3Title": "Värmeåtervinningssystem",
+    "section3Text": "Ingenjörsdesign för att fånga och distribuera gruvvärme till anslutna anläggningar — från direkt luftvärme till vattenbaserade värmeväxlingssystem.",
+    "section4Title": "Infrastruktur-API:er",
+    "section4Text": "Integrationsgränssnitt utformade för att koppla förnybara energisystem, gruvhårdvara, värmeinfrastruktur och ENM Utility Layer."
+  },
+  "footer": {
+    "tagline": "AI-driven energiintelligens för hållbar infrastruktur.",
+    "company": "TVK Infrastructure & Energy Systems LTD",
+    "rights": "Alla rättigheter förbehållna.",
+    "enmNetwork": "ENM Network",
+    "tvkGroup": "TVK Group",
+    "legal": "EnergieMIND är ett utvecklande energiintelligensprojekt. Inga investeringsavkastningar utlovas. ENM-tokendetaljer underhålls på enm.network."
+  },
+  "common": {
+    "learnMore": "Läs mer",
+    "backToHome": "Tillbaka till hem",
+    "selectLanguage": "Välj språk",
+    "statusDeveloping": "Under utveckling",
+    "statusPlanned": "Planerad",
+    "statusFuture": "Framtid",
+    "statusInProgress": "Pågår"
+  }
+}

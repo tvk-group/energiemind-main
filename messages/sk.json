@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "title": "EnergieMIND — Energetická inteligencia poháňaná AI",
+    "description": "EnergieMIND spája energetické systémy, využitie tepla z ťažby, optimalizáciu AI a udržateľnú infraštruktúru do jednej inteligentnej energetickej vrstvy."
+  },
+  "nav": {
+    "home": "Domov",
+    "mission": "Misia",
+    "energyIntelligence": "Energetická inteligence",
+    "miningHeatUtility": "Využitie tepla z ťažby",
+    "technology": "Technologie",
+    "pilotProgram": "Pilotný program",
+    "ecosystem": "Ekosystém",
+    "enmToken": "Token ENM",
+    "roadmap": "Plán",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "headline": "EnergieMIND",
+    "subheadline": "Energetická inteligencia poháňaná AI pre využitie tepla z ťažby, udržateľnú infraštruktúru a budúce energetické siete.",
+    "supporting": "Energetická inteligencia · Využitie tepla z ťažby · Optimalizácia AI · Udržateľná infraštruktúra · Utility vrstva ENM",
+    "ctaExplore": "Preskúmajte EnergieMIND",
+    "ctaPilot": "Prediskutujte pilotné príležitosti",
+    "ctaToken": "Zobraziť informácie o ENM tokene"
+  },
+  "mission": {
+    "title": "Misia",
+    "subtitle": "Spojenie energie, ťažby, AI a udržateľnosti",
+    "description": "EnergieMIND spája energetické systémy, ťažobný systémy, koordinaci AI a udržitelnost do jednoho konceptu inteligentní energetické infrastruktury. Vyvíjame koordinační vrstvu, kde výpočetní energie, získané teplo a inteligence infrastruktury spolupracují.",
+    "pageTitle": "Naša misia",
+    "pageIntro": "EnergieMIND je navrhnutý tak, aby transformoval způsob interakce energetických a ťažobných systémů — proměňuje premrhanú výpočetní energii v užitečné teplo, inteligenci a hodnotu udržitelné infrastruktury.",
+    "visionTitle": "Vize",
+    "visionText": "Budúcnosť, kde je každý joule výpočetní energie inteligentně koordinován — produkuje hash výkon, získatelné teplo, provozní data a příležitosti k optimalizaci pro budovy, farmy a energetické sítě.",
+    "approachTitle": "Prístup",
+    "approachText": "Kombinujeme monitorování energie, optimalizaci s podporou AI, využití tepla z ťažby a návrh udržitelné infrastruktury do jednotné platformy energetické inteligence — v současnosti ve vývoji a přípravě pilotu."
+  },
+  "problem": {
+    "title": "Problém",
+    "subtitle": "Energetickým systémům chýba koordinace a inteligence",
+    "items": {
+      "wastedEnergy": "Energie se plytvá při výrobě, distribuci a spotřebě.",
+      "wastedHeat": "Teplo z ťažby se plytvá, zatímco komerční budovy potrebují vytápění.",
+      "noIntelligence": "Energetickým systémům chýba inteligence a koordinace v reálném čase.",
+      "infrastructure": "Infrastruktura potrebuje lepší koordinaci mezi energií, teplem a výpočty."
+    }
+  },
+  "thesis": {
+    "title": "Téza EnergieMIND",
+    "subtitle": "Výpočetní energie by nemala být promarněna",
+    "description": "Těžební stroje mohou produkovat více než hash výkon. EnergieMIND je navrhnutý k zachytenie a koordinaci celého řetězce hodnot výpočetní energetické infrastruktury.",
+    "outputs": {
+      "hashPower": "Hash výkon pro bezpečnost sítě",
+      "heat": "Získatelné teplo pro budovy a zařízení",
+      "data": "Provozní data a data energetického výkonu",
+      "metrics": "Provozní metriky v reálném čase",
+      "optimization": "Příležitosti k optimalizaci energie"
+    }
+  },
+  "pillars": {
+    "title": "Základné pilíře",
+    "subtitle": "Päť propojených vrstev energetické inteligence",
+    "energyIntelligence": {
+      "title": "Energetická inteligence",
+      "description": "Monitorování, analýza a optimalizace energetických toků s podporou AI v ťažobných, topných a infrastrukturních systémech."
+    },
+    "miningHeatUtility": {
+      "title": "Využití tepla z ťažby",
+      "description": "Využití tepla z ťažby pro domy, hotely, farmy a komerční zařízení — proměna výpočetního vedlejšího produktu v užitečnou tepelnou energii."
+    },
+    "energyDashboard": {
+      "title": "Energetický panel",
+      "description": "Monitorování spotřeby energie, výkonu těžařů, míry využití tepla a provozního výkonu v jednotném zobrazení."
+    },
+    "sustainableInfrastructure": {
+      "title": "Udržitelná infrastruktura",
+      "description": "Spojenie obnovitelné energie, ťažobných operací, topných systémů a energetické účinnosti do koordinované infrastruktury."
+    },
+    "enmUtilityLayer": {
+      "title": "Utility vrstva ENM",
+      "description": "Budoucí tokenizovaná koordinační vrstva pro užitek ekosystému — umožňuje účast v energetické síti EnergieMIND."
+    }
+  },
+  "pilot": {
+    "title": "Pilotný program",
+    "subtitle": "Navržen pro budoucí komerční piloty",
+    "description": "EnergieMIND pripravuje pilotní příležitosti pro různé typy zařízení. Vyvineme řešení pro organizace zajímající se o využití tepla z ťažby a energetickou inteligenci.",
+    "targets": {
+      "hotels": "Hotely",
+      "commercial": "Komerční budovy",
+      "greenhouses": "Skleníky",
+      "farms": "Farmy",
+      "solar": "Solární lokality",
+      "industrial": "Průmyslová zařízení",
+      "mining": "Těžební zařízení",
+      "datacenters": "Datová centra"
+    },
+    "pageTitle": "Pilotný program",
+    "pageIntro": "EnergieMIND je ve fázi přípravy pilotu. Navrhujeme modely nasazení pro zařízení, která mohou těžit z využití tepla z ťažby, energetické inteligence a optimalizace s podporou AI.",
+    "cta": "Prediskutovať pilotní příležitosti"
+  },
+  "ecosystem": {
+    "title": "Ekosystém",
+    "subtitle": "Součást ekosystému TVK / EnteleKRON",
+    "description": "EnergieMIND je vrstva energetické inteligence a udržitelné infrastruktury v širším ekosystému důvěry, AI a infrastruktury.",
+    "layers": {
+      "tvk": {
+        "name": "TVK Group",
+        "role": "Holdingová vrstva"
+      },
+      "infrasphere": {
+        "name": "InfraSphere",
+        "role": "Infrastrukturní vrstva"
+      },
+      "sovra": {
+        "name": "SOVRA",
+        "role": "Vrstva AI inteligence"
+      },
+      "entelekron": {
+        "name": "EnteleKRON",
+        "role": "Vrstva důvěry"
+      },
+      "energiemind": {
+        "name": "EnergieMIND",
+        "role": "Vrstva energetické inteligence"
+      },
+      "enm": {
+        "name": "ENM",
+        "role": "Vrstva utility tokenu"
+      }
+    },
+    "pageTitle": "Ekosystém",
+    "pageIntro": "EnergieMIND funguje jako vrstva energetické inteligence v ekosystému TVK / EnteleKRON — spája infrastrukturu, AI, důvěru a koordinaci utility."
+  },
+  "enm": {
+    "title": "Token ENM",
+    "subtitle": "Utility vrstva pro ekosystém EnergieMIND",
+    "description": "ENM je token Ethereum ERC-20 připravený pro vrstvu EnergieMIND. Je navržen jako utility koordinační token v ekosystému — nikoli jako investiční produkt.",
+    "contract": "Adresa zmluvy",
+    "contractAddress": "0x00faB8baFfF3f849dd23FF68cfE51d8E3d09937D",
+    "network": "Ethereum (ERC-20)",
+    "riskNotice": "Upozornenie na rizika",
+    "riskText": "ENM je utility token v ekosystému EnergieMIND. Není investičním produktem. Hodnoty tokenů mohou kolísat. Žiadne výnosy nejsou slibovány. Účastněte se až po pochopení rizik. Úplné podrobnosti o tokenu a předprodeji jsou na enm.network.",
+    "cta": "Prejsť na ENM Network",
+    "pageTitle": "Informácie o tokene ENM",
+    "pageIntro": "ENM slouží jako vrstva utility tokenu pro ekosystém EnergieMIND. Úplné podrobnosti o tokenu, informace o předprodeji a dokumentace na enm.network.",
+    "utilityTitle": "Účel utility",
+    "utilityText": "ENM je navrhnutý pro koordinaci utility ekosystému — umožňuje účast v síti energetické inteligence EnergieMIND. Není prezentován jako investiční nástroj.",
+    "disclaimerTitle": "Důležité prohlášení",
+    "disclaimerText": "Tato stránka poskytuje pouze základní informace o smlouvě. EnergieMIND.com se zameriava na projekt energetické inteligence. Všetky podrobné informace o tokenu, podrobnosti předprodeje a rizikové informace jsou na enm.network."
+  },
+  "roadmap": {
+    "title": "Plán",
+    "subtitle": "Milníky vývoje",
+    "pageTitle": "Plán",
+    "pageIntro": "Vývoj EnergieMIND následuje fázový přístup — od konceptu a architektury přes přípravu pilotu k budoucímu nasazení.",
+    "phases": {
+      "phase1": {
+        "title": "Fáze 1 — Koncept a architektura",
+        "status": "Prebieha",
+        "items": "Vývoj konceptu energetické inteligence, návrh architektury ekosystému, výzkum využití tepla z ťažby"
+      },
+      "phase2": {
+        "title": "Fáze 2 — Technologický vývoj",
+        "status": "Vo vývoji",
+        "items": "Vývoj energetického panelu, moduly optimalizace AI, návrh systémů využití tepla"
+      },
+      "phase3": {
+        "title": "Fáze 3 — Příprava pilotu",
+        "status": "Plánováno",
+        "items": "Identifikace pilotních lokalit, hodnocení zařízení, návrh modelů nasazení"
+      },
+      "phase4": {
+        "title": "Fáze 4 — Komerční piloty",
+        "status": "Budúcnosť",
+        "items": "Piloty v hotelech, komerčních budovách a zemědělských zařízeních, validace výkonu"
+      },
+      "phase5": {
+        "title": "Fáze 5 — Rozšíření sítě",
+        "status": "Budúcnosť",
+        "items": "Koordinace více lokalit, aktivace utility vrstvy ENM, integrace ekosystému"
+      }
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Kontaktujte EnergieMIND",
+    "pageTitle": "Kontakt",
+    "pageIntro": "Zaujímajú vás pilotní příležitosti, partnerství nebo chcete vědět více o EnergieMIND? Vítame dotazy od organizací zkoumajících energetickou inteligenci a využití tepla z ťažby.",
+    "pilotInquiry": "Dotazy k pilotnímu programu",
+    "pilotText": "Pro organizace zajímající se o budoucí pilotní nasazení systémů využití tepla z ťažby a energetické inteligence.",
+    "partnershipInquiry": "Dotazy k partnerství",
+    "partnershipText": "Pro infrastrukturní partnery, energetické společnosti a technologické integrátory v ekosystému.",
+    "generalInquiry": "Obecné dotazy",
+    "generalText": "Obecné dotazy ohledně EnergieMIND, ekosystému nebo technologického vývoje.",
+    "email": "contact@energiemind.com",
+    "tokenNote": "Pro dotazy týkající se tokenu ENM navštívte enm.network"
+  },
+  "energyIntelligence": {
+    "pageTitle": "Energetická inteligence",
+    "pageIntro": "Monitorování a optimalizace energetických toků s podporou AI — navrženo pro přinesení inteligence do ťažobných, topných a infrastrukturních systémů.",
+    "section1Title": "Monitorování v reálném čase",
+    "section1Text": "EnergieMIND vyvíjí panely a monitorovací systémy sledující spotřebu, produkci a příležitosti k optimalizaci energie v propojené infrastruktuře.",
+    "section2Title": "Optimalizace s podporou AI",
+    "section2Text": "Modely strojového učení pro analýzu energetických vzorců, predikci poptávky a optimalizaci provozních plánů ťažobných a topných systémů.",
+    "section3Title": "Koordinace infrastruktury",
+    "section3Text": "Spojenie obnovitelných zdrojů energie, ťažobných operací a poptávky po teple do koordinované sítě energetické inteligence."
+  },
+  "miningHeatUtility": {
+    "pageTitle": "Využití tepla z ťažby",
+    "pageIntro": "Proměna výpočetního vedlejšího produktu v užitečnou tepelnou energii pro budovy, farmy a komerční zařízení.",
+    "section1Title": "Koncept využití tepla",
+    "section1Text": "Těžební hardware generuje značný tepelný výkon. EnergieMIND je navrhnutý k zachytenie tohoto tepla a jeho směrování do zařízení potrebujících vytápění — hotely, skleníky, komerční budovy a zemědělské provozy.",
+    "section2Title": "Těžba s dvojí hodnotou",
+    "section2Text": "Místo považování tepla za odpad mohou ťažobný operace produkovat výpočetní výstup i užitečnou tepelnou energii — zlepšují celkovou energetickou účinnost.",
+    "section3Title": "Integrace zařízení",
+    "section3Text": "Systémy využití tepla navržené pro integraci s existující HVAC infrastrukturou, umožňující využití tepla z ťažby bez větších úprav zařízení."
+  },
+  "technology": {
+    "pageTitle": "Technologie",
+    "pageIntro": "Technický základ EnergieMIND — energetické panely, optimalizace AI, systémy využití tepla a koordinace infrastruktury.",
+    "section1Title": "Platforma energetického panelu",
+    "section1Text": "Jednotná monitorovací platforma pro sledování energetických toků, výkonu těžařů, míry využití tepla a stavu systému v propojené infrastruktuře.",
+    "section2Title": "Motor optimalizace AI",
+    "section2Text": "Moduly strojového učení pro analýzu energetických vzorců, predikci poptávky a optimalizaci provozních plánů v ťažobných a topných systémech.",
+    "section3Title": "Systémy využití tepla",
+    "section3Text": "Inženýrské návrhy pro zachytenie a distribuci tepla z ťažby do propojených zařízení — od přímého vzduchového vytápění po vodní výměníkové systémy.",
+    "section4Title": "Infrastrukturní API",
+    "section4Text": "Integrační rozhraní pro propojení systémů obnovitelné energie, ťažobnýho hardwaru, topné infrastruktury a utility vrstvy ENM."
+  },
+  "footer": {
+    "tagline": "Energetická inteligencia poháňaná AI pro udržateľnú infrastrukturu.",
+    "company": "TVK Infrastructure & Energy Systems LTD",
+    "rights": "Všechna práva vyhrazena.",
+    "enmNetwork": "ENM Network",
+    "tvkGroup": "TVK Group",
+    "legal": "EnergieMIND je rozvíjející se projekt energetické inteligence. Žiadne investiční výnosy nejsou slibovány. Podrobnosti tokenu ENM jsou na enm.network."
+  },
+  "common": {
+    "learnMore": "Viac informácií",
+    "backToHome": "Späť na domov",
+    "selectLanguage": "Vybrať jazyk",
+    "statusDeveloping": "Vo vývoji",
+    "statusPlanned": "Plánované",
+    "statusFuture": "Budúcnosť",
+    "statusInProgress": "Prebieha"
+  }
+}

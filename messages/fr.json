@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "title": "EnergieMIND — Intelligence énergétique propulsée par l'IA",
+    "description": "EnergieMIND connecte les systèmes énergétiques, la récupération de chaleur minière, l'optimisation par IA et l'infrastructure durable en une couche énergétique intelligente."
+  },
+  "nav": {
+    "home": "Accueil",
+    "mission": "Mission",
+    "energyIntelligence": "Intelligence énergétique",
+    "miningHeatUtility": "Utilité thermique minière",
+    "technology": "Technologie",
+    "pilotProgram": "Programme pilote",
+    "ecosystem": "Écosystème",
+    "enmToken": "Token ENM",
+    "roadmap": "Feuille de route",
+    "contact": "Contact"
+  },
+  "hero": {
+    "headline": "EnergieMIND",
+    "subheadline": "Intelligence énergétique propulsée par l'IA pour l'utilité thermique minière, l'infrastructure durable et les réseaux énergétiques de demain.",
+    "supporting": "Intelligence énergétique · Récupération de chaleur minière · Optimisation IA · Infrastructure durable · Couche utilitaire ENM",
+    "ctaExplore": "Découvrir EnergieMIND",
+    "ctaPilot": "Discuter des opportunités pilotes",
+    "ctaToken": "Voir les informations sur le token ENM"
+  },
+  "mission": {
+    "title": "Mission",
+    "subtitle": "Connecter l'énergie, le minage, l'IA et la durabilité",
+    "description": "EnergieMIND connecte les systèmes énergétiques, les systèmes de minage, la coordination par IA et la durabilité en un concept d'infrastructure énergétique intelligente. Nous développons la couche de coordination où l'énergie computationnelle, la chaleur récupérée et l'intelligence d'infrastructure travaillent ensemble.",
+    "pageTitle": "Notre mission",
+    "pageIntro": "EnergieMIND est conçu pour transformer la façon dont les systèmes énergétiques et de minage interagissent — en transformant l'énergie computationnelle gaspillée en chaleur utile, intelligence et valeur d'infrastructure durable.",
+    "visionTitle": "Vision",
+    "visionText": "Un avenir où chaque joule d'énergie computationnelle est coordonné intelligemment — produisant de la puissance de hachage, de la chaleur récupérable, des données opérationnelles et des opportunités d'optimisation pour les bâtiments, les exploitations et les réseaux énergétiques.",
+    "approachTitle": "Approche",
+    "approachText": "Nous combinons la surveillance énergétique, l'optimisation assistée par IA, la récupération de chaleur minière et la conception d'infrastructure durable en une plateforme unifiée d'intelligence énergétique — actuellement en développement et en préparation pilote."
+  },
+  "problem": {
+    "title": "Le problème",
+    "subtitle": "Les systèmes énergétiques manquent de coordination et d'intelligence",
+    "items": {
+      "wastedEnergy": "L'énergie est gaspillée à la production, la distribution et la consommation.",
+      "wastedHeat": "La chaleur du minage est gaspillée alors que les bâtiments commerciaux ont besoin de chauffage.",
+      "noIntelligence": "Les systèmes énergétiques manquent d'intelligence et de coordination en temps réel.",
+      "infrastructure": "L'infrastructure a besoin d'une meilleure coordination entre énergie, chaleur et calcul."
+    }
+  },
+  "thesis": {
+    "title": "La thèse EnergieMIND",
+    "subtitle": "L'énergie computationnelle ne devrait pas être gaspillée",
+    "description": "Les machines de minage peuvent produire plus que de la puissance de hachage. EnergieMIND est conçu pour capturer et coordonner toute la chaîne de valeur de l'infrastructure énergétique computationnelle.",
+    "outputs": {
+      "hashPower": "Puissance de hachage pour la sécurité du réseau",
+      "heat": "Chaleur récupérable pour les bâtiments et installations",
+      "data": "Données opérationnelles et de performance énergétique",
+      "metrics": "Métriques opérationnelles en temps réel",
+      "optimization": "Opportunités d'optimisation énergétique"
+    }
+  },
+  "pillars": {
+    "title": "Piliers fondamentaux",
+    "subtitle": "Cinq couches interconnectées d'intelligence énergétique",
+    "energyIntelligence": {
+      "title": "Intelligence énergétique",
+      "description": "Surveillance, analyse et optimisation assistées par IA des flux énergétiques dans les systèmes de minage, de chauffage et d'infrastructure."
+    },
+    "miningHeatUtility": {
+      "title": "Utilité thermique minière",
+      "description": "Utilisation de la chaleur du minage pour les logements, hôtels, exploitations et installations commerciales — transformer le sous-produit computationnel en énergie thermique utile."
+    },
+    "energyDashboard": {
+      "title": "Tableau de bord énergétique",
+      "description": "Surveillance de la consommation énergétique, de la production des mineurs, des taux de récupération de chaleur et des performances opérationnelles dans une vue unifiée."
+    },
+    "sustainableInfrastructure": {
+      "title": "Infrastructure durable",
+      "description": "Connexion des énergies renouvelables, des opérations de minage, des systèmes de chauffage et de l'efficacité énergétique en infrastructure coordonnée."
+    },
+    "enmUtilityLayer": {
+      "title": "Couche utilitaire ENM",
+      "description": "Future couche de coordination tokenisée pour l'utilité de l'écosystème — permettant la participation au réseau énergétique EnergieMIND."
+    }
+  },
+  "pilot": {
+    "title": "Programme pilote",
+    "subtitle": "Conçu pour de futurs pilotes commerciaux",
+    "description": "EnergieMIND prépare des opportunités pilotes pour divers types d'installations. Nous développons des solutions pour les organisations intéressées par l'utilité thermique minière et l'intelligence énergétique.",
+    "targets": {
+      "hotels": "Hôtels",
+      "commercial": "Bâtiments commerciaux",
+      "greenhouses": "Serres",
+      "farms": "Exploitations agricoles",
+      "solar": "Sites solaires",
+      "industrial": "Installations industrielles",
+      "mining": "Installations minières",
+      "datacenters": "Centres de données"
+    },
+    "pageTitle": "Programme pilote",
+    "pageIntro": "EnergieMIND est en phase de préparation pilote. Nous concevons des modèles de déploiement pour les installations pouvant bénéficier de la récupération de chaleur minière, de l'intelligence énergétique et de l'optimisation assistée par IA.",
+    "cta": "Discuter des opportunités pilotes"
+  },
+  "ecosystem": {
+    "title": "Écosystème",
+    "subtitle": "Partie de l'écosystème TVK / EnteleKRON",
+    "description": "EnergieMIND est la couche d'intelligence énergétique et d'infrastructure durable au sein d'un écosystème plus large de confiance, d'IA et d'infrastructure.",
+    "layers": {
+      "tvk": {
+        "name": "TVK Group",
+        "role": "Couche holding"
+      },
+      "infrasphere": {
+        "name": "InfraSphere",
+        "role": "Couche infrastructure"
+      },
+      "sovra": {
+        "name": "SOVRA",
+        "role": "Couche intelligence IA"
+      },
+      "entelekron": {
+        "name": "EnteleKRON",
+        "role": "Couche confiance"
+      },
+      "energiemind": {
+        "name": "EnergieMIND",
+        "role": "Couche intelligence énergétique"
+      },
+      "enm": {
+        "name": "ENM",
+        "role": "Couche token utilitaire"
+      }
+    },
+    "pageTitle": "Écosystème",
+    "pageIntro": "EnergieMIND opère comme la couche d'intelligence énergétique au sein de l'écosystème TVK / EnteleKRON — connectant infrastructure, IA, confiance et coordination utilitaire."
+  },
+  "enm": {
+    "title": "Token ENM",
+    "subtitle": "Couche utilitaire pour l'écosystème EnergieMIND",
+    "description": "ENM est le token Ethereum ERC-20 préparé pour la couche EnergieMIND. Il est conçu comme un token de coordination utilitaire au sein de l'écosystème — et non comme un produit d'investissement.",
+    "contract": "Adresse du contrat",
+    "contractAddress": "0x00faB8baFfF3f849dd23FF68cfE51d8E3d09937D",
+    "network": "Ethereum (ERC-20)",
+    "riskNotice": "Avis de risque",
+    "riskText": "ENM est un token utilitaire au sein de l'écosystème EnergieMIND. Ce n'est pas un produit d'investissement. Les valeurs des tokens peuvent fluctuer. Aucun rendement n'est promis. Participez uniquement après avoir compris les risques. Les détails complets du token et de la prévente sont disponibles sur enm.network.",
+    "cta": "Aller sur ENM Network",
+    "pageTitle": "Informations sur le token ENM",
+    "pageIntro": "ENM sert de couche de token utilitaire pour l'écosystème EnergieMIND. Pour les détails complets du token, les informations de prévente et la documentation, visitez enm.network.",
+    "utilityTitle": "Objectif utilitaire",
+    "utilityText": "ENM est conçu pour la coordination utilitaire de l'écosystème — permettant la participation au réseau d'intelligence énergétique EnergieMIND. Il n'est pas présenté comme un véhicule d'investissement.",
+    "disclaimerTitle": "Avertissement important",
+    "disclaimerText": "Cette page fournit uniquement des informations de base sur le contrat. EnergieMIND.com se concentre sur le projet d'intelligence énergétique. Toutes les informations détaillées sur le token, les détails de prévente et les divulgations de risques sont maintenus sur enm.network."
+  },
+  "roadmap": {
+    "title": "Feuille de route",
+    "subtitle": "Jalons de développement",
+    "pageTitle": "Feuille de route",
+    "pageIntro": "Le développement d'EnergieMIND suit une approche par phases — du concept et de l'architecture à la préparation pilote et au déploiement futur.",
+    "phases": {
+      "phase1": {
+        "title": "Phase 1 — Concept et architecture",
+        "status": "En cours",
+        "items": "Développement du concept d'intelligence énergétique, conception de l'architecture de l'écosystème, recherche sur l'utilité thermique minière"
+      },
+      "phase2": {
+        "title": "Phase 2 — Développement technologique",
+        "status": "En développement",
+        "items": "Développement du tableau de bord énergétique, modules d'optimisation IA, conception de systèmes de récupération de chaleur"
+      },
+      "phase3": {
+        "title": "Phase 3 — Préparation pilote",
+        "status": "Planifié",
+        "items": "Identification des sites pilotes, évaluation des installations, conception des modèles de déploiement"
+      },
+      "phase4": {
+        "title": "Phase 4 — Pilotes commerciaux",
+        "status": "Futur",
+        "items": "Pilotes dans les hôtels, bâtiments commerciaux et installations agricoles, validation des performances"
+      },
+      "phase5": {
+        "title": "Phase 5 — Expansion du réseau",
+        "status": "Futur",
+        "items": "Coordination multi-sites, activation de la couche utilitaire ENM, intégration de l'écosystème"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Contactez EnergieMIND",
+    "pageTitle": "Contact",
+    "pageIntro": "Intéressé par les opportunités pilotes, les partenariats ou en savoir plus sur EnergieMIND ? Nous accueillons les demandes des organisations explorant l'intelligence énergétique et l'utilité thermique minière.",
+    "pilotInquiry": "Demandes de programme pilote",
+    "pilotText": "Pour les organisations intéressées par de futurs déploiements pilotes de systèmes d'utilité thermique minière et d'intelligence énergétique.",
+    "partnershipInquiry": "Demandes de partenariat",
+    "partnershipText": "Pour les partenaires d'infrastructure, les entreprises énergétiques et les intégrateurs technologiques au sein de l'écosystème.",
+    "generalInquiry": "Demandes générales",
+    "generalText": "Pour les questions générales sur EnergieMIND, l'écosystème ou le développement technologique.",
+    "email": "contact@energiemind.com",
+    "tokenNote": "Pour les demandes spécifiques au token ENM, veuillez visiter enm.network"
+  },
+  "energyIntelligence": {
+    "pageTitle": "Intelligence énergétique",
+    "pageIntro": "Surveillance et optimisation assistées par IA des flux énergétiques — conçues pour apporter de l'intelligence aux systèmes de minage, de chauffage et d'infrastructure.",
+    "section1Title": "Surveillance en temps réel",
+    "section1Text": "EnergieMIND développe des tableaux de bord et des systèmes de surveillance qui suivent la consommation, la production et les opportunités d'optimisation énergétiques dans l'infrastructure connectée.",
+    "section2Title": "Optimisation assistée par IA",
+    "section2Text": "Modèles d'apprentissage automatique conçus pour analyser les schémas énergétiques, prévoir la demande et optimiser les plannings opérationnels des systèmes de minage et de chauffage.",
+    "section3Title": "Coordination d'infrastructure",
+    "section3Text": "Connexion des sources d'énergie renouvelable, des opérations de minage et de la demande de chauffage en un réseau coordonné d'intelligence énergétique."
+  },
+  "miningHeatUtility": {
+    "pageTitle": "Utilité thermique minière",
+    "pageIntro": "Transformer le sous-produit computationnel en énergie thermique utile pour les bâtiments, exploitations et installations commerciales.",
+    "section1Title": "Concept de récupération de chaleur",
+    "section1Text": "Le matériel de minage génère une sortie thermique significative. EnergieMIND est conçu pour capturer cette chaleur et la rediriger vers les installations qui ont besoin de chauffage — hôtels, serres, bâtiments commerciaux et exploitations agricoles.",
+    "section2Title": "Minage à double valeur",
+    "section2Text": "Au lieu de traiter la chaleur comme un déchet, les opérations de minage peuvent produire à la fois une sortie computationnelle et une énergie thermique utile — améliorant l'efficacité énergétique globale.",
+    "section3Title": "Intégration des installations",
+    "section3Text": "Systèmes de récupération de chaleur conçus pour l'intégration avec l'infrastructure CVC existante, permettant l'utilité thermique minière sans modifications majeures des installations."
+  },
+  "technology": {
+    "pageTitle": "Technologie",
+    "pageIntro": "Le fondement technique d'EnergieMIND — tableaux de bord énergétiques, optimisation IA, systèmes de récupération de chaleur et coordination d'infrastructure.",
+    "section1Title": "Plateforme de tableau de bord énergétique",
+    "section1Text": "Une plateforme de surveillance unifiée conçue pour suivre les flux énergétiques, les performances des mineurs, les taux de récupération de chaleur et l'état du système dans l'infrastructure connectée.",
+    "section2Title": "Moteur d'optimisation IA",
+    "section2Text": "Modules d'apprentissage automatique pour l'analyse des schémas énergétiques, la prévision de la demande et l'optimisation des plannings opérationnels dans les systèmes de minage et de chauffage.",
+    "section3Title": "Systèmes de récupération de chaleur",
+    "section3Text": "Conceptions d'ingénierie pour capturer et distribuer la chaleur du minage aux installations connectées — du chauffage d'air direct aux systèmes d'échange thermique à eau.",
+    "section4Title": "APIs d'infrastructure",
+    "section4Text": "Interfaces d'intégration conçues pour connecter les systèmes d'énergie renouvelable, le matériel de minage, l'infrastructure de chauffage et la couche utilitaire ENM."
+  },
+  "footer": {
+    "tagline": "Intelligence énergétique propulsée par l'IA pour une infrastructure durable.",
+    "company": "TVK Infrastructure & Energy Systems LTD",
+    "rights": "Tous droits réservés.",
+    "enmNetwork": "ENM Network",
+    "tvkGroup": "TVK Group",
+    "legal": "EnergieMIND est un projet d'intelligence énergétique en développement. Aucun rendement d'investissement n'est promis. Les détails du token ENM sont maintenus sur enm.network."
+  },
+  "common": {
+    "learnMore": "En savoir plus",
+    "backToHome": "Retour à l'accueil",
+    "selectLanguage": "Choisir la langue",
+    "statusDeveloping": "En développement",
+    "statusPlanned": "Planifié",
+    "statusFuture": "Futur",
+    "statusInProgress": "En cours"
+  }
+}

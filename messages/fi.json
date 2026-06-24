@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "title": "EnergieMIND — Tekoälypohjainen energiaäly",
+    "description": "EnergieMIND yhdistää energiajärjestelmät, louhintalämmön talteenoton, tekoälyoptimoinnin ja kestävän infrastruktuurin yhdeksi älykkääksi energiakerrokseksi."
+  },
+  "nav": {
+    "home": "Etusivu",
+    "mission": "Missio",
+    "energyIntelligence": "Energiaäly",
+    "miningHeatUtility": "Louhintalämpö",
+    "technology": "Teknologia",
+    "pilotProgram": "Pilottiohjelma",
+    "ecosystem": "Ekosysteemi",
+    "enmToken": "ENM Token",
+    "roadmap": "Tiekartta",
+    "contact": "Yhteystiedot"
+  },
+  "hero": {
+    "headline": "EnergieMIND",
+    "subheadline": "Tekoälypohjainen energiaäly louhintalämmölle, kestävälle infrastruktuurille ja tulevaisuuden energiaverkoille.",
+    "supporting": "Energiaäly · Louhintalämmön talteenotto · Tekoälyoptimointi · Kestävä infrastruktuuri · ENM Utility Layer",
+    "ctaExplore": "Tutustu EnergieMINDiin",
+    "ctaPilot": "Keskustele pilottimahdollisuuksista",
+    "ctaToken": "Katso ENM Token -tiedot"
+  },
+  "mission": {
+    "title": "Missio",
+    "subtitle": "Energian, louhinnan, tekoälyn ja kestävyyden yhdistäminen",
+    "description": "EnergieMIND yhdistää energiajärjestelmät, louhintajärjestelmät, tekoälykoordinoinnin ja kestävyyden yhdeksi älykkääksi energiainfrastruktuurikonseptiksi. Kehitämme koordinointikerrosta, jossa laskentaenergia, talteenotettu lämpö ja infrastruktuuriäly toimivat yhdessä.",
+    "pageTitle": "Missiomme",
+    "pageIntro": "EnergieMIND on suunniteltu muuttamaan energia- ja louhintajärjestelmien vuorovaikutusta — muuttamalla hukattu laskentaenergia hyödylliseksi lämmöksi, älyksi ja kestävän infrastruktuurin arvoksi.",
+    "visionTitle": "Visio",
+    "visionText": "Tulevaisuus, jossa jokainen laskentaenergian joule koordinoidaan älykkäästi — tuottaen hash-tehoa, talteenotettavaa lämpöä, operatiivista dataa ja optimointimahdollisuuksia rakennuksille, tiloille ja energiaverkoille.",
+    "approachTitle": "Lähestymistapa",
+    "approachText": "Yhdistämme energianseurannan, tekoälyavusteisen optimoinnin, louhintalämmön talteenoton ja kestävän infrastruktuurin suunnittelun yhtenäiseksi energiaälyalustaksi — tällä hetkellä kehitys- ja pilottivalmisteluvaiheessa."
+  },
+  "problem": {
+    "title": "Ongelma",
+    "subtitle": "Energiajärjestelmissä puuttuu koordinointia ja älyä",
+    "items": {
+      "wastedEnergy": "Energiaa hukataan tuotannossa, jakelussa ja kulutuksessa.",
+      "wastedHeat": "Louhintalämpöä hukataan, kun taas kaupalliset rakennukset tarvitsevat lämmitystä.",
+      "noIntelligence": "Energiajärjestelmissä puuttuu reaaliaikaista älyä ja koordinointia.",
+      "infrastructure": "Infrastruktuuri tarvitsee parempaa koordinointia energian, lämmön ja laskennan välillä."
+    }
+  },
+  "thesis": {
+    "title": "EnergieMIND-teesi",
+    "subtitle": "Laskentaenergiaa ei pitäisi hukata",
+    "description": "Louhintakoneet voivat tuottaa enemmän kuin hash-tehoa. EnergieMIND on suunniteltu kaappaamaan ja koordinoimaan laskentaenergiainfrastruktuurin koko arvoketju.",
+    "outputs": {
+      "hashPower": "Hash-teho verkon turvallisuuteen",
+      "heat": "Talteenotettava lämpö rakennuksille ja laitoksille",
+      "data": "Operatiivinen ja energiatehokkuusdata",
+      "metrics": "Reaaliaikaiset operatiiviset mittarit",
+      "optimization": "Energiaoptimoinnin mahdollisuudet"
+    }
+  },
+  "pillars": {
+    "title": "Ydinpilarit",
+    "subtitle": "Viisi toisiinsa liittyvää energiaälykerrosta",
+    "energyIntelligence": {
+      "title": "Energiaäly",
+      "description": "Tekoälyavusteinen energiavirtojen seuranta, analyysi ja optimointi louhinta-, lämmitys- ja infrastruktuurijärjestelmissä."
+    },
+    "miningHeatUtility": {
+      "title": "Louhintalämpö",
+      "description": "Louhintalämmön käyttö kodeille, hotelleille, tiloille ja kaupallisille laitoksille — laskennan sivutuotteen muuttaminen hyödylliseksi lämpöenergiaksi."
+    },
+    "energyDashboard": {
+      "title": "Energiapaneeli",
+      "description": "Energiankulutuksen, louhijoiden tuotoksen, lämmön talteenottoprosenttien ja operatiivisen suorituskyvyn seuranta yhdessä näkymässä."
+    },
+    "sustainableInfrastructure": {
+      "title": "Kestävä infrastruktuuri",
+      "description": "Uusiutuvan energian, louhintatoiminnan, lämmitysjärjestelmien ja energiatehokkuuden yhdistäminen koordinoiduksi infrastruktuuriksi."
+    },
+    "enmUtilityLayer": {
+      "title": "ENM Utility Layer",
+      "description": "Tuleva tokenisoitu koordinointikerros ekosysteemin hyödykkeelle — mahdollistaa osallistumisen EnergieMIND-energiaverkkoon."
+    }
+  },
+  "pilot": {
+    "title": "Pilottiohjelma",
+    "subtitle": "Suunniteltu tuleville kaupallisille piloteille",
+    "description": "EnergieMIND valmistelee pilottimahdollisuuksia erilaisille laitostyypeille. Kehitämme ratkaisuja organisaatioille, jotka ovat kiinnostuneita louhintalämmöstä ja energiaälystä.",
+    "targets": {
+      "hotels": "Hotellit",
+      "commercial": "Kaupalliset rakennukset",
+      "greenhouses": "Kasvihuoneet",
+      "farms": "Maatilat",
+      "solar": "Aurinkoenergialaitokset",
+      "industrial": "Teollisuuslaitokset",
+      "mining": "Louhintalaitokset",
+      "datacenters": "Datakeskukset"
+    },
+    "pageTitle": "Pilottiohjelma",
+    "pageIntro": "EnergieMIND on pilottivalmisteluvaiheessa. Suunnittelemme käyttöönottomalleja laitoksille, jotka voivat hyötyä louhintalämmön talteenotosta, energiaälystä ja tekoälyavusteisesta optimoinnista.",
+    "cta": "Keskustele pilottimahdollisuuksista"
+  },
+  "ecosystem": {
+    "title": "Ekosysteemi",
+    "subtitle": "Osa TVK / EnteleKRON -ekosysteemiä",
+    "description": "EnergieMIND on energiaälyn ja kestävän infrastruktuurin kerros laajemmassa luottamuksen, tekoälyn ja infrastruktuurin ekosysteemissä.",
+    "layers": {
+      "tvk": {
+        "name": "TVK Group",
+        "role": "Holding-kerros"
+      },
+      "infrasphere": {
+        "name": "InfraSphere",
+        "role": "Infrastruktuurikerros"
+      },
+      "sovra": {
+        "name": "SOVRA",
+        "role": "Tekoälyälykerros"
+      },
+      "entelekron": {
+        "name": "EnteleKRON",
+        "role": "Luottamuskerros"
+      },
+      "energiemind": {
+        "name": "EnergieMIND",
+        "role": "Energiaälykerros"
+      },
+      "enm": {
+        "name": "ENM",
+        "role": "Utility-tokenkerros"
+      }
+    },
+    "pageTitle": "Ekosysteemi",
+    "pageIntro": "EnergieMIND toimii energiaälykerroksena TVK / EnteleKRON -ekosysteemissä — yhdistäen infrastruktuurin, tekoälyn, luottamuksen ja utility-koordinoinnin."
+  },
+  "enm": {
+    "title": "ENM Token",
+    "subtitle": "Utility-kerros EnergieMIND-ekosysteemille",
+    "description": "ENM on Ethereum ERC-20 -token, joka on valmisteltu EnergieMIND-kerrokselle. Se on suunniteltu utility-koordinointitokeniksi ekosysteemissä — ei sijoituskohteeksi.",
+    "contract": "Sopimusosoite",
+    "contractAddress": "0x00faB8baFfF3f849dd23FF68cfE51d8E3d09937D",
+    "network": "Ethereum (ERC-20)",
+    "riskNotice": "Riskihuomautus",
+    "riskText": "ENM on utility-token EnergieMIND-ekosysteemissä. Se ei ole sijoitustuote. Token-arvot voivat vaihdella. Tuottoja ei luvata. Osallistu vain riskien ymmärtämisen jälkeen. Täydelliset token- ja ennakkomyyntitiedot ovat saatavilla osoitteessa enm.network.",
+    "cta": "Siirry ENM Networkiin",
+    "pageTitle": "ENM Token -tiedot",
+    "pageIntro": "ENM toimii utility-tokenkerroksena EnergieMIND-ekosysteemille. Täydelliset token-tiedot, ennakkomyyntitiedot ja dokumentaatio osoitteessa enm.network.",
+    "utilityTitle": "Utility-tarkoitus",
+    "utilityText": "ENM on suunniteltu ekosysteemin utility-koordinointiin — mahdollistaa osallistumisen EnergieMIND energiaälyverkkoon. Sitä ei esitetä sijoitusvälineenä.",
+    "disclaimerTitle": "Tärkeä vastuuvapauslauseke",
+    "disclaimerText": "Tämä sivu tarjoaa vain perussopimustiedot. EnergieMIND.com keskittyy energiaälyprojektiin. Kaikki yksityiskohtaiset token-tiedot, ennakkomyyntitiedot ja riskiluokitukset ylläpidetään osoitteessa enm.network."
+  },
+  "roadmap": {
+    "title": "Tiekartta",
+    "subtitle": "Kehitysvirstanpylväät",
+    "pageTitle": "Tiekartta",
+    "pageIntro": "EnergieMIND-kehitys noudattaa vaiheittaista lähestymistapaa — konseptista ja arkkitehtuurista pilottivalmistelun ja tulevan käyttöönoton kautta.",
+    "phases": {
+      "phase1": {
+        "title": "Vaihe 1 — Konsepti ja arkkitehtuuri",
+        "status": "Käynnissä",
+        "items": "Energiaälykonseptin kehitys, ekosysteemiarkkitehtuurin suunnittelu, louhintalämmön tutkimus"
+      },
+      "phase2": {
+        "title": "Vaihe 2 — Teknologiakehitys",
+        "status": "Kehitteillä",
+        "items": "Energiapaneelin kehitys, tekoälyoptimointimoduulit, lämmön talteenottojärjestelmien suunnittelu"
+      },
+      "phase3": {
+        "title": "Vaihe 3 — Pilottivalmistelu",
+        "status": "Suunniteltu",
+        "items": "Pilottipaikkojen tunnistaminen, laitosten arviointi, käyttöönottomallien suunnittelu"
+      },
+      "phase4": {
+        "title": "Vaihe 4 — Kaupalliset pilotit",
+        "status": "Tulevaisuus",
+        "items": "Pilotit hotelleissa, kaupallisissa rakennuksissa ja maatalouslaitoksissa, suorituskyvyn validointi"
+      },
+      "phase5": {
+        "title": "Vaihe 5 — Verkon laajentaminen",
+        "status": "Tulevaisuus",
+        "items": "Monipaikkakoordinointi, ENM Utility Layer -aktivointi, ekosysteemiintegraatio"
+      }
+    }
+  },
+  "contact": {
+    "title": "Yhteystiedot",
+    "subtitle": "Ota yhteyttä EnergieMINDiin",
+    "pageTitle": "Yhteystiedot",
+    "pageIntro": "Kiinnostunut pilottimahdollisuuksista, kumppanuuksista tai haluatko tietää lisää EnergieMINDistä? Toivotamme tervetulleiksi kyselyt organisaatioilta, jotka tutkivat energiaälyä ja louhintalämpöä.",
+    "pilotInquiry": "Pilottiohjelman kyselyt",
+    "pilotText": "Organisaatioille, jotka ovat kiinnostuneita louhintalämmön ja energiaälyjärjestelmien tulevista pilottikäyttöönotoista.",
+    "partnershipInquiry": "Kumppanuuskyselyt",
+    "partnershipText": "Infrastruktuurikumppaneille, energiayhtiöille ja teknologiaintegraattoreille ekosysteemissä.",
+    "generalInquiry": "Yleiset kyselyt",
+    "generalText": "Yleisiä kysymyksiä EnergieMINDistä, ekosysteemistä tai teknologiakehityksestä.",
+    "email": "contact@energiemind.com",
+    "tokenNote": "ENM-tokeniin liittyvissä kyselyissä käy osoitteessa enm.network"
+  },
+  "energyIntelligence": {
+    "pageTitle": "Energiaäly",
+    "pageIntro": "Energiavirtojen tekoälyavusteinen seuranta ja optimointi — suunniteltu tuomaan älyä louhinta-, lämmitys- ja infrastruktuurijärjestelmiin.",
+    "section1Title": "Reaaliaikainen seuranta",
+    "section1Text": "EnergieMIND kehittää paneeleja ja seurantajärjestelmiä, jotka seuraavat energiankulutusta, tuotantoa ja optimointimahdollisuuksia kytketyssä infrastruktuurissa.",
+    "section2Title": "Tekoälyavusteinen optimointi",
+    "section2Text": "Koneoppimismallit energiamallien analysointiin, kysynnän ennustamiseen ja louhinta- ja lämmitysjärjestelmien operatiivisten aikataulujen optimointiin.",
+    "section3Title": "Infrastruktuurin koordinointi",
+    "section3Text": "Uusiutuvien energialähteiden, louhintatoiminnan ja lämmityskysynnän yhdistäminen koordinoiduksi energiaälyverkoksi."
+  },
+  "miningHeatUtility": {
+    "pageTitle": "Louhintalämpö",
+    "pageIntro": "Laskennan sivutuotteen muuttaminen hyödylliseksi lämpöenergiaksi rakennuksille, tiloille ja kaupallisille laitoksille.",
+    "section1Title": "Lämmön talteenottokonsepti",
+    "section1Text": "Louhintalaitteisto tuottaa merkittävää lämpöä. EnergieMIND on suunniteltu kaappaamaan tämä lämpö ja ohjaamaan se laitoksiin, jotka tarvitsevat lämmitystä — hotellit, kasvihuoneet, kaupalliset rakennukset ja maataloustoiminta.",
+    "section2Title": "Kaksoisarvoinen louhinta",
+    "section2Text": "Lämmön käsittelemisen jätteenä sijaan louhintatoiminta voi tuottaa sekä laskentatuotoksen että hyödyllistä lämpöenergiaa — parantaen kokonaisenergiatehokkuutta.",
+    "section3Title": "Laitoksen integraatio",
+    "section3Text": "Lämmön talteenottojärjestelmät suunniteltu integroitaviksi olemassa olevaan HVAC-infrastruktuuriin, mahdollistaen louhintalämmön ilman merkittäviä laitosmuutoksia."
+  },
+  "technology": {
+    "pageTitle": "Teknologia",
+    "pageIntro": "EnergieMINDin tekninen perusta — energiapaneelit, tekoälyoptimointi, lämmön talteenottojärjestelmät ja infrastruktuurin koordinointi.",
+    "section1Title": "Energiapaneelialusta",
+    "section1Text": "Yhtenäinen seuranta-alusta energiavirtojen, louhijoiden suorituskyvyn, lämmön talteenottoprosenttien ja järjestelmän terveyden seurantaan kytketyssä infrastruktuurissa.",
+    "section2Title": "Tekoälyoptimointimoottori",
+    "section2Text": "Koneoppimismoduulit energiamallianalyysiin, kysynnän ennustamiseen ja operatiivisten aikataulujen optimointiin louhinta- ja lämmitysjärjestelmissä.",
+    "section3Title": "Lämmön talteenottojärjestelmät",
+    "section3Text": "Insinöörisuunnittelut louhintalämmön kaappaamiseen ja jakeluun kytkettyihin laitoksiin — suorasta ilmalämmityksestä vesipohjaisiin lämmönvaihtojärjestelmiin.",
+    "section4Title": "Infrastruktuuri-API:t",
+    "section4Text": "Integraatioliitännät uusiutuvien energiajärjestelmien, louhintalaitteiston, lämmitysinfrastruktuurin ja ENM Utility Layerin yhdistämiseen."
+  },
+  "footer": {
+    "tagline": "Tekoälypohjainen energiaäly kestävälle infrastruktuurille.",
+    "company": "TVK Infrastructure & Energy Systems LTD",
+    "rights": "Kaikki oikeudet pidätetään.",
+    "enmNetwork": "ENM Network",
+    "tvkGroup": "TVK Group",
+    "legal": "EnergieMIND on kehittyvä energiaälyprojekti. Sijoitustuottoja ei luvata. ENM-tokenin tiedot ylläpidetään osoitteessa enm.network."
+  },
+  "common": {
+    "learnMore": "Lue lisää",
+    "backToHome": "Takaisin etusivulle",
+    "selectLanguage": "Valitse kieli",
+    "statusDeveloping": "Kehitteillä",
+    "statusPlanned": "Suunniteltu",
+    "statusFuture": "Tulevaisuus",
+    "statusInProgress": "Käynnissä"
+  }
+}

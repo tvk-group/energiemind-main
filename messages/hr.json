@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "title": "EnergieMIND — Energetska inteligencija pokretana AI-jem",
+    "description": "EnergieMIND povezuje energetske sustave, oporabu topline rudarenja, AI optimizaciju i održivu infrastrukturu u jedan inteligentni energetski sloj."
+  },
+  "nav": {
+    "home": "Početna",
+    "mission": "Misija",
+    "energyIntelligence": "Energetska inteligencija",
+    "miningHeatUtility": "Rudarska toplina",
+    "technology": "Tehnologija",
+    "pilotProgram": "Pilot program",
+    "ecosystem": "Ekosustav",
+    "enmToken": "ENM Token",
+    "roadmap": "Plan puta",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "headline": "EnergieMIND",
+    "subheadline": "Energetska inteligencija pokretana AI-jem za rudarsku toplinu, održivu infrastrukturu i buduće energetske mreže.",
+    "supporting": "Energetska inteligencija · Oporaba topline rudarenja · AI optimizacija · Održiva infrastruktura · ENM utility sloj",
+    "ctaExplore": "Istražite EnergieMIND",
+    "ctaPilot": "Raspravite pilot mogućnosti",
+    "ctaToken": "Pogledajte informacije o ENM tokenu"
+  },
+  "mission": {
+    "title": "Misija",
+    "subtitle": "Povezivanje energije, rudarenja, AI-ja i održivosti",
+    "description": "EnergieMIND povezuje energetske sustave, sustave rudarenja, AI koordinaciju i održivost u jedan koncept inteligentne energetske infrastrukture. Razvijamo koordinacijski sloj gdje računalna energija, oporavljena toplina i inteligencija infrastrukture rade zajedno.",
+    "pageTitle": "Naša misija",
+    "pageIntro": "EnergieMIND je dizajniran transformirati način na koji energetski i rudarski sustavi međusobno djeluju — pretvarajući potrošenu računalnu energiju u korisnu toplinu, inteligenciju i vrijednost održive infrastrukture.",
+    "visionTitle": "Vizija",
+    "visionText": "Budućnost u kojoj se svaki joule računalne energije inteligentno koordinira — proizvodeći hash snagu, oporavljivu toplinu, operativne podatke i mogućnosti optimizacije za zgrade, farme i energetske mreže.",
+    "approachTitle": "Pristup",
+    "approachText": "Kombiniramo praćenje energije, AI-asistiranu optimizaciju, oporabu topline rudarenja i dizajn održive infrastrukture u jedinstvenu platformu energetske inteligencije — trenutno u razvoju i pripremi pilota."
+  },
+  "problem": {
+    "title": "Problem",
+    "subtitle": "Energetskim sustavima nedostaje koordinacija i inteligencija",
+    "items": {
+      "wastedEnergy": "Energija se troši u proizvodnji, distribuciji i potrošnji.",
+      "wastedHeat": "Toplina rudarenja se troši dok komercijalne zgrade trebaju grijanje.",
+      "noIntelligence": "Energetskim sustavima nedostaje inteligencija i koordinacija u stvarnom vremenu.",
+      "infrastructure": "Infrastrukturi je potrebna bolja koordinacija između energije, topline i računanja."
+    }
+  },
+  "thesis": {
+    "title": "Teza EnergieMIND",
+    "subtitle": "Računalna energija ne bi se trebala trošiti",
+    "description": "Rudarski strojevi mogu proizvesti više od hash snage. EnergieMIND je dizajniran za hvatanje i koordinaciju cijelog lanca vrijednosti infrastrukture računalne energije.",
+    "outputs": {
+      "hashPower": "Hash snaga za sigurnost mreže",
+      "heat": "Oporavljiva toplina za zgrade i objekte",
+      "data": "Operativni podaci i podaci o energetskoj učinkovitosti",
+      "metrics": "Operativne metrike u stvarnom vremenu",
+      "optimization": "Mogućnosti optimizacije energije"
+    }
+  },
+  "pillars": {
+    "title": "Osnovni stupovi",
+    "subtitle": "Pet međusobno povezanih slojeva energetske inteligencije",
+    "energyIntelligence": {
+      "title": "Energetska inteligencija",
+      "description": "AI-asistirano praćenje, analiza i optimizacija energetskih tokova u sustavima rudarenja, grijanja i infrastrukture."
+    },
+    "miningHeatUtility": {
+      "title": "Rudarska toplina",
+      "description": "Korištenje topline rudarenja za domove, hotele, farme i komercijalne objekte — pretvaranje računalnog nusproizvoda u korisnu toplinsku energiju."
+    },
+    "energyDashboard": {
+      "title": "Energetska nadzorna ploča",
+      "description": "Praćenje potrošnje energije, izlaza rudara, stopa oporabe topline i operativne učinkovitosti u jedinstvenom prikazu."
+    },
+    "sustainableInfrastructure": {
+      "title": "Održiva infrastruktura",
+      "description": "Povezivanje obnovljive energije, rudarskih operacija, sustava grijanja i energetske učinkovitosti u koordiniranu infrastrukturu."
+    },
+    "enmUtilityLayer": {
+      "title": "ENM utility sloj",
+      "description": "Budući tokenizirani koordinacijski sloj za korisnost ekosustava — omogućuje sudjelovanje u energetskoj mreži EnergieMIND."
+    }
+  },
+  "pilot": {
+    "title": "Pilot program",
+    "subtitle": "Dizajniran za buduće komercijalne pilote",
+    "description": "EnergieMIND priprema pilot mogućnosti za različite vrste objekata. Razvijamo rješenja za organizacije zainteresirane za rudarsku toplinu i energetsku inteligenciju.",
+    "targets": {
+      "hotels": "Hoteli",
+      "commercial": "Komercijalne zgrade",
+      "greenhouses": "Staklenici",
+      "farms": "Farme",
+      "solar": "Solarni objekti",
+      "industrial": "Industrijski objekti",
+      "mining": "Rudarski objekti",
+      "datacenters": "Podatkovni centri"
+    },
+    "pageTitle": "Pilot program",
+    "pageIntro": "EnergieMIND je u fazi pripreme pilota. Dizajniramo modele implementacije za objekte koji mogu imati koristi od oporabe topline rudarenja, energetske inteligencije i AI-asistirane optimizacije.",
+    "cta": "Raspravite pilot mogućnosti"
+  },
+  "ecosystem": {
+    "title": "Ekosustav",
+    "subtitle": "Dio TVK / EnteleKRON ekosustava",
+    "description": "EnergieMIND je sloj energetske inteligencije i održive infrastrukture unutar šireg ekosustava povjerenja, AI-ja i infrastrukture.",
+    "layers": {
+      "tvk": {
+        "name": "TVK Group",
+        "role": "Holding sloj"
+      },
+      "infrasphere": {
+        "name": "InfraSphere",
+        "role": "Infrastrukturni sloj"
+      },
+      "sovra": {
+        "name": "SOVRA",
+        "role": "AI inteligencijski sloj"
+      },
+      "entelekron": {
+        "name": "EnteleKRON",
+        "role": "Sloj povjerenja"
+      },
+      "energiemind": {
+        "name": "EnergieMIND",
+        "role": "Sloj energetske inteligencije"
+      },
+      "enm": {
+        "name": "ENM",
+        "role": "Utility token sloj"
+      }
+    },
+    "pageTitle": "Ekosustav",
+    "pageIntro": "EnergieMIND djeluje kao sloj energetske inteligencije unutar TVK / EnteleKRON ekosustava — povezujući infrastrukturu, AI, povjerenje i koordinaciju korisnosti."
+  },
+  "enm": {
+    "title": "ENM Token",
+    "subtitle": "Utility sloj za EnergieMIND ekosustav",
+    "description": "ENM je Ethereum ERC-20 token pripremljen za EnergieMIND sloj. Dizajniran je kao utility koordinacijski token unutar ekosustava — ne kao investicijski proizvod.",
+    "contract": "Adresa ugovora",
+    "contractAddress": "0x00faB8baFfF3f849dd23FF68cfE51d8E3d09937D",
+    "network": "Ethereum (ERC-20)",
+    "riskNotice": "Obavijest o riziku",
+    "riskText": "ENM je utility token unutar EnergieMIND ekosustava. Nije investicijski proizvod. Vrijednosti tokena mogu varirati. Povrat nije obećan. Sudjelujte tek nakon razumijevanja rizika. Potpuni detalji tokena i pretprodaje dostupni su na enm.network.",
+    "cta": "Idi na ENM Network",
+    "pageTitle": "Informacije o ENM tokenu",
+    "pageIntro": "ENM služi kao utility token sloj za EnergieMIND ekosustav. Za potpune detalje, pretprodaju i dokumentaciju posjetite enm.network.",
+    "utilityTitle": "Svrha korisnosti",
+    "utilityText": "ENM je dizajniran za koordinaciju korisnosti ekosustava — omogućuje sudjelovanje u mreži energetske inteligencije EnergieMIND. Ne predstavlja se kao investicijsko sredstvo.",
+    "disclaimerTitle": "Važno odricanje od odgovornosti",
+    "disclaimerText": "Ova stranica pruža samo osnovne informacije o ugovoru. EnergieMIND.com fokusira se na projekt energetske inteligencije. Sve detaljne informacije o tokenu, pretprodaji i rizicima održavaju se na enm.network."
+  },
+  "roadmap": {
+    "title": "Plan puta",
+    "subtitle": "Razvojne prekretnice",
+    "pageTitle": "Plan puta",
+    "pageIntro": "Razvoj EnergieMIND slijedi fazni pristup — od koncepta i arhitekture kroz pripremu pilota do buduće implementacije.",
+    "phases": {
+      "phase1": {
+        "title": "Faza 1 — Koncept i arhitektura",
+        "status": "U tijeku",
+        "items": "Razvoj koncepta energetske inteligencije, dizajn arhitekture ekosustava, istraživanje rudarske topline"
+      },
+      "phase2": {
+        "title": "Faza 2 — Tehnološki razvoj",
+        "status": "U razvoju",
+        "items": "Razvoj energetske nadzorne ploče, AI optimizacijski moduli, dizajn sustava oporabe topline"
+      },
+      "phase3": {
+        "title": "Faza 3 — Priprema pilota",
+        "status": "Planirano",
+        "items": "Identifikacija pilot lokacija, procjena objekata, dizajn modela implementacije"
+      },
+      "phase4": {
+        "title": "Faza 4 — Komercijalni piloti",
+        "status": "Budućnost",
+        "items": "Piloti u hotelima, komercijalnim zgradama i poljoprivrednim objektima, validacija učinkovitosti"
+      },
+      "phase5": {
+        "title": "Faza 5 — Proširenje mreže",
+        "status": "Budućnost",
+        "items": "Koordinacija više lokacija, aktivacija ENM utility sloja, integracija ekosustava"
+      }
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Kontaktirajte EnergieMIND",
+    "pageTitle": "Kontakt",
+    "pageIntro": "Zainteresirani za pilot mogućnosti, partnerstva ili želite saznati više o EnergieMIND? Pozdravljamo upite organizacija koje istražuju energetsku inteligenciju i rudarsku toplinu.",
+    "pilotInquiry": "Upiti za pilot program",
+    "pilotText": "Za organizacije zainteresirane za buduće pilot implementacije sustava rudarske topline i energetske inteligencije.",
+    "partnershipInquiry": "Upiti za partnerstvo",
+    "partnershipText": "Za infrastrukturne partnere, energetske tvrtke i tehnološke integratore unutar ekosustava.",
+    "generalInquiry": "Opći upiti",
+    "generalText": "Za opća pitanja o EnergieMIND, ekosustavu ili tehnološkom razvoju.",
+    "email": "contact@energiemind.com",
+    "tokenNote": "Za upite vezane uz ENM token posjetite enm.network"
+  },
+  "energyIntelligence": {
+    "pageTitle": "Energetska inteligencija",
+    "pageIntro": "AI-asistirano praćenje i optimizacija energetskih tokova — dizajnirano za donošenje inteligencije u sustave rudarenja, grijanja i infrastrukture.",
+    "section1Title": "Praćenje u stvarnom vremenu",
+    "section1Text": "EnergieMIND razvija nadzorne ploče i sustave praćenja koji prate potrošnju, proizvodnju i mogućnosti optimizacije energije u povezanoj infrastrukturi.",
+    "section2Title": "AI-asistirana optimizacija",
+    "section2Text": "Modeli strojnog učenja za analizu energetskih obrazaca, predviđanje potražnje i optimizaciju operativnih rasporeda sustava rudarenja i grijanja.",
+    "section3Title": "Koordinacija infrastrukture",
+    "section3Text": "Povezivanje izvora obnovljive energije, rudarskih operacija i potražnje za grijanjem u koordiniranu mrežu energetske inteligencije."
+  },
+  "miningHeatUtility": {
+    "pageTitle": "Rudarska toplina",
+    "pageIntro": "Pretvaranje računalnog nusproizvoda u korisnu toplinsku energiju za zgrade, farme i komercijalne objekte.",
+    "section1Title": "Koncept oporabe topline",
+    "section1Text": "Rudarski hardver generira značajan toplinski izlaz. EnergieMIND je dizajniran za hvatanje ove topline i usmjeravanje prema objektima koji trebaju grijanje — hoteli, staklenici, komercijalne zgrade i poljoprivredne operacije.",
+    "section2Title": "Rudarenje dvostruke vrijednosti",
+    "section2Text": "Umjesto tretiranja topline kao otpada, rudarske operacije mogu proizvesti i računalni izlaz i korisnu toplinsku energiju — poboljšavajući ukupnu energetsku učinkovitost.",
+    "section3Title": "Integracija objekata",
+    "section3Text": "Sustavi oporabe topline dizajnirani za integraciju s postojećom HVAC infrastrukturom, omogućujući rudarsku toplinu bez većih modifikacija objekata."
+  },
+  "technology": {
+    "pageTitle": "Tehnologija",
+    "pageIntro": "Tehnička osnova EnergieMIND — energetske nadzorne ploče, AI optimizacija, sustavi oporabe topline i koordinacija infrastrukture.",
+    "section1Title": "Platforma energetske nadzorne ploče",
+    "section1Text": "Jedinstvena platforma praćenja za praćenje energetskih tokova, učinkovitosti rudara, stopa oporabe topline i zdravlja sustava u povezanoj infrastrukturi.",
+    "section2Title": "AI motor optimizacije",
+    "section2Text": "Moduli strojnog učenja za analizu energetskih obrazaca, prognozu potražnje i optimizaciju operativnih rasporeda u sustavima rudarenja i grijanja.",
+    "section3Title": "Sustavi oporabe topline",
+    "section3Text": "Inženjerski dizajni za hvatanje i distribuciju topline rudarenja prema povezanim objektima — od izravnog zračnog grijanja do vodenih sustava razmjene topline.",
+    "section4Title": "Infrastrukturni API-ji",
+    "section4Text": "Integracijski sučelja za povezivanje sustava obnovljive energije, rudarskog hardvera, infrastrukture grijanja i ENM utility sloja."
+  },
+  "footer": {
+    "tagline": "Energetska inteligencija pokretana AI-jem za održivu infrastrukturu.",
+    "company": "TVK Infrastructure & Energy Systems LTD",
+    "rights": "Sva prava pridržana.",
+    "enmNetwork": "ENM Network",
+    "tvkGroup": "TVK Group",
+    "legal": "EnergieMIND je razvijajući projekt energetske inteligencije. Investicijski povrat nije obećan. Detalji ENM tokena održavaju se na enm.network."
+  },
+  "common": {
+    "learnMore": "Saznajte više",
+    "backToHome": "Natrag na početnu",
+    "selectLanguage": "Odaberite jezik",
+    "statusDeveloping": "U razvoju",
+    "statusPlanned": "Planirano",
+    "statusFuture": "Budućnost",
+    "statusInProgress": "U tijeku"
+  }
+}
