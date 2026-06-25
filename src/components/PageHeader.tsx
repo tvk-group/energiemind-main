@@ -17,7 +17,7 @@ export default function PageHeader({ title, intro, children }: PageHeaderProps) 
           {children}
         </div>
       </div>
-      <div className="h-1 bg-gradient-to-r from-energy-blue via-energy-green to-accent-yellow" />
+      <div className="h-1 bg-gradient-to-r from-energy-blue via-energy-green to-sun" />
     </section>
   );
 }

@@ -20,20 +20,20 @@ function Content() {
   return (
     <>
       <PageHeader title={t("pageTitle")} intro={t("pageIntro")} />
-      <Section>
+      <Section className="bg-enm-section">
         <ContentSection title={t("utilityTitle")} text={t("utilityText")} />
-        <div className="card mb-6">
+        <div className="card-enm mb-6">
           <h2 className="text-xl font-semibold text-navy-900 mb-3">{t("contract")}</h2>
-          <div className="bg-silver-100 rounded-lg p-4 mb-4">
+          <div className="bg-sun-bg-deep rounded-lg p-4 mb-4 border border-silver-200">
             <code className="text-sm text-navy-800 break-all font-mono">
               {t("contractAddress")}
             </code>
             <p className="text-sm text-silver-400 mt-2">{t("network")}</p>
           </div>
         </div>
-        <div className="bg-amber-50 border border-amber-200 rounded-lg p-6 mb-6">
-          <h2 className="font-semibold text-amber-800 mb-2">{t("riskNotice")}</h2>
-          <p className="text-sm text-amber-700 leading-relaxed">{t("riskText")}</p>
+        <div className="risk-notice p-6 mb-6">
+          <h2 className="risk-notice-title">{t("riskNotice")}</h2>
+          <p className="risk-notice-text">{t("riskText")}</p>
         </div>
         <ContentSection title={t("disclaimerTitle")} text={t("disclaimerText")} />
         <div className="mt-6">

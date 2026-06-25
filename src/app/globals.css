@@ -1,19 +1,34 @@
 @import "tailwindcss";
 
 @theme {
-  --color-navy-900: #0a1628;
-  --color-navy-800: #0f2140;
-  --color-navy-700: #1a3358;
-  --color-navy-600: #234878;
-  --color-energy-blue: #1e6fd9;
-  --color-energy-blue-light: #3d8ef0;
-  --color-energy-green: #2d9f6f;
-  --color-energy-green-light: #3cb88a;
-  --color-silver-100: #f4f6f8;
-  --color-silver-200: #e8ecf0;
-  --color-silver-300: #d1d9e0;
-  --color-silver-400: #a8b5c4;
-  --color-accent-yellow: #f5c842;
+  /* Shared EnergieMIND / enm.network brand tokens */
+  --color-ink: #1a2744;
+  --color-ink-mid: #2d3f5c;
+  --color-ink-muted: #5a6b7d;
+  --color-enm-deep: #1e2d4a;
+  --color-enm-deep-mid: #2a3f66;
+  --color-navy-900: #1a2744;
+  --color-navy-800: #2d3f5c;
+  --color-navy-700: #3d5270;
+  --color-navy-600: #2a3f66;
+  --color-energy-blue: #2d9cdb;
+  --color-energy-blue-light: #4db8e8;
+  --color-energy-blue-dark: #1a6fa3;
+  --color-energy-green: #17b26a;
+  --color-energy-green-light: #3dd086;
+  --color-energy-green-dark: #087443;
+  --color-sun: #ffb020;
+  --color-sun-bright: #ffc94d;
+  --color-sun-soft: #fff0cc;
+  --color-sun-bg: #fffaf3;
+  --color-sun-bg-deep: #fff4e6;
+  --color-panel: #ffffff;
+  --color-panel-elevated: #fffdf8;
+  --color-silver-100: #fff4e6;
+  --color-silver-200: #ede6d8;
+  --color-silver-300: #d9d0c0;
+  --color-silver-400: #5a6b7d;
+  --color-accent-yellow: #ffb020;
   --font-sans: var(--font-inter), system-ui, -apple-system, sans-serif;
 }
 
@@ -23,8 +38,8 @@ html {
 
 body {
   font-family: var(--font-sans);
-  color: var(--color-navy-900);
-  background-color: #ffffff;
+  color: var(--color-ink);
+  background-color: var(--color-panel-elevated);
 }
 
 [dir="rtl"] {
@@ -40,11 +55,21 @@ body {
 }
 
 .gradient-hero {
-  background: linear-gradient(135deg, #0a1628 0%, #1a3358 50%, #0f2140 100%);
+  background: linear-gradient(
+    135deg,
+    var(--color-enm-deep) 0%,
+    var(--color-enm-deep-mid) 55%,
+    var(--color-ink-mid) 100%
+  );
 }
 
 .card {
-  @apply bg-white border border-silver-200 rounded-xl p-6 shadow-sm hover:shadow-md transition-shadow duration-300;
+  @apply bg-panel border border-silver-200 rounded-xl p-6 shadow-sm hover:shadow-md transition-shadow duration-300;
+}
+
+.card-enm {
+  @apply bg-panel border border-sun-soft rounded-xl p-6 shadow-sm;
+  box-shadow: 0 12px 40px rgba(255, 176, 32, 0.08);
 }
 
 .btn-primary {
@@ -52,7 +77,7 @@ body {
 }
 
 .btn-secondary {
-  @apply inline-flex items-center justify-center px-6 py-3 bg-white text-navy-800 font-medium rounded-lg border border-silver-300 hover:border-energy-blue hover:text-energy-blue transition-colors duration-200;
+  @apply inline-flex items-center justify-center px-6 py-3 bg-panel text-navy-800 font-medium rounded-lg border border-silver-300 hover:border-energy-blue hover:text-energy-blue transition-colors duration-200;
 }
 
 .btn-outline-light {
@@ -69,4 +94,24 @@ body {
 
 .pillar-icon {
   @apply w-12 h-12 rounded-lg flex items-center justify-center text-2xl mb-4;
+}
+
+.risk-notice {
+  @apply bg-sun-soft border border-sun/30 rounded-lg p-4;
+}
+
+.risk-notice-title {
+  @apply font-semibold text-ink mb-2;
+}
+
+.risk-notice-text {
+  @apply text-sm text-ink-mid leading-relaxed;
+}
+
+.bg-section-alt {
+  background-color: var(--color-silver-100);
+}
+
+.bg-enm-section {
+  background-color: var(--color-sun-bg);
 }

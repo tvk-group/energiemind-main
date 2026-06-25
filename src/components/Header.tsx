@@ -24,7 +24,7 @@ export default function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b border-silver-200">
+    <header className="sticky top-0 z-50 bg-panel-elevated/95 backdrop-blur-sm border-b border-silver-200">
       <div className="container-max px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="flex items-center gap-2">
@@ -72,7 +72,7 @@ export default function Header() {
       </div>
 
       {mobileOpen && (
-        <div className="xl:hidden border-t border-silver-200 bg-white">
+        <div className="xl:hidden border-t border-silver-200 bg-panel">
           <nav className="container-max px-4 py-4 grid grid-cols-2 gap-1">
             {navItems.map((item) => (
               <Link
@@ -81,7 +81,7 @@ export default function Header() {
                 onClick={() => setMobileOpen(false)}
                 className={`px-3 py-2.5 text-sm rounded-md ${
                   pathname === item.href
-                    ? "text-energy-blue font-medium bg-blue-50"
+                    ? "text-energy-blue font-medium bg-energy-blue/10"
                     : "text-navy-700 hover:bg-silver-100"
                 }`}
               >

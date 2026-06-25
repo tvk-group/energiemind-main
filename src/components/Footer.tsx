@@ -20,7 +20,7 @@ export default function Footer() {
   ] as const;
 
   return (
-    <footer className="bg-navy-900 text-white">
+    <footer className="bg-enm-deep text-white">
       <div className="container-max section-padding">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10 mb-10">
           <div>

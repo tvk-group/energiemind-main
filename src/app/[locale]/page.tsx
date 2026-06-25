@@ -48,11 +48,11 @@ function HomeContent() {
   ];
 
   const pillars = [
-    { key: "energyIntelligence", icon: "⚡", color: "bg-blue-50 text-energy-blue" },
-    { key: "miningHeatUtility", icon: "🔥", color: "bg-orange-50 text-orange-600" },
-    { key: "energyDashboard", icon: "📊", color: "bg-purple-50 text-purple-600" },
-    { key: "sustainableInfrastructure", icon: "🌿", color: "bg-green-50 text-energy-green" },
-    { key: "enmUtilityLayer", icon: "🔗", color: "bg-silver-100 text-navy-700" },
+    { key: "energyIntelligence", icon: "⚡", color: "bg-energy-blue/10 text-energy-blue" },
+    { key: "miningHeatUtility", icon: "🔥", color: "bg-sun-soft text-sun" },
+    { key: "energyDashboard", icon: "📊", color: "bg-energy-blue/10 text-energy-blue-dark" },
+    { key: "sustainableInfrastructure", icon: "🌿", color: "bg-energy-green/10 text-energy-green" },
+    { key: "enmUtilityLayer", icon: "🔗", color: "bg-sun-bg-deep text-navy-800" },
   ];
 
   const ecosystemLayers = ["tvk", "infrasphere", "sovra", "entelekron", "energiemind", "enm"];
@@ -61,7 +61,7 @@ function HomeContent() {
     <>
       <Hero />
 
-      <Section id="mission" className="bg-silver-100">
+      <Section id="mission" className="bg-section-alt">
         <div className="text-center mb-12">
           <h2 className="section-title">{t("mission.title")}</h2>
           <p className="section-subtitle mx-auto">{t("mission.subtitle")}</p>
@@ -93,7 +93,7 @@ function HomeContent() {
         </div>
       </Section>
 
-      <Section id="thesis" className="bg-navy-900 text-white">
+      <Section id="thesis" className="bg-enm-deep text-white">
         <div className="text-center mb-12">
           <h2 className="text-3xl lg:text-4xl font-bold mb-4">{t("thesis.title")}</h2>
           <p className="text-lg text-silver-300 max-w-2xl mx-auto">{t("thesis.subtitle")}</p>
@@ -107,7 +107,7 @@ function HomeContent() {
               key={i}
               className="bg-white/5 border border-white/10 rounded-lg p-4 text-center"
             >
-              <span className="text-accent-yellow text-xl mb-2 block">●</span>
+              <span className="text-sun text-xl mb-2 block">●</span>
               <p className="text-silver-100">{output}</p>
             </div>
           ))}
@@ -132,7 +132,7 @@ function HomeContent() {
         </div>
       </Section>
 
-      <Section id="pilot" className="bg-silver-100">
+      <Section id="pilot" className="bg-section-alt">
         <div className="text-center mb-12">
           <h2 className="section-title">{t("pilot.title")}</h2>
           <p className="section-subtitle mx-auto">{t("pilot.subtitle")}</p>
@@ -144,7 +144,7 @@ function HomeContent() {
           {pilotTargets.map((target, i) => (
             <div
               key={i}
-              className="bg-white border border-silver-200 rounded-lg p-4 text-center text-navy-700 font-medium"
+              className="bg-panel border border-silver-200 rounded-lg p-4 text-center text-navy-700 font-medium"
             >
               {target}
             </div>
@@ -182,7 +182,7 @@ function HomeContent() {
         </div>
       </Section>
 
-      <Section id="enm" className="bg-silver-100">
+      <Section id="enm" className="bg-enm-section">
         <EnmPreview />
       </Section>
     </>
