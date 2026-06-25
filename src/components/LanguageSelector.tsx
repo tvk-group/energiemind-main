@@ -21,7 +21,7 @@ export default function LanguageSelector() {
     <div className="relative">
       <button
         onClick={() => setOpen(!open)}
-        className="flex items-center gap-2 px-3 py-1.5 text-sm text-navy-700 hover:text-energy-blue border border-silver-300 rounded-lg hover:border-energy-blue transition-colors"
+        className="flex items-center gap-2 px-3 py-1.5 text-sm text-navy-700 hover:text-energy-green-dark border border-sage-300 rounded-lg hover:border-energy-green transition-colors"
         aria-label={t("selectLanguage")}
       >
         <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -42,7 +42,7 @@ export default function LanguageSelector() {
                 key={loc}
                 onClick={() => handleChange(loc)}
                 className={`w-full text-left px-4 py-2.5 text-sm hover:bg-silver-100 transition-colors ${
-                  loc === locale ? "text-energy-blue font-medium bg-energy-blue/10" : "text-navy-700"
+                  loc === locale ? "text-energy-green-dark font-medium bg-energy-green/10" : "text-navy-700"
                 }`}
               >
                 {localeNames[loc]}

@@ -1,33 +1,38 @@
 @import "tailwindcss";
 
 @theme {
-  /* Shared EnergieMIND / enm.network brand tokens */
-  --color-ink: #1a2744;
-  --color-ink-mid: #2d3f5c;
-  --color-ink-muted: #5a6b7d;
-  --color-enm-deep: #1e2d4a;
-  --color-enm-deep-mid: #2a3f66;
-  --color-navy-900: #1a2744;
-  --color-navy-800: #2d3f5c;
-  --color-navy-700: #3d5270;
-  --color-navy-600: #2a3f66;
+  /* Corporate green + shared ecosystem tokens */
+  --color-ink: #152a24;
+  --color-ink-mid: #2d4a42;
+  --color-ink-muted: #5a6f68;
+  --color-forest-deep: #0f2e28;
+  --color-forest-mid: #1a4d3f;
+  --color-forest-light: #236b55;
+  --color-navy-900: #152a24;
+  --color-navy-800: #2d4a42;
+  --color-navy-700: #3d5c52;
+  --color-navy-600: #1a4d3f;
   --color-energy-blue: #2d9cdb;
   --color-energy-blue-light: #4db8e8;
   --color-energy-blue-dark: #1a6fa3;
   --color-energy-green: #17b26a;
   --color-energy-green-light: #3dd086;
   --color-energy-green-dark: #087443;
+  --color-energy-green-muted: #6fcf97;
+  --color-sage-50: #f4faf7;
+  --color-sage-100: #eef6f1;
+  --color-sage-200: #d8ebe0;
+  --color-sage-300: #b8d9c8;
   --color-sun: #ffb020;
-  --color-sun-bright: #ffc94d;
   --color-sun-soft: #fff0cc;
   --color-sun-bg: #fffaf3;
   --color-sun-bg-deep: #fff4e6;
   --color-panel: #ffffff;
-  --color-panel-elevated: #fffdf8;
-  --color-silver-100: #fff4e6;
-  --color-silver-200: #ede6d8;
-  --color-silver-300: #d9d0c0;
-  --color-silver-400: #5a6b7d;
+  --color-panel-elevated: #f8fbf9;
+  --color-silver-100: #eef6f1;
+  --color-silver-200: #d8ebe0;
+  --color-silver-300: #b8d9c8;
+  --color-silver-400: #5a6f68;
   --color-accent-yellow: #ffb020;
   --font-sans: var(--font-inter), system-ui, -apple-system, sans-serif;
 }
@@ -57,27 +62,29 @@ body {
 .gradient-hero {
   background: linear-gradient(
     135deg,
-    var(--color-enm-deep) 0%,
-    var(--color-enm-deep-mid) 55%,
-    var(--color-ink-mid) 100%
+    var(--color-forest-deep) 0%,
+    var(--color-forest-mid) 50%,
+    var(--color-forest-light) 100%
   );
 }
 
 .card {
   @apply bg-panel border border-silver-200 rounded-xl p-6 shadow-sm hover:shadow-md transition-shadow duration-300;
+  box-shadow: 0 4px 24px rgba(23, 178, 106, 0.04);
 }
 
 .card-enm {
-  @apply bg-panel border border-sun-soft rounded-xl p-6 shadow-sm;
+  @apply bg-panel border border-sun-soft rounded-xl p-6;
   box-shadow: 0 12px 40px rgba(255, 176, 32, 0.08);
 }
 
 .btn-primary {
-  @apply inline-flex items-center justify-center px-6 py-3 bg-energy-blue text-white font-medium rounded-lg hover:bg-energy-blue-light transition-colors duration-200;
+  @apply inline-flex items-center justify-center px-6 py-3 bg-energy-green text-white font-medium rounded-lg hover:bg-energy-green-light transition-colors duration-200;
+  box-shadow: 0 4px 14px rgba(23, 178, 106, 0.25);
 }
 
 .btn-secondary {
-  @apply inline-flex items-center justify-center px-6 py-3 bg-panel text-navy-800 font-medium rounded-lg border border-silver-300 hover:border-energy-blue hover:text-energy-blue transition-colors duration-200;
+  @apply inline-flex items-center justify-center px-6 py-3 bg-panel text-navy-800 font-medium rounded-lg border border-silver-300 hover:border-energy-green hover:text-energy-green-dark transition-colors duration-200;
 }
 
 .btn-outline-light {
@@ -109,9 +116,22 @@ body {
 }
 
 .bg-section-alt {
-  background-color: var(--color-silver-100);
+  background-color: var(--color-sage-100);
+}
+
+.bg-section-green {
+  background-color: var(--color-sage-50);
 }
 
 .bg-enm-section {
   background-color: var(--color-sun-bg);
+}
+
+.bg-thesis {
+  background: linear-gradient(
+    160deg,
+    var(--color-forest-deep) 0%,
+    var(--color-forest-mid) 60%,
+    var(--color-forest-light) 100%
+  );
 }

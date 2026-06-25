@@ -17,7 +17,7 @@ export default function PageHeader({ title, intro, children }: PageHeaderProps) 
           {children}
         </div>
       </div>
-      <div className="h-1 bg-gradient-to-r from-energy-blue via-energy-green to-sun" />
+      <div className="h-1 bg-gradient-to-r from-energy-green-dark via-energy-green to-energy-green-light" />
     </section>
   );
 }
@@ -39,7 +39,7 @@ export function ContentSection({ title, text }: ContentSectionProps) {
 export function BackLink({ label }: { label: string }) {
   return (
     <div className="mt-10">
-      <Link href="/" className="text-energy-blue hover:text-energy-blue-light transition-colors">
+      <Link href="/" className="text-energy-green-dark hover:text-energy-green transition-colors">
         ← {label}
       </Link>
     </div>

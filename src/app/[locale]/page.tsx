@@ -48,10 +48,10 @@ function HomeContent() {
   ];
 
   const pillars = [
-    { key: "energyIntelligence", icon: "⚡", color: "bg-energy-blue/10 text-energy-blue" },
-    { key: "miningHeatUtility", icon: "🔥", color: "bg-sun-soft text-sun" },
-    { key: "energyDashboard", icon: "📊", color: "bg-energy-blue/10 text-energy-blue-dark" },
-    { key: "sustainableInfrastructure", icon: "🌿", color: "bg-energy-green/10 text-energy-green" },
+    { key: "energyIntelligence", icon: "⚡", color: "bg-energy-blue/10 text-energy-blue-dark" },
+    { key: "miningHeatUtility", icon: "♨️", color: "bg-energy-green/15 text-energy-green-dark" },
+    { key: "energyDashboard", icon: "📊", color: "bg-sage-100 text-forest-mid" },
+    { key: "sustainableInfrastructure", icon: "🌿", color: "bg-energy-green/20 text-energy-green-dark" },
     { key: "enmUtilityLayer", icon: "🔗", color: "bg-sun-bg-deep text-navy-800" },
   ];
 
@@ -76,7 +76,7 @@ function HomeContent() {
         </div>
       </Section>
 
-      <Section id="problem">
+      <Section id="problem" className="bg-section-green">
         <div className="text-center mb-12">
           <h2 className="section-title">{t("problem.title")}</h2>
           <p className="section-subtitle mx-auto">{t("problem.subtitle")}</p>
@@ -84,7 +84,7 @@ function HomeContent() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
           {problemItems.map((item, i) => (
             <div key={i} className="card flex items-start gap-4">
-              <span className="flex-shrink-0 w-8 h-8 rounded-full bg-red-50 text-red-500 flex items-center justify-center font-bold text-sm">
+              <span className="flex-shrink-0 w-8 h-8 rounded-full bg-energy-green/15 text-energy-green-dark flex items-center justify-center font-bold text-sm">
                 !
               </span>
               <p className="text-navy-700">{item}</p>
@@ -93,12 +93,12 @@ function HomeContent() {
         </div>
       </Section>
 
-      <Section id="thesis" className="bg-enm-deep text-white">
+      <Section id="thesis" className="bg-thesis text-white">
         <div className="text-center mb-12">
           <h2 className="text-3xl lg:text-4xl font-bold mb-4">{t("thesis.title")}</h2>
-          <p className="text-lg text-silver-300 max-w-2xl mx-auto">{t("thesis.subtitle")}</p>
+          <p className="text-lg text-white/70 max-w-2xl mx-auto">{t("thesis.subtitle")}</p>
         </div>
-        <p className="text-lg text-silver-200 max-w-3xl mx-auto text-center mb-10 leading-relaxed">
+        <p className="text-lg text-white/80 max-w-3xl mx-auto text-center mb-10 leading-relaxed">
           {t("thesis.description")}
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 max-w-4xl mx-auto">
@@ -107,14 +107,14 @@ function HomeContent() {
               key={i}
               className="bg-white/5 border border-white/10 rounded-lg p-4 text-center"
             >
-              <span className="text-sun text-xl mb-2 block">●</span>
-              <p className="text-silver-100">{output}</p>
+              <span className="text-energy-green-light text-xl mb-2 block">●</span>
+              <p className="text-white/85">{output}</p>
             </div>
           ))}
         </div>
       </Section>
 
-      <Section id="pillars">
+      <Section id="pillars" className="bg-section-green">
         <div className="text-center mb-12">
           <h2 className="section-title">{t("pillars.title")}</h2>
           <p className="section-subtitle mx-auto">{t("pillars.subtitle")}</p>

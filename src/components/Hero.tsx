@@ -8,24 +8,24 @@ export default function Hero() {
 
   return (
     <section className="gradient-hero text-white relative overflow-hidden">
-      <div className="absolute inset-0 opacity-15">
-        <div className="absolute top-20 left-10 w-72 h-72 bg-energy-blue rounded-full blur-3xl" />
-        <div className="absolute bottom-20 right-10 w-96 h-96 bg-sun rounded-full blur-3xl opacity-60" />
-        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-80 h-80 bg-energy-green rounded-full blur-3xl opacity-40" />
+      <div className="absolute inset-0 opacity-20">
+        <div className="absolute top-16 left-10 w-80 h-80 bg-energy-green rounded-full blur-3xl" />
+        <div className="absolute bottom-10 right-10 w-96 h-96 bg-energy-green-light rounded-full blur-3xl opacity-70" />
+        <div className="absolute top-1/3 right-1/4 w-64 h-64 bg-energy-blue rounded-full blur-3xl opacity-30" />
       </div>
       <div className="container-max section-padding relative z-10">
         <div className="max-w-4xl mx-auto text-center">
-          <div className="inline-flex items-center gap-2 px-4 py-1.5 bg-white/10 rounded-full text-sm text-silver-200 mb-8 border border-white/10">
-            <span className="w-2 h-2 bg-energy-green rounded-full animate-pulse" />
-            Energy Intelligence Platform
+          <div className="inline-flex items-center gap-2 px-4 py-1.5 bg-energy-green/20 rounded-full text-sm text-energy-green-muted mb-8 border border-energy-green/30">
+            <span className="w-2 h-2 bg-energy-green-light rounded-full animate-pulse" />
+            Sustainable Energy Intelligence
           </div>
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-extrabold tracking-tight mb-6">
             {t("headline")}
           </h1>
-          <p className="text-xl sm:text-2xl text-silver-200 mb-4 leading-relaxed font-light">
+          <p className="text-xl sm:text-2xl text-white/85 mb-4 leading-relaxed font-light">
             {t("subheadline")}
           </p>
-          <p className="text-sm sm:text-base text-silver-400 mb-10 tracking-wide">
+          <p className="text-sm sm:text-base text-white/60 mb-10 tracking-wide">
             {t("supporting")}
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-6">
@@ -38,13 +38,13 @@ export default function Hero() {
           </div>
           <Link
             href="/enm-token"
-            className="text-silver-300 hover:text-white text-sm underline underline-offset-4 transition-colors"
+            className="text-white/50 hover:text-sun text-sm underline underline-offset-4 transition-colors"
           >
             {t("ctaToken")} →
           </Link>
         </div>
       </div>
-      <div className="h-1 bg-gradient-to-r from-energy-blue via-energy-green to-sun" />
+      <div className="h-1 bg-gradient-to-r from-energy-green-dark via-energy-green to-energy-green-light" />
     </section>
   );
 }

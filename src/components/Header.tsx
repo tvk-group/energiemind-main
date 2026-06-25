@@ -24,11 +24,11 @@ export default function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-50 bg-panel-elevated/95 backdrop-blur-sm border-b border-silver-200">
+    <header className="sticky top-0 z-50 bg-panel-elevated/95 backdrop-blur-sm border-b border-sage-200">
       <div className="container-max px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="flex items-center gap-2">
-            <div className="w-8 h-8 bg-gradient-to-br from-energy-blue to-energy-green rounded-lg flex items-center justify-center">
+            <div className="w-8 h-8 bg-gradient-to-br from-energy-green to-energy-green-dark rounded-lg flex items-center justify-center shadow-sm">
               <span className="text-white font-bold text-sm">EM</span>
             </div>
             <span className="font-bold text-navy-900 text-lg hidden sm:block">
@@ -43,8 +43,8 @@ export default function Header() {
                 href={item.href}
                 className={`px-2.5 py-2 text-sm rounded-md transition-colors ${
                   pathname === item.href
-                    ? "text-energy-blue font-medium"
-                    : "text-navy-700 hover:text-energy-blue"
+                    ? "text-energy-green-dark font-medium"
+                    : "text-navy-700 hover:text-energy-green-dark"
                 }`}
               >
                 {t(item.key)}
@@ -81,7 +81,7 @@ export default function Header() {
                 onClick={() => setMobileOpen(false)}
                 className={`px-3 py-2.5 text-sm rounded-md ${
                   pathname === item.href
-                    ? "text-energy-blue font-medium bg-energy-blue/10"
+                    ? "text-energy-green-dark font-medium bg-energy-green/10"
                     : "text-navy-700 hover:bg-silver-100"
                 }`}
               >
