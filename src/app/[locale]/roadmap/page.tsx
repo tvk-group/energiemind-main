@@ -20,12 +20,12 @@ function Content() {
   const phases = ["phase1", "phase2", "phase3", "phase4", "phase5"] as const;
 
   const statusColors: Record<string, string> = {
-    "In Progress": "bg-energy-blue/10 text-energy-blue-dark",
-    "Developing": "bg-sun-soft text-ink-mid",
-    "Planned": "bg-energy-green/10 text-energy-green-dark",
+    "In Progress": "bg-energy-green/15 text-energy-green-dark",
+    "Developing": "bg-sage-100 text-forest-mid",
+    "Planned": "bg-energy-blue/10 text-energy-blue-dark",
     "Future": "bg-silver-100 text-silver-400",
-    "In Bearbeitung": "bg-energy-blue/10 text-energy-blue-dark",
-    "En Cours": "bg-energy-blue/10 text-energy-blue-dark",
+    "In Bearbeitung": "bg-energy-green/15 text-energy-green-dark",
+    "En Cours": "bg-energy-green/15 text-energy-green-dark",
   };
 
   return (
@@ -38,7 +38,7 @@ function Content() {
             const colorClass = statusColors[status] || "bg-silver-100 text-silver-400";
             return (
               <div key={phase} className="card relative pl-8">
-                <div className="absolute left-4 top-6 w-3 h-3 rounded-full bg-energy-blue" />
+                <div className="absolute left-4 top-6 w-3 h-3 rounded-full bg-energy-green" />
                 {index < phases.length - 1 && (
                   <div className="absolute left-[1.35rem] top-9 w-0.5 h-full bg-silver-200" />
                 )}

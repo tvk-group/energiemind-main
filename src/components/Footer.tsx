@@ -20,12 +20,12 @@ export default function Footer() {
   ] as const;
 
   return (
-    <footer className="bg-enm-deep text-white">
+    <footer className="bg-forest-deep text-white">
       <div className="container-max section-padding">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10 mb-10">
           <div>
             <div className="flex items-center gap-2 mb-4">
-              <div className="w-8 h-8 bg-gradient-to-br from-energy-blue to-energy-green rounded-lg flex items-center justify-center">
+              <div className="w-8 h-8 bg-gradient-to-br from-energy-green to-energy-green-dark rounded-lg flex items-center justify-center shadow-sm">
                 <span className="text-white font-bold text-sm">EM</span>
               </div>
               <span className="font-bold text-lg">EnergieMIND</span>

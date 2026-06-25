@@ -39,7 +39,7 @@ function Content() {
           <p className="text-sm text-silver-400 mb-2">Email</p>
           <a
             href={`mailto:${t("email")}`}
-            className="text-xl font-semibold text-energy-blue hover:text-energy-blue-light transition-colors"
+            className="text-xl font-semibold text-energy-green-dark hover:text-energy-green transition-colors"
           >
             {t("email")}
           </a>
