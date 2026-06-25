@@ -10,7 +10,7 @@ export default function EcosystemLayer({ name, role, highlight }: EcosystemLayer
       className={`flex items-center justify-between p-4 rounded-lg border transition-all ${
         highlight
           ? "bg-energy-blue/5 border-energy-blue/30 shadow-sm"
-          : "bg-white border-silver-200"
+          : "bg-panel border-silver-200"
       }`}
     >
       <div className="flex items-center gap-3">

@@ -8,9 +8,10 @@ export default function Hero() {
 
   return (
     <section className="gradient-hero text-white relative overflow-hidden">
-      <div className="absolute inset-0 opacity-10">
+      <div className="absolute inset-0 opacity-15">
         <div className="absolute top-20 left-10 w-72 h-72 bg-energy-blue rounded-full blur-3xl" />
-        <div className="absolute bottom-20 right-10 w-96 h-96 bg-energy-green rounded-full blur-3xl" />
+        <div className="absolute bottom-20 right-10 w-96 h-96 bg-sun rounded-full blur-3xl opacity-60" />
+        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-80 h-80 bg-energy-green rounded-full blur-3xl opacity-40" />
       </div>
       <div className="container-max section-padding relative z-10">
         <div className="max-w-4xl mx-auto text-center">
@@ -43,7 +44,7 @@ export default function Hero() {
           </Link>
         </div>
       </div>
-      <div className="h-1 bg-gradient-to-r from-energy-blue via-energy-green to-accent-yellow" />
+      <div className="h-1 bg-gradient-to-r from-energy-blue via-energy-green to-sun" />
     </section>
   );
 }

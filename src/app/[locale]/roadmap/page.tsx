@@ -20,12 +20,12 @@ function Content() {
   const phases = ["phase1", "phase2", "phase3", "phase4", "phase5"] as const;
 
   const statusColors: Record<string, string> = {
-    "In Progress": "bg-blue-100 text-blue-700",
-    "Developing": "bg-yellow-100 text-yellow-700",
-    "Planned": "bg-purple-100 text-purple-700",
+    "In Progress": "bg-energy-blue/10 text-energy-blue-dark",
+    "Developing": "bg-sun-soft text-ink-mid",
+    "Planned": "bg-energy-green/10 text-energy-green-dark",
     "Future": "bg-silver-100 text-silver-400",
-    "In Bearbeitung": "bg-blue-100 text-blue-700",
-    "En Cours": "bg-blue-100 text-blue-700",
+    "In Bearbeitung": "bg-energy-blue/10 text-energy-blue-dark",
+    "En Cours": "bg-energy-blue/10 text-energy-blue-dark",
   };
 
   return (

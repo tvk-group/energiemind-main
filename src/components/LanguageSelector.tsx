@@ -42,7 +42,7 @@ export default function LanguageSelector() {
                 key={loc}
                 onClick={() => handleChange(loc)}
                 className={`w-full text-left px-4 py-2.5 text-sm hover:bg-silver-100 transition-colors ${
-                  loc === locale ? "text-energy-blue font-medium bg-blue-50" : "text-navy-700"
+                  loc === locale ? "text-energy-blue font-medium bg-energy-blue/10" : "text-navy-700"
                 }`}
               >
                 {localeNames[loc]}
