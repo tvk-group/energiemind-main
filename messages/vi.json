@@ -1,247 +1,281 @@
 {
   "meta": {
-    "title": "EnergieMIND — Trí tuệ năng lượng hỗ trợ AI",
-    "description": "EnergieMIND kết nối hệ thống năng lượng, thu hồi nhiệt khai thác, tối ưu hóa AI và cơ sở hạ tầng bền vững thành một lớp năng lượng thông minh."
+    "title": "EnergieMIND — AI-Powered Energy Intelligence",
+    "description": "EnergieMIND connects energy systems, mining heat recovery, AI optimization and sustainable infrastructure into one intelligent energy layer."
   },
   "nav": {
-    "home": "Trang chủ",
-    "mission": "Sứ mệnh",
-    "energyIntelligence": "Trí tuệ năng lượng",
-    "miningHeatUtility": "Tiện ích nhiệt khai thác",
-    "technology": "Công nghệ",
-    "pilotProgram": "Chương trình thí điểm",
-    "ecosystem": "Hệ sinh thái",
+    "home": "Trang Chủ",
+    "mission": "Sứ Mệnh",
+    "energyIntelligence": "Trí Tuệ Năng Lượng",
+    "miningHeatUtility": "Nhiệt Khai Thác",
+    "technology": "Công Nghệ",
+    "pilotProgram": "Chương Trình Thí Điểm",
+    "ecosystem": "Hệ Sinh Thái",
     "enmToken": "Token ENM",
-    "roadmap": "Lộ trình",
-    "contact": "Liên hệ"
+    "roadmap": "Lộ Trình",
+    "contact": "Liên Hệ"
   },
   "hero": {
     "headline": "EnergieMIND",
-    "subheadline": "Trí tuệ năng lượng hỗ trợ AI cho tiện ích nhiệt khai thác, cơ sở hạ tầng bền vững và mạng lưới năng lượng tương lai.",
-    "supporting": "Trí tuệ năng lượng · Thu hồi nhiệt khai thác · Tối ưu hóa AI · Cơ sở hạ tầng bền vững · Lớp tiện ích ENM",
-    "ctaExplore": "Khám phá EnergieMIND",
-    "ctaPilot": "Thảo luận cơ hội thí điểm",
-    "ctaToken": "Xem thông tin Token ENM"
+    "subheadline": "AI-powered energy intelligence for mining heat utility, sustainable infrastructure and future energy networks.",
+    "supporting": "Energy Intelligence · Mining Heat Recovery · AI Optimization · Sustainable Infrastructure · ENM Utility Layer",
+    "ctaExplore": "Explore EnergieMIND",
+    "ctaPilot": "Discuss Pilot Opportunities",
+    "ctaToken": "View ENM Token Information"
   },
   "mission": {
-    "title": "Sứ mệnh",
-    "subtitle": "Kết nối năng lượng, khai thác, AI và tính bền vững",
-    "description": "EnergieMIND kết nối hệ thống năng lượng, hệ thống khai thác, điều phối AI và tính bền vững thành một khái niệm cơ sở hạ tầng năng lượng thông minh. Chúng tôi đang phát triển lớp điều phối nơi năng lượng tính toán, nhiệt thu hồi và trí tuệ cơ sở hạ tầng hoạt động cùng nhau.",
-    "pageTitle": "Sứ mệnh của chúng tôi",
-    "pageIntro": "EnergieMIND được thiết kế để thay đổi cách các hệ thống năng lượng và khai thác tương tác — biến năng lượng tính toán bị lãng phí thành nhiệt hữu ích, trí tuệ và giá trị cơ sở hạ tầng bền vững.",
-    "visionTitle": "Tầm nhìn",
-    "visionText": "Một tương lai nơi mỗi joule năng lượng tính toán được điều phối thông minh — tạo ra sức mạnh hash, nhiệt có thể thu hồi, dữ liệu vận hành và cơ hội tối ưu hóa cho tòa nhà, trang trại và mạng lưới năng lượng.",
-    "approachTitle": "Phương pháp",
-    "approachText": "Chúng tôi kết hợp giám sát năng lượng, tối ưu hóa hỗ trợ AI, thu hồi nhiệt khai thác và thiết kế cơ sở hạ tầng bền vững thành nền tảng trí tuệ năng lượng thống nhất — hiện đang trong giai đoạn phát triển và chuẩn bị thí điểm."
+    "title": "Mission",
+    "subtitle": "Connecting energy, mining, AI and sustainability",
+    "description": "EnergieMIND connects energy systems, mining systems, AI coordination and sustainability into one intelligent energy infrastructure concept. We are developing the coordination layer where computational energy, recovered heat and infrastructure intelligence work together.",
+    "pageTitle": "Our Mission",
+    "pageIntro": "EnergieMIND is designed to transform how energy and mining systems interact — turning wasted computational energy into useful heat, intelligence and sustainable infrastructure value.",
+    "visionTitle": "Vision",
+    "visionText": "A future where every joule of computational energy is intelligently coordinated — producing hash power, recoverable heat, operational data and optimization opportunities for buildings, farms and energy networks.",
+    "approachTitle": "Approach",
+    "approachText": "We combine energy monitoring, AI-assisted optimization, mining heat recovery and sustainable infrastructure design into a unified energy intelligence platform — currently in development and pilot preparation."
   },
   "problem": {
-    "title": "Vấn đề",
-    "subtitle": "Hệ thống năng lượng thiếu điều phối và trí tuệ",
+    "title": "The Problem",
+    "subtitle": "Energy systems lack coordination and intelligence",
     "items": {
-      "wastedEnergy": "Năng lượng bị lãng phí trong sản xuất, phân phối và tiêu thụ.",
-      "wastedHeat": "Nhiệt khai thác bị lãng phí trong khi tòa nhà thương mại cần sưởi ấm.",
-      "noIntelligence": "Hệ thống năng lượng thiếu trí tuệ và điều phối thời gian thực.",
-      "infrastructure": "Cơ sở hạ tầng cần điều phối tốt hơn giữa năng lượng, nhiệt và tính toán."
+      "wastedEnergy": "Energy is wasted across generation, distribution and consumption.",
+      "wastedHeat": "Mining heat is wasted while commercial buildings need heating.",
+      "noIntelligence": "Energy systems lack real-time intelligence and coordination.",
+      "infrastructure": "Infrastructure needs better coordination between energy, heat and compute."
     }
   },
   "thesis": {
-    "title": "Luận điểm EnergieMIND",
-    "subtitle": "Năng lượng tính toán không nên bị lãng phí",
-    "description": "Máy khai thác có thể tạo ra nhiều hơn sức mạnh hash. EnergieMIND được thiết kế để nắm bắt và điều phối toàn bộ chuỗi giá trị cơ sở hạ tầng năng lượng tính toán.",
+    "title": "The EnergieMIND Thesis",
+    "subtitle": "Computational energy should not be wasted",
+    "description": "Mining machines can produce more than hash power. EnergieMIND is designed to capture and coordinate the full value chain of computational energy infrastructure.",
     "outputs": {
-      "hashPower": "Sức mạnh hash cho bảo mật mạng",
-      "heat": "Nhiệt có thể thu hồi cho tòa nhà và cơ sở",
-      "data": "Dữ liệu vận hành và hiệu suất năng lượng",
-      "metrics": "Chỉ số vận hành thời gian thực",
-      "optimization": "Cơ hội tối ưu hóa năng lượng"
+      "hashPower": "Hash power for network security",
+      "heat": "Recoverable heat for buildings and facilities",
+      "data": "Operational and energy performance data",
+      "metrics": "Real-time operational metrics",
+      "optimization": "Energy optimization opportunities"
     }
   },
   "pillars": {
-    "title": "Trụ cột cốt lõi",
-    "subtitle": "Năm lớp trí tuệ năng lượng liên kết",
+    "title": "Core Pillars",
+    "subtitle": "Five interconnected layers of energy intelligence",
     "energyIntelligence": {
-      "title": "Trí tuệ năng lượng",
-      "description": "Giám sát, phân tích và tối ưu hóa dòng năng lượng hỗ trợ AI trong hệ thống khai thác, sưởi ấm và cơ sở hạ tầng."
+      "title": "Energy Intelligence",
+      "description": "AI-assisted monitoring, analysis and optimization of energy flows across mining, heating and infrastructure systems."
     },
     "miningHeatUtility": {
-      "title": "Tiện ích nhiệt khai thác",
-      "description": "Sử dụng nhiệt khai thác cho nhà ở, khách sạn, trang trại và cơ sở thương mại — biến sản phẩm phụ tính toán thành năng lượng nhiệt hữu ích."
+      "title": "Mining Heat Utility",
+      "description": "Using mining heat for homes, hotels, farms and commercial facilities — turning computational byproduct into useful thermal energy."
     },
     "energyDashboard": {
-      "title": "Bảng điều khiển năng lượng",
-      "description": "Giám sát tiêu thụ năng lượng, đầu ra máy khai thác, tỷ lệ thu hồi nhiệt và hiệu suất vận hành trong một giao diện thống nhất."
+      "title": "Energy Dashboard",
+      "description": "Monitoring energy consumption, miner output, heat recovery rates and operational performance in one unified view."
     },
     "sustainableInfrastructure": {
-      "title": "Cơ sở hạ tầng bền vững",
-      "description": "Kết nối năng lượng tái tạo, hoạt động khai thác, hệ thống sưởi ấm và hiệu quả năng lượng thành cơ sở hạ tầng được điều phối."
+      "title": "Sustainable Infrastructure",
+      "description": "Connecting renewable energy, mining operations, heating systems and energy efficiency into coordinated infrastructure."
     },
     "enmUtilityLayer": {
-      "title": "Lớp tiện ích ENM",
-      "description": "Lớp điều phối token hóa tương lai cho tiện ích hệ sinh thái — cho phép tham gia mạng lưới năng lượng EnergieMIND."
+      "title": "ENM Utility Layer",
+      "description": "Future tokenized coordination layer for ecosystem utility — enabling participation in the EnergieMIND energy network."
     }
   },
   "pilot": {
-    "title": "Chương trình thí điểm",
-    "subtitle": "Thiết kế cho các thí điểm thương mại tương lai",
-    "description": "EnergieMIND đang chuẩn bị cơ hội thí điểm cho nhiều loại cơ sở. Chúng tôi phát triển giải pháp cho các tổ chức quan tâm đến tiện ích nhiệt khai thác và trí tuệ năng lượng.",
+    "title": "Pilot Program",
+    "subtitle": "Designed for future commercial pilots",
+    "description": "EnergieMIND is preparing pilot opportunities across diverse facility types. We are developing solutions for organizations interested in mining heat utility and energy intelligence.",
     "targets": {
-      "hotels": "Khách sạn",
-      "commercial": "Tòa nhà thương mại",
-      "greenhouses": "Nhà kính",
-      "farms": "Trang trại",
-      "solar": "Cơ sở năng lượng mặt trời",
-      "industrial": "Cơ sở công nghiệp",
-      "mining": "Cơ sở khai thác",
-      "datacenters": "Trung tâm dữ liệu"
+      "hotels": "Hotels",
+      "commercial": "Commercial Buildings",
+      "greenhouses": "Greenhouses",
+      "farms": "Farms",
+      "solar": "Solar Sites",
+      "industrial": "Industrial Facilities",
+      "mining": "Mining Facilities",
+      "datacenters": "Data Centers"
     },
-    "pageTitle": "Chương trình thí điểm",
-    "pageIntro": "EnergieMIND đang trong giai đoạn chuẩn bị thí điểm. Chúng tôi thiết kế mô hình triển khai cho các cơ sở có thể hưởng lợi từ thu hồi nhiệt khai thác, trí tuệ năng lượng và tối ưu hóa hỗ trợ AI.",
-    "cta": "Thảo luận cơ hội thí điểm"
+    "pageTitle": "Pilot Program",
+    "pageIntro": "EnergieMIND is in pilot preparation phase. We are designing deployment models for facilities that can benefit from mining heat recovery, energy intelligence and AI-assisted optimization.",
+    "cta": "Discuss Pilot Opportunities"
   },
   "ecosystem": {
-    "title": "Hệ sinh thái",
-    "subtitle": "Một phần của hệ sinh thái TVK / EnteleKRON",
-    "description": "EnergieMIND là lớp trí tuệ năng lượng và cơ sở hạ tầng bền vững trong hệ sinh thái rộng hơn về tin cậy, AI và cơ sở hạ tầng.",
+    "title": "Ecosystem",
+    "subtitle": "Part of the TVK / EnteleKRON ecosystem",
+    "description": "EnergieMIND is the energy intelligence and sustainable infrastructure layer within a broader ecosystem of trust, AI and infrastructure.",
     "layers": {
       "tvk": {
         "name": "TVK Group",
-        "role": "Lớp holding"
+        "role": "Holding Layer"
       },
       "infrasphere": {
         "name": "InfraSphere",
-        "role": "Lớp cơ sở hạ tầng"
+        "role": "Infrastructure Layer"
       },
       "sovra": {
         "name": "SOVRA",
-        "role": "Lớp trí tuệ AI"
+        "role": "AI Intelligence Layer"
       },
       "entelekron": {
         "name": "EnteleKRON",
-        "role": "Lớp tin cậy"
+        "role": "Trust Layer"
       },
       "energiemind": {
         "name": "EnergieMIND",
-        "role": "Lớp trí tuệ năng lượng"
+        "role": "Energy Intelligence Layer"
       },
       "enm": {
         "name": "ENM",
-        "role": "Lớp token tiện ích"
+        "role": "Utility Token Layer"
       }
     },
-    "pageTitle": "Hệ sinh thái",
-    "pageIntro": "EnergieMIND hoạt động như lớp trí tuệ năng lượng trong hệ sinh thái TVK / EnteleKRON — kết nối cơ sở hạ tầng, AI, tin cậy và điều phối tiện ích."
+    "pageTitle": "Ecosystem",
+    "pageIntro": "EnergieMIND operates as the energy intelligence layer within the TVK / EnteleKRON ecosystem — connecting infrastructure, AI, trust and utility coordination."
   },
   "enm": {
-    "title": "Token ENM",
-    "subtitle": "Lớp tiện ích cho hệ sinh thái EnergieMIND",
-    "description": "ENM là token Ethereum ERC-20 được chuẩn bị cho lớp EnergieMIND. Được thiết kế như token điều phối tiện ích trong hệ sinh thái — không phải sản phẩm đầu tư.",
-    "contract": "Địa chỉ hợp đồng",
+    "title": "ENM Token",
+    "subtitle": "Utility layer for the EnergieMIND ecosystem",
+    "description": "ENM is the Ethereum ERC-20 token prepared for the EnergieMIND layer. It is designed as a utility coordination token within the ecosystem — not as an investment product.",
+    "contract": "Contract Address",
     "contractAddress": "0x00faB8baFfF3f849dd23FF68cfE51d8E3d09937D",
     "network": "Ethereum (ERC-20)",
-    "riskNotice": "Thông báo rủi ro",
-    "riskText": "ENM là token tiện ích trong hệ sinh thái EnergieMIND. Không phải sản phẩm đầu tư. Giá trị token có thể biến động. Không hứa hẹn lợi nhuận. Chỉ tham gia sau khi hiểu rủi ro. Chi tiết token và bán trước đầy đủ có tại enm.network.",
-    "cta": "Đến ENM Network",
-    "pageTitle": "Thông tin Token ENM",
-    "pageIntro": "ENM phục vụ như lớp token tiện ích cho hệ sinh thái EnergieMIND. Để biết chi tiết token, thông tin bán trước và tài liệu, truy cập enm.network.",
-    "utilityTitle": "Mục đích tiện ích",
-    "utilityText": "ENM được thiết kế cho điều phối tiện ích hệ sinh thái — cho phép tham gia mạng trí tuệ năng lượng EnergieMIND. Không được trình bày như phương tiện đầu tư.",
-    "disclaimerTitle": "Tuyên bố miễn trừ quan trọng",
-    "disclaimerText": "Trang này chỉ cung cấp thông tin hợp đồng cơ bản. EnergieMIND.com tập trung vào dự án trí tuệ năng lượng. Tất cả thông tin token chi tiết, chi tiết bán trước và công bố rủi ro được duy trì tại enm.network."
+    "riskNotice": "Risk Notice",
+    "riskText": "ENM is a utility token within the EnergieMIND ecosystem. It is not an investment product. Token values may fluctuate. No returns are promised. Participate only after understanding the risks. Full token and presale details are available at enm.network.",
+    "cta": "Go to ENM Network",
+    "pageTitle": "ENM Token Information",
+    "pageIntro": "ENM serves as the utility token layer for the EnergieMIND ecosystem. For complete token details, presale information and documentation, visit enm.network.",
+    "utilityTitle": "Utility Purpose",
+    "utilityText": "ENM is designed for ecosystem utility coordination — enabling participation in the EnergieMIND energy intelligence network. It is not presented as an investment vehicle.",
+    "disclaimerTitle": "Important Disclaimer",
+    "disclaimerText": "This page provides basic contract information only. EnergieMIND.com focuses on the energy intelligence project. All detailed token information, presale details and risk disclosures are maintained at enm.network."
   },
   "roadmap": {
-    "title": "Lộ trình",
-    "subtitle": "Cột mốc phát triển",
-    "pageTitle": "Lộ trình",
-    "pageIntro": "Phát triển EnergieMIND theo cách tiếp cận theo giai đoạn — từ khái niệm và kiến trúc qua chuẩn bị thí điểm đến triển khai tương lai.",
+    "title": "Roadmap",
+    "subtitle": "Development milestones",
+    "pageTitle": "Roadmap",
+    "pageIntro": "EnergieMIND development follows a phased approach — from concept and architecture through pilot preparation and future deployment.",
     "phases": {
       "phase1": {
-        "title": "Giai đoạn 1 — Khái niệm & Kiến trúc",
-        "status": "Đang tiến hành",
-        "items": "Phát triển khái niệm trí tuệ năng lượng, thiết kế kiến trúc hệ sinh thái, nghiên cứu tiện ích nhiệt khai thác"
+        "title": "Phase 1 — Concept & Architecture",
+        "status": "In Progress",
+        "items": "Energy intelligence concept development, ecosystem architecture design, mining heat utility research"
       },
       "phase2": {
-        "title": "Giai đoạn 2 — Phát triển công nghệ",
-        "status": "Đang phát triển",
-        "items": "Phát triển bảng điều khiển năng lượng, mô-đun tối ưu hóa AI, thiết kế hệ thống thu hồi nhiệt"
+        "title": "Phase 2 — Technology Development",
+        "status": "Developing",
+        "items": "Energy dashboard development, AI optimization modules, heat recovery system design"
       },
       "phase3": {
-        "title": "Giai đoạn 3 — Chuẩn bị thí điểm",
-        "status": "Đã lên kế hoạch",
-        "items": "Xác định địa điểm thí điểm, đánh giá cơ sở, thiết kế mô hình triển khai"
+        "title": "Phase 3 — Pilot Preparation",
+        "status": "Planned",
+        "items": "Pilot site identification, facility assessment, deployment model design"
       },
       "phase4": {
-        "title": "Giai đoạn 4 — Thí điểm thương mại",
-        "status": "Tương lai",
-        "items": "Thí điểm tại khách sạn, tòa nhà thương mại và cơ sở nông nghiệp, xác thực hiệu suất"
+        "title": "Phase 4 — Commercial Pilots",
+        "status": "Future",
+        "items": "Hotel, commercial building and agricultural facility pilots, performance validation"
       },
       "phase5": {
-        "title": "Giai đoạn 5 — Mở rộng mạng lưới",
-        "status": "Tương lai",
-        "items": "Điều phối đa địa điểm, kích hoạt lớp tiện ích ENM, tích hợp hệ sinh thái"
+        "title": "Phase 5 — Network Expansion",
+        "status": "Future",
+        "items": "Multi-site coordination, ENM utility layer activation, ecosystem integration"
       }
     }
   },
   "contact": {
-    "title": "Liên hệ",
-    "subtitle": "Liên hệ EnergieMIND",
-    "pageTitle": "Liên hệ",
-    "pageIntro": "Quan tâm đến cơ hội thí điểm, đối tác hoặc tìm hiểu thêm về EnergieMIND? Chúng tôi hoan nghênh các yêu cầu từ tổ chức khám phá trí tuệ năng lượng và tiện ích nhiệt khai thác.",
-    "pilotInquiry": "Yêu cầu chương trình thí điểm",
-    "pilotText": "Cho các tổ chức quan tâm đến triển khai thí điểm tương lai của hệ thống tiện ích nhiệt khai thác và trí tuệ năng lượng.",
-    "partnershipInquiry": "Yêu cầu đối tác",
-    "partnershipText": "Cho đối tác cơ sở hạ tầng, công ty năng lượng và tích hợp công nghệ trong hệ sinh thái.",
-    "generalInquiry": "Yêu cầu chung",
-    "generalText": "Câu hỏi chung về EnergieMIND, hệ sinh thái hoặc phát triển công nghệ.",
+    "title": "Contact",
+    "subtitle": "Get in touch with EnergieMIND",
+    "pageTitle": "Contact",
+    "pageIntro": "Interested in pilot opportunities, partnerships or learning more about EnergieMIND? We welcome inquiries from organizations exploring energy intelligence and mining heat utility.",
+    "pilotInquiry": "Pilot Program Inquiries",
+    "pilotText": "For organizations interested in future pilot deployments of mining heat utility and energy intelligence systems.",
+    "partnershipInquiry": "Partnership Inquiries",
+    "partnershipText": "For infrastructure partners, energy companies and technology integrators within the ecosystem.",
+    "generalInquiry": "General Inquiries",
+    "generalText": "For general questions about EnergieMIND, the ecosystem or technology development.",
     "email": "contact@energiemind.com",
-    "tokenNote": "Đối với yêu cầu cụ thể về token ENM, vui lòng truy cập enm.network"
+    "tokenNote": "For ENM token-specific inquiries, please visit enm.network"
   },
   "energyIntelligence": {
-    "pageTitle": "Trí tuệ năng lượng",
-    "pageIntro": "Giám sát và tối ưu hóa dòng năng lượng hỗ trợ AI — được thiết kế để mang trí tuệ đến hệ thống khai thác, sưởi ấm và cơ sở hạ tầng.",
-    "section1Title": "Giám sát thời gian thực",
-    "section1Text": "EnergieMIND đang phát triển bảng điều khiển và hệ thống giám sát theo dõi tiêu thụ, sản xuất và cơ hội tối ưu hóa năng lượng trong cơ sở hạ tầng được kết nối.",
-    "section2Title": "Tối ưu hóa hỗ trợ AI",
-    "section2Text": "Mô hình học máy để phân tích mẫu năng lượng, dự đoán nhu cầu và tối ưu hóa lịch vận hành cho hệ thống khai thác và sưởi ấm.",
-    "section3Title": "Điều phối cơ sở hạ tầng",
-    "section3Text": "Kết nối nguồn năng lượng tái tạo, hoạt động khai thác và nhu cầu sưởi ấm thành mạng trí tuệ năng lượng được điều phối."
+    "pageTitle": "Energy Intelligence",
+    "pageIntro": "AI-assisted monitoring and optimization of energy flows — designed to bring intelligence to mining, heating and infrastructure systems.",
+    "section1Title": "Real-Time Monitoring",
+    "section1Text": "EnergieMIND is developing dashboards and monitoring systems that track energy consumption, production and optimization opportunities across connected infrastructure.",
+    "section2Title": "AI-Assisted Optimization",
+    "section2Text": "Machine learning models designed to analyze energy patterns, predict demand and optimize operational schedules for mining and heating systems.",
+    "section3Title": "Infrastructure Coordination",
+    "section3Text": "Connecting renewable energy sources, mining operations and heating demand into a coordinated energy intelligence network."
   },
   "miningHeatUtility": {
-    "pageTitle": "Tiện ích nhiệt khai thác",
-    "pageIntro": "Biến sản phẩm phụ tính toán thành năng lượng nhiệt hữu ích cho tòa nhà, trang trại và cơ sở thương mại.",
-    "section1Title": "Khái niệm thu hồi nhiệt",
-    "section1Text": "Phần cứng khai thác tạo ra lượng nhiệt đáng kể. EnergieMIND được thiết kế để thu giữ nhiệt này và chuyển hướng đến các cơ sở cần sưởi ấm — khách sạn, nhà kính, tòa nhà thương mại và hoạt động nông nghiệp.",
-    "section2Title": "Khai thác giá trị kép",
-    "section2Text": "Thay vì coi nhiệt là chất thải, hoạt động khai thác có thể tạo ra cả đầu ra tính toán và năng lượng nhiệt hữu ích — cải thiện hiệu quả năng lượng tổng thể.",
-    "section3Title": "Tích hợp cơ sở",
-    "section3Text": "Hệ thống thu hồi nhiệt được thiết kế để tích hợp với cơ sở hạ tầng HVAC hiện có, cho phép tiện ích nhiệt khai thác mà không cần sửa đổi cơ sở lớn."
+    "pageTitle": "Mining Heat Utility",
+    "pageIntro": "Transforming computational byproduct into useful thermal energy for buildings, farms and commercial facilities.",
+    "section1Title": "Heat Recovery Concept",
+    "section1Text": "Mining hardware generates significant thermal output. EnergieMIND is designed to capture this heat and redirect it to facilities that need heating — hotels, greenhouses, commercial buildings and agricultural operations.",
+    "section2Title": "Dual-Value Mining",
+    "section2Text": "Instead of treating heat as waste, mining operations can produce both computational output and useful thermal energy — improving overall energy efficiency.",
+    "section3Title": "Facility Integration",
+    "section3Text": "Heat recovery systems designed for integration with existing HVAC infrastructure, enabling mining heat utility without major facility modifications."
   },
   "technology": {
-    "pageTitle": "Công nghệ",
-    "pageIntro": "Nền tảng kỹ thuật của EnergieMIND — bảng điều khiển năng lượng, tối ưu hóa AI, hệ thống thu hồi nhiệt và điều phối cơ sở hạ tầng.",
-    "section1Title": "Nền tảng bảng điều khiển năng lượng",
-    "section1Text": "Nền tảng giám sát thống nhất để theo dõi dòng năng lượng, hiệu suất máy khai thác, tỷ lệ thu hồi nhiệt và tình trạng hệ thống trong cơ sở hạ tầng được kết nối.",
-    "section2Title": "Công cụ tối ưu hóa AI",
-    "section2Text": "Mô-đun học máy cho phân tích mẫu năng lượng, dự báo nhu cầu và tối ưu hóa lịch vận hành trong hệ thống khai thác và sưởi ấm.",
-    "section3Title": "Hệ thống thu hồi nhiệt",
-    "section3Text": "Thiết kế kỹ thuật để thu giữ và phân phối nhiệt khai thác đến các cơ sở được kết nối — từ sưởi ấm trực tiếp bằng không khí đến hệ thống trao đổi nhiệt dựa trên nước.",
-    "section4Title": "API cơ sở hạ tầng",
-    "section4Text": "Giao diện tích hợp để kết nối hệ thống năng lượng tái tạo, phần cứng khai thác, cơ sở hạ tầng sưởi ấm và lớp tiện ích ENM."
+    "pageTitle": "Technology",
+    "pageIntro": "The technical foundation of EnergieMIND — energy dashboards, AI optimization, heat recovery systems and infrastructure coordination.",
+    "section1Title": "Energy Dashboard Platform",
+    "section1Text": "A unified monitoring platform designed to track energy flows, miner performance, heat recovery rates and system health across connected infrastructure.",
+    "section2Title": "AI Optimization Engine",
+    "section2Text": "Machine learning modules for energy pattern analysis, demand forecasting and operational schedule optimization across mining and heating systems.",
+    "section3Title": "Heat Recovery Systems",
+    "section3Text": "Engineering designs for capturing and distributing mining heat to connected facilities — from direct air heating to water-based heat exchange systems.",
+    "section4Title": "Infrastructure APIs",
+    "section4Text": "Integration interfaces designed for connecting renewable energy systems, mining hardware, heating infrastructure and the ENM utility layer."
   },
   "footer": {
-    "tagline": "Trí tuệ năng lượng hỗ trợ AI cho cơ sở hạ tầng bền vững.",
+    "tagline": "AI-powered energy intelligence for sustainable infrastructure.",
     "company": "TVK Infrastructure & Energy Systems LTD",
-    "rights": "Bảo lưu mọi quyền.",
+    "rights": "All rights reserved.",
     "enmNetwork": "ENM Network",
     "tvkGroup": "TVK Group",
-    "legal": "EnergieMIND là dự án trí tuệ năng lượng đang phát triển. Không hứa hẹn lợi nhuận đầu tư. Chi tiết token ENM được duy trì tại enm.network."
+    "legal": "EnergieMIND is a developing energy intelligence project. No investment returns are promised. ENM token details are maintained at enm.network."
+  },
+  "preflightAudit": {
+    "sealAlt": "Preflight Audit verification seal",
+    "verifiedBy": "Verified by Preflight Audit",
+    "subtitle": "Independent Launch Readiness Assessment",
+    "coversLabel": "Assessment covers:",
+    "verifyLink": "View verification",
+    "areas": {
+      "platformSecurity": "Platform Security",
+      "infrastructure": "Infrastructure",
+      "operationalReadiness": "Operational Readiness",
+      "technologyArchitecture": "Technology Architecture",
+      "deploymentReadiness": "Deployment Readiness"
+    }
+  },
+  "platformOverview": {
+    "pageTitle": "Platform Overview",
+    "pageIntro": "An overview of the EnergieMIND platform — energy intelligence, monitoring, optimization and infrastructure coordination in one coordinated layer.",
+    "section1Title": "Unified Energy Layer",
+    "section1Text": "EnergieMIND is designed as a coordination platform connecting energy monitoring, mining operations, heat recovery and AI-assisted optimization into a single operational view.",
+    "section2Title": "Monitoring & Intelligence",
+    "section2Text": "The platform architecture supports real-time dashboards, operational metrics and pattern analysis across connected energy and mining infrastructure.",
+    "section3Title": "Deployment Model",
+    "section3Text": "EnergieMIND is being prepared for pilot deployments across hotels, commercial buildings, agricultural facilities and industrial sites — with modular integration into existing infrastructure."
+  },
+  "security": {
+    "pageTitle": "Security",
+    "pageIntro": "Security and operational readiness considerations for the EnergieMIND platform — from infrastructure design through deployment preparation.",
+    "section1Title": "Platform Security",
+    "section1Text": "EnergieMIND is being developed with security-conscious architecture for monitoring systems, data flows and operational interfaces across connected infrastructure.",
+    "section2Title": "Infrastructure & Operations",
+    "section2Text": "Infrastructure design considers operational resilience, access controls and secure coordination between energy systems, mining hardware and heating infrastructure.",
+    "section3Title": "Independent Assessment",
+    "section3Text": "EnergieMIND has completed an independent launch readiness assessment through Preflight Audit, covering platform security, infrastructure, operational readiness, technology architecture and deployment readiness."
   },
   "common": {
-    "learnMore": "Tìm hiểu thêm",
-    "backToHome": "Về trang chủ",
-    "selectLanguage": "Chọn ngôn ngữ",
-    "statusDeveloping": "Đang phát triển",
-    "statusPlanned": "Đã lên kế hoạch",
-    "statusFuture": "Tương lai",
-    "statusInProgress": "Đang tiến hành"
+    "learnMore": "Tìm Hiểu Thêm",
+    "backToHome": "Về Trang Chủ",
+    "selectLanguage": "Chọn Ngôn Ngữ",
+    "statusDeveloping": "Đang Phát Triển",
+    "statusPlanned": "Đã Lên Kế Hoạch",
+    "statusFuture": "Tương Lai",
+    "statusInProgress": "Đang Tiến Hành"
   }
 }

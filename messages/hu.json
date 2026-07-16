@@ -1,15 +1,15 @@
 {
   "meta": {
-    "title": "EnergieMIND — AI-alapú energiaintelligencia",
-    "description": "Az EnergieMIND az energiarendszereket, a bányászati hő visszanyerését, az AI optimalizálást és a fenntartható infrastruktúrát egy intelligens energiarétegbe kapcsolja."
+    "title": "EnergieMIND — AI-Powered Energy Intelligence",
+    "description": "EnergieMIND connects energy systems, mining heat recovery, AI optimization and sustainable infrastructure into one intelligent energy layer."
   },
   "nav": {
     "home": "Kezdőlap",
     "mission": "Küldetés",
     "energyIntelligence": "Energiaintelligencia",
-    "miningHeatUtility": "Bányászati hő hasznosítása",
+    "miningHeatUtility": "Bányászati Hő",
     "technology": "Technológia",
-    "pilotProgram": "Pilot program",
+    "pilotProgram": "Pilot Program",
     "ecosystem": "Ökoszisztéma",
     "enmToken": "ENM Token",
     "roadmap": "Útiterv",
@@ -17,229 +17,263 @@
   },
   "hero": {
     "headline": "EnergieMIND",
-    "subheadline": "AI-alapú energiaintelligencia bányászati hő hasznosításához, fenntartható infrastruktúrához és a jövő energiahálózataihoz.",
-    "supporting": "Energiaintelligencia · Bányászati hő visszanyerés · AI optimalizálás · Fenntartható infrastruktúra · ENM Utility réteg",
-    "ctaExplore": "Fedezze fel az EnergieMIND-ot",
-    "ctaPilot": "Pilot lehetőségek megbeszélése",
-    "ctaToken": "ENM Token információk megtekintése"
+    "subheadline": "AI-powered energy intelligence for mining heat utility, sustainable infrastructure and future energy networks.",
+    "supporting": "Energy Intelligence · Mining Heat Recovery · AI Optimization · Sustainable Infrastructure · ENM Utility Layer",
+    "ctaExplore": "Explore EnergieMIND",
+    "ctaPilot": "Discuss Pilot Opportunities",
+    "ctaToken": "View ENM Token Information"
   },
   "mission": {
-    "title": "Küldetés",
-    "subtitle": "Energia, bányászat, AI és fenntarthatóság összekapcsolása",
-    "description": "Az EnergieMIND az energiarendszereket, bányászati rendszereket, AI koordinációt és fenntarthatóságot egy intelligens energiainfrastruktúra-koncepcióba kapcsolja. Fejlesztjük azt a koordinációs réteget, ahol a számítási energia, a visszanyert hő és az infrastruktúra intelligencia együttműködik.",
-    "pageTitle": "Küldetésünk",
-    "pageIntro": "Az EnergieMIND arra lett tervezve, hogy átalakítsa az energia- és bányászati rendszerek kölcsönhatását — az elpazarolt számítási energiát hasznos hővé, intelligenciává és fenntartható infrastruktúra értékké alakítva.",
-    "visionTitle": "Vízió",
-    "visionText": "Egy jövő, ahol minden joule számítási energia intelligensen koordinált — hash teljesítményt, visszanyerhető hőt, működési adatokat és optimalizálási lehetőségeket biztosítva épületek, gazdaságok és energiahálózatok számára.",
-    "approachTitle": "Megközelítés",
-    "approachText": "Az energiamonitoringot, AI-asszisztált optimalizálást, bányászati hő visszanyerést és fenntartható infrastruktúra tervezést egyesítjük egy egységes energiaintelligencia platformon — jelenleg fejlesztés és pilot előkészítés alatt."
+    "title": "Mission",
+    "subtitle": "Connecting energy, mining, AI and sustainability",
+    "description": "EnergieMIND connects energy systems, mining systems, AI coordination and sustainability into one intelligent energy infrastructure concept. We are developing the coordination layer where computational energy, recovered heat and infrastructure intelligence work together.",
+    "pageTitle": "Our Mission",
+    "pageIntro": "EnergieMIND is designed to transform how energy and mining systems interact — turning wasted computational energy into useful heat, intelligence and sustainable infrastructure value.",
+    "visionTitle": "Vision",
+    "visionText": "A future where every joule of computational energy is intelligently coordinated — producing hash power, recoverable heat, operational data and optimization opportunities for buildings, farms and energy networks.",
+    "approachTitle": "Approach",
+    "approachText": "We combine energy monitoring, AI-assisted optimization, mining heat recovery and sustainable infrastructure design into a unified energy intelligence platform — currently in development and pilot preparation."
   },
   "problem": {
-    "title": "A probléma",
-    "subtitle": "Az energiarendszereknek hiányzik a koordináció és az intelligencia",
+    "title": "The Problem",
+    "subtitle": "Energy systems lack coordination and intelligence",
     "items": {
-      "wastedEnergy": "Energia pazarolódik a termelés, elosztás és fogyasztás során.",
-      "wastedHeat": "A bányászati hő elpazarolódik, miközben a kereskedelmi épületeknek fűtésre van szükségük.",
-      "noIntelligence": "Az energiarendszereknek hiányzik a valós idejű intelligencia és koordináció.",
-      "infrastructure": "Az infrastruktúrának jobb koordinációra van szüksége az energia, hő és számítás között."
+      "wastedEnergy": "Energy is wasted across generation, distribution and consumption.",
+      "wastedHeat": "Mining heat is wasted while commercial buildings need heating.",
+      "noIntelligence": "Energy systems lack real-time intelligence and coordination.",
+      "infrastructure": "Infrastructure needs better coordination between energy, heat and compute."
     }
   },
   "thesis": {
-    "title": "Az EnergieMIND tézis",
-    "subtitle": "A számítási energiát nem szabad elpazarolni",
-    "description": "A bányászgépek többet termelhetnek hash teljesítménynél. Az EnergieMIND a számítási energia infrastruktúra teljes értékláncának megragadására és koordinálására lett tervezve.",
+    "title": "The EnergieMIND Thesis",
+    "subtitle": "Computational energy should not be wasted",
+    "description": "Mining machines can produce more than hash power. EnergieMIND is designed to capture and coordinate the full value chain of computational energy infrastructure.",
     "outputs": {
-      "hashPower": "Hash teljesítmény a hálózat biztonságához",
-      "heat": "Visszanyerhető hő épületekhez és létesítményekhez",
-      "data": "Működési és energia teljesítmény adatok",
-      "metrics": "Valós idejű működési metrikák",
-      "optimization": "Energia optimalizálási lehetőségek"
+      "hashPower": "Hash power for network security",
+      "heat": "Recoverable heat for buildings and facilities",
+      "data": "Operational and energy performance data",
+      "metrics": "Real-time operational metrics",
+      "optimization": "Energy optimization opportunities"
     }
   },
   "pillars": {
-    "title": "Alappillérek",
-    "subtitle": "Az energiaintelligencia öt összekapcsolt rétege",
+    "title": "Core Pillars",
+    "subtitle": "Five interconnected layers of energy intelligence",
     "energyIntelligence": {
-      "title": "Energiaintelligencia",
-      "description": "AI-asszisztált monitoring, elemzés és optimalizálás az energiaáramlásokban bányászati, fűtési és infrastruktúra rendszerekben."
+      "title": "Energy Intelligence",
+      "description": "AI-assisted monitoring, analysis and optimization of energy flows across mining, heating and infrastructure systems."
     },
     "miningHeatUtility": {
-      "title": "Bányászati hő hasznosítása",
-      "description": "Bányászati hő használata otthonokhoz, szállodákhoz, gazdaságokhoz és kereskedelmi létesítményekhez — a számítási melléktermék hasznos hőenergiává alakítása."
+      "title": "Mining Heat Utility",
+      "description": "Using mining heat for homes, hotels, farms and commercial facilities — turning computational byproduct into useful thermal energy."
     },
     "energyDashboard": {
-      "title": "Energia irányítópult",
-      "description": "Energiafogyasztás, bányász teljesítmény, hő visszanyerési arányok és működési teljesítmény monitorozása egy egységes nézetben."
+      "title": "Energy Dashboard",
+      "description": "Monitoring energy consumption, miner output, heat recovery rates and operational performance in one unified view."
     },
     "sustainableInfrastructure": {
-      "title": "Fenntartható infrastruktúra",
-      "description": "Megújuló energia, bányászati műveletek, fűtési rendszerek és energiahatékonyság összekapcsolása koordinált infrastruktúrába."
+      "title": "Sustainable Infrastructure",
+      "description": "Connecting renewable energy, mining operations, heating systems and energy efficiency into coordinated infrastructure."
     },
     "enmUtilityLayer": {
-      "title": "ENM Utility réteg",
-      "description": "Jövőbeli tokenizált koordinációs réteg az ökoszisztéma hasznosságához — lehetővé teszi a részvételt az EnergieMIND energiahálózatban."
+      "title": "ENM Utility Layer",
+      "description": "Future tokenized coordination layer for ecosystem utility — enabling participation in the EnergieMIND energy network."
     }
   },
   "pilot": {
-    "title": "Pilot program",
-    "subtitle": "Jövőbeli kereskedelmi pilotokra tervezve",
-    "description": "Az EnergieMIND pilot lehetőségeket készít elő különböző létesítménytípusokhoz. Megoldásokat fejlesztünk a bányászati hő hasznosítása és energiaintelligencia iránt érdeklődő szervezetek számára.",
+    "title": "Pilot Program",
+    "subtitle": "Designed for future commercial pilots",
+    "description": "EnergieMIND is preparing pilot opportunities across diverse facility types. We are developing solutions for organizations interested in mining heat utility and energy intelligence.",
     "targets": {
-      "hotels": "Szállodák",
-      "commercial": "Kereskedelmi épületek",
-      "greenhouses": "Üvegházak",
-      "farms": "Gazdaságok",
-      "solar": "Napelemes telephelyek",
-      "industrial": "Ipari létesítmények",
-      "mining": "Bányászati létesítmények",
-      "datacenters": "Adatközpontok"
+      "hotels": "Hotels",
+      "commercial": "Commercial Buildings",
+      "greenhouses": "Greenhouses",
+      "farms": "Farms",
+      "solar": "Solar Sites",
+      "industrial": "Industrial Facilities",
+      "mining": "Mining Facilities",
+      "datacenters": "Data Centers"
     },
-    "pageTitle": "Pilot program",
-    "pageIntro": "Az EnergieMIND pilot előkészítési fázisban van. Telepítési modelleket tervezünk olyan létesítményekhez, amelyek profitálhatnak a bányászati hő visszanyerésből, energiaintelligenciából és AI-asszisztált optimalizálásból.",
-    "cta": "Pilot lehetőségek megbeszélése"
+    "pageTitle": "Pilot Program",
+    "pageIntro": "EnergieMIND is in pilot preparation phase. We are designing deployment models for facilities that can benefit from mining heat recovery, energy intelligence and AI-assisted optimization.",
+    "cta": "Discuss Pilot Opportunities"
   },
   "ecosystem": {
-    "title": "Ökoszisztéma",
-    "subtitle": "A TVK / EnteleKRON ökoszisztéma része",
-    "description": "Az EnergieMIND az energiaintelligencia és fenntartható infrastruktúra rétege a bizalom, AI és infrastruktúra szélesebb ökoszisztémájában.",
+    "title": "Ecosystem",
+    "subtitle": "Part of the TVK / EnteleKRON ecosystem",
+    "description": "EnergieMIND is the energy intelligence and sustainable infrastructure layer within a broader ecosystem of trust, AI and infrastructure.",
     "layers": {
       "tvk": {
         "name": "TVK Group",
-        "role": "Holding réteg"
+        "role": "Holding Layer"
       },
       "infrasphere": {
         "name": "InfraSphere",
-        "role": "Infrastruktúra réteg"
+        "role": "Infrastructure Layer"
       },
       "sovra": {
         "name": "SOVRA",
-        "role": "AI intelligencia réteg"
+        "role": "AI Intelligence Layer"
       },
       "entelekron": {
         "name": "EnteleKRON",
-        "role": "Bizalom réteg"
+        "role": "Trust Layer"
       },
       "energiemind": {
         "name": "EnergieMIND",
-        "role": "Energiaintelligencia réteg"
+        "role": "Energy Intelligence Layer"
       },
       "enm": {
         "name": "ENM",
-        "role": "Utility token réteg"
+        "role": "Utility Token Layer"
       }
     },
-    "pageTitle": "Ökoszisztéma",
-    "pageIntro": "Az EnergieMIND energiaintelligencia rétegként működik a TVK / EnteleKRON ökoszisztémában — összekapcsolva az infrastruktúrát, AI-t, bizalmat és utility koordinációt."
+    "pageTitle": "Ecosystem",
+    "pageIntro": "EnergieMIND operates as the energy intelligence layer within the TVK / EnteleKRON ecosystem — connecting infrastructure, AI, trust and utility coordination."
   },
   "enm": {
     "title": "ENM Token",
-    "subtitle": "Utility réteg az EnergieMIND ökoszisztémához",
-    "description": "Az ENM az EnergieMIND réteghez előkészített Ethereum ERC-20 token. Utility koordinációs tokenként lett tervezve az ökoszisztémában — nem befektetési termékként.",
-    "contract": "Szerződés címe",
+    "subtitle": "Utility layer for the EnergieMIND ecosystem",
+    "description": "ENM is the Ethereum ERC-20 token prepared for the EnergieMIND layer. It is designed as a utility coordination token within the ecosystem — not as an investment product.",
+    "contract": "Contract Address",
     "contractAddress": "0x00faB8baFfF3f849dd23FF68cfE51d8E3d09937D",
     "network": "Ethereum (ERC-20)",
-    "riskNotice": "Kockázati figyelmeztetés",
-    "riskText": "Az ENM utility token az EnergieMIND ökoszisztémában. Nem befektetési termék. A token értékek ingadozhatnak. Nincs ígért hozam. Csak a kockázatok megértése után vegyen részt. Teljes token és előértékesítési részletek az enm.network oldalon.",
-    "cta": "Ugrás az ENM Networkre",
-    "pageTitle": "ENM Token információk",
-    "pageIntro": "Az ENM utility token rétegként szolgál az EnergieMIND ökoszisztémában. Teljes token részletek, előértékesítési információk és dokumentáció: enm.network.",
-    "utilityTitle": "Utility cél",
-    "utilityText": "Az ENM az ökoszisztéma utility koordinációjára lett tervezve — lehetővé teszi a részvételt az EnergieMIND energiaintelligencia hálózatban. Nem befektetési eszközként jelenik meg.",
-    "disclaimerTitle": "Fontos felelősségkizárás",
-    "disclaimerText": "Ez az oldal csak alapvető szerződési információkat nyújt. Az EnergieMIND.com az energiaintelligencia projektre összpontosít. Minden részletes token információ, előértékesítési részlet és kockázati közzététel az enm.network oldalon található."
+    "riskNotice": "Risk Notice",
+    "riskText": "ENM is a utility token within the EnergieMIND ecosystem. It is not an investment product. Token values may fluctuate. No returns are promised. Participate only after understanding the risks. Full token and presale details are available at enm.network.",
+    "cta": "Go to ENM Network",
+    "pageTitle": "ENM Token Information",
+    "pageIntro": "ENM serves as the utility token layer for the EnergieMIND ecosystem. For complete token details, presale information and documentation, visit enm.network.",
+    "utilityTitle": "Utility Purpose",
+    "utilityText": "ENM is designed for ecosystem utility coordination — enabling participation in the EnergieMIND energy intelligence network. It is not presented as an investment vehicle.",
+    "disclaimerTitle": "Important Disclaimer",
+    "disclaimerText": "This page provides basic contract information only. EnergieMIND.com focuses on the energy intelligence project. All detailed token information, presale details and risk disclosures are maintained at enm.network."
   },
   "roadmap": {
-    "title": "Útiterv",
-    "subtitle": "Fejlesztési mérföldkövek",
-    "pageTitle": "Útiterv",
-    "pageIntro": "Az EnergieMIND fejlesztése fázisos megközelítést követ — a koncepciótól és architektúrától a pilot előkészítésen át a jövőbeli telepítésig.",
+    "title": "Roadmap",
+    "subtitle": "Development milestones",
+    "pageTitle": "Roadmap",
+    "pageIntro": "EnergieMIND development follows a phased approach — from concept and architecture through pilot preparation and future deployment.",
     "phases": {
       "phase1": {
-        "title": "1. fázis — Koncepció és architektúra",
-        "status": "Folyamatban",
-        "items": "Energiaintelligencia koncepció fejlesztés, ökoszisztéma architektúra tervezés, bányászati hő hasznosítás kutatás"
+        "title": "Phase 1 — Concept & Architecture",
+        "status": "In Progress",
+        "items": "Energy intelligence concept development, ecosystem architecture design, mining heat utility research"
       },
       "phase2": {
-        "title": "2. fázis — Technológiai fejlesztés",
-        "status": "Fejlesztés alatt",
-        "items": "Energia irányítópult fejlesztés, AI optimalizálási modulok, hő visszanyerési rendszer tervezés"
+        "title": "Phase 2 — Technology Development",
+        "status": "Developing",
+        "items": "Energy dashboard development, AI optimization modules, heat recovery system design"
       },
       "phase3": {
-        "title": "3. fázis — Pilot előkészítés",
-        "status": "Tervezett",
-        "items": "Pilot helyszínek azonosítása, létesítmény értékelés, telepítési modell tervezés"
+        "title": "Phase 3 — Pilot Preparation",
+        "status": "Planned",
+        "items": "Pilot site identification, facility assessment, deployment model design"
       },
       "phase4": {
-        "title": "4. fázis — Kereskedelmi pilotok",
-        "status": "Jövő",
-        "items": "Pilotok szállodákban, kereskedelmi épületekben és mezőgazdasági létesítményekben, teljesítmény validálás"
+        "title": "Phase 4 — Commercial Pilots",
+        "status": "Future",
+        "items": "Hotel, commercial building and agricultural facility pilots, performance validation"
       },
       "phase5": {
-        "title": "5. fázis — Hálózat bővítés",
-        "status": "Jövő",
-        "items": "Több helyszín koordináció, ENM Utility réteg aktiválás, ökoszisztéma integráció"
+        "title": "Phase 5 — Network Expansion",
+        "status": "Future",
+        "items": "Multi-site coordination, ENM utility layer activation, ecosystem integration"
       }
     }
   },
   "contact": {
-    "title": "Kapcsolat",
-    "subtitle": "Lépjen kapcsolatba az EnergieMIND-dal",
-    "pageTitle": "Kapcsolat",
-    "pageIntro": "Érdekli a pilot lehetőségek, partnerségek vagy többet szeretne tudni az EnergieMIND-ról? Üdvözöljük az energiaintelligencia és bányászati hő hasznosítását kutató szervezetek megkereséseit.",
-    "pilotInquiry": "Pilot program megkeresések",
-    "pilotText": "A bányászati hő hasznosítás és energiaintelligencia rendszerek jövőbeli pilot telepítései iránt érdeklődő szervezetek számára.",
-    "partnershipInquiry": "Partnerségi megkeresések",
-    "partnershipText": "Infrastruktúra partnerek, energiavállalatok és technológiai integrátorok számára az ökoszisztémában.",
-    "generalInquiry": "Általános megkeresések",
-    "generalText": "Általános kérdések az EnergieMIND-ról, az ökoszisztémáról vagy a technológiai fejlesztésről.",
+    "title": "Contact",
+    "subtitle": "Get in touch with EnergieMIND",
+    "pageTitle": "Contact",
+    "pageIntro": "Interested in pilot opportunities, partnerships or learning more about EnergieMIND? We welcome inquiries from organizations exploring energy intelligence and mining heat utility.",
+    "pilotInquiry": "Pilot Program Inquiries",
+    "pilotText": "For organizations interested in future pilot deployments of mining heat utility and energy intelligence systems.",
+    "partnershipInquiry": "Partnership Inquiries",
+    "partnershipText": "For infrastructure partners, energy companies and technology integrators within the ecosystem.",
+    "generalInquiry": "General Inquiries",
+    "generalText": "For general questions about EnergieMIND, the ecosystem or technology development.",
     "email": "contact@energiemind.com",
-    "tokenNote": "ENM token specifikus megkeresésekhez látogasson el az enm.network oldalra"
+    "tokenNote": "For ENM token-specific inquiries, please visit enm.network"
   },
   "energyIntelligence": {
-    "pageTitle": "Energiaintelligencia",
-    "pageIntro": "Energiaáramlások AI-asszisztált monitorozása és optimalizálása — intelligenciát hoz a bányászati, fűtési és infrastruktúra rendszerekbe.",
-    "section1Title": "Valós idejű monitorozás",
-    "section1Text": "Az EnergieMIND irányítópultokat és monitorozó rendszereket fejleszt, amelyek követik az energiafogyasztást, termelést és optimalizálási lehetőségeket a csatlakoztatott infrastruktúrában.",
-    "section2Title": "AI-asszisztált optimalizálás",
-    "section2Text": "Gépi tanulási modellek energiaminták elemzésére, kereslet előrejelzésére és bányászati és fűtési rendszerek ütemezésének optimalizálására.",
-    "section3Title": "Infrastruktúra koordináció",
-    "section3Text": "Megújuló energiaforrások, bányászati műveletek és fűtési kereslet összekapcsolása koordinált energiaintelligencia hálózatba."
+    "pageTitle": "Energy Intelligence",
+    "pageIntro": "AI-assisted monitoring and optimization of energy flows — designed to bring intelligence to mining, heating and infrastructure systems.",
+    "section1Title": "Real-Time Monitoring",
+    "section1Text": "EnergieMIND is developing dashboards and monitoring systems that track energy consumption, production and optimization opportunities across connected infrastructure.",
+    "section2Title": "AI-Assisted Optimization",
+    "section2Text": "Machine learning models designed to analyze energy patterns, predict demand and optimize operational schedules for mining and heating systems.",
+    "section3Title": "Infrastructure Coordination",
+    "section3Text": "Connecting renewable energy sources, mining operations and heating demand into a coordinated energy intelligence network."
   },
   "miningHeatUtility": {
-    "pageTitle": "Bányászati hő hasznosítása",
-    "pageIntro": "A számítási melléktermék hasznos hőenergiává alakítása épületek, gazdaságok és kereskedelmi létesítmények számára.",
-    "section1Title": "Hő visszanyerési koncepció",
-    "section1Text": "A bányász hardver jelentős hőtermelést generál. Az EnergieMIND e hő megragadására és fűtést igénylő létesítményekhez — szállodák, üvegházak, kereskedelmi épületek és mezőgazdasági műveletek — irányítására lett tervezve.",
-    "section2Title": "Kettős értékű bányászat",
-    "section2Text": "A hő hulladékként kezelése helyett a bányászati műveletek számítási kimenetet és hasznos hőenergiát is termelhetnek — javítva az összes energiahatékonyságot.",
-    "section3Title": "Létesítmény integráció",
-    "section3Text": "Hő visszanyerési rendszerek a meglévő HVAC infrastruktúrával való integrációra tervezve, nagy létesítmény módosítások nélkül."
+    "pageTitle": "Mining Heat Utility",
+    "pageIntro": "Transforming computational byproduct into useful thermal energy for buildings, farms and commercial facilities.",
+    "section1Title": "Heat Recovery Concept",
+    "section1Text": "Mining hardware generates significant thermal output. EnergieMIND is designed to capture this heat and redirect it to facilities that need heating — hotels, greenhouses, commercial buildings and agricultural operations.",
+    "section2Title": "Dual-Value Mining",
+    "section2Text": "Instead of treating heat as waste, mining operations can produce both computational output and useful thermal energy — improving overall energy efficiency.",
+    "section3Title": "Facility Integration",
+    "section3Text": "Heat recovery systems designed for integration with existing HVAC infrastructure, enabling mining heat utility without major facility modifications."
   },
   "technology": {
-    "pageTitle": "Technológia",
-    "pageIntro": "Az EnergieMIND technikai alapja — energia irányítópultok, AI optimalizálás, hő visszanyerési rendszerek és infrastruktúra koordináció.",
-    "section1Title": "Energia irányítópult platform",
-    "section1Text": "Egységes monitorozó platform energiaáramlások, bányász teljesítmény, hő visszanyerési arányok és rendszer állapot követésére a csatlakoztatott infrastruktúrában.",
-    "section2Title": "AI optimalizálási motor",
-    "section2Text": "Gépi tanulási modulok energiaminta elemzésre, kereslet előrejelzésre és ütemezés optimalizálásra bányászati és fűtési rendszerekben.",
-    "section3Title": "Hő visszanyerési rendszerek",
-    "section3Text": "Mérnöki tervek a bányászati hő megragadására és elosztására csatlakoztatott létesítményekhez — közvetlen levegőfűtéstől a vízalapú hőcserélő rendszerekig.",
-    "section4Title": "Infrastruktúra API-k",
-    "section4Text": "Integrációs interfészek megújuló energia rendszerek, bányász hardver, fűtési infrastruktúra és ENM Utility réteg összekapcsolására."
+    "pageTitle": "Technology",
+    "pageIntro": "The technical foundation of EnergieMIND — energy dashboards, AI optimization, heat recovery systems and infrastructure coordination.",
+    "section1Title": "Energy Dashboard Platform",
+    "section1Text": "A unified monitoring platform designed to track energy flows, miner performance, heat recovery rates and system health across connected infrastructure.",
+    "section2Title": "AI Optimization Engine",
+    "section2Text": "Machine learning modules for energy pattern analysis, demand forecasting and operational schedule optimization across mining and heating systems.",
+    "section3Title": "Heat Recovery Systems",
+    "section3Text": "Engineering designs for capturing and distributing mining heat to connected facilities — from direct air heating to water-based heat exchange systems.",
+    "section4Title": "Infrastructure APIs",
+    "section4Text": "Integration interfaces designed for connecting renewable energy systems, mining hardware, heating infrastructure and the ENM utility layer."
   },
   "footer": {
-    "tagline": "AI-alapú energiaintelligencia fenntartható infrastruktúrához.",
+    "tagline": "AI-powered energy intelligence for sustainable infrastructure.",
     "company": "TVK Infrastructure & Energy Systems LTD",
-    "rights": "Minden jog fenntartva.",
+    "rights": "All rights reserved.",
     "enmNetwork": "ENM Network",
     "tvkGroup": "TVK Group",
-    "legal": "Az EnergieMIND fejlődő energiaintelligencia projekt. Nincs ígért befektetési hozam. ENM token részletek az enm.network oldalon."
+    "legal": "EnergieMIND is a developing energy intelligence project. No investment returns are promised. ENM token details are maintained at enm.network."
+  },
+  "preflightAudit": {
+    "sealAlt": "Preflight Audit verification seal",
+    "verifiedBy": "Verified by Preflight Audit",
+    "subtitle": "Independent Launch Readiness Assessment",
+    "coversLabel": "Assessment covers:",
+    "verifyLink": "View verification",
+    "areas": {
+      "platformSecurity": "Platform Security",
+      "infrastructure": "Infrastructure",
+      "operationalReadiness": "Operational Readiness",
+      "technologyArchitecture": "Technology Architecture",
+      "deploymentReadiness": "Deployment Readiness"
+    }
+  },
+  "platformOverview": {
+    "pageTitle": "Platform Overview",
+    "pageIntro": "An overview of the EnergieMIND platform — energy intelligence, monitoring, optimization and infrastructure coordination in one coordinated layer.",
+    "section1Title": "Unified Energy Layer",
+    "section1Text": "EnergieMIND is designed as a coordination platform connecting energy monitoring, mining operations, heat recovery and AI-assisted optimization into a single operational view.",
+    "section2Title": "Monitoring & Intelligence",
+    "section2Text": "The platform architecture supports real-time dashboards, operational metrics and pattern analysis across connected energy and mining infrastructure.",
+    "section3Title": "Deployment Model",
+    "section3Text": "EnergieMIND is being prepared for pilot deployments across hotels, commercial buildings, agricultural facilities and industrial sites — with modular integration into existing infrastructure."
+  },
+  "security": {
+    "pageTitle": "Security",
+    "pageIntro": "Security and operational readiness considerations for the EnergieMIND platform — from infrastructure design through deployment preparation.",
+    "section1Title": "Platform Security",
+    "section1Text": "EnergieMIND is being developed with security-conscious architecture for monitoring systems, data flows and operational interfaces across connected infrastructure.",
+    "section2Title": "Infrastructure & Operations",
+    "section2Text": "Infrastructure design considers operational resilience, access controls and secure coordination between energy systems, mining hardware and heating infrastructure.",
+    "section3Title": "Independent Assessment",
+    "section3Text": "EnergieMIND has completed an independent launch readiness assessment through Preflight Audit, covering platform security, infrastructure, operational readiness, technology architecture and deployment readiness."
   },
   "common": {
-    "learnMore": "Tudjon meg többet",
-    "backToHome": "Vissza a kezdőlapra",
-    "selectLanguage": "Nyelv választása",
-    "statusDeveloping": "Fejlesztés alatt",
+    "learnMore": "Tudj Meg Többet",
+    "backToHome": "Vissza a Kezdőlapra",
+    "selectLanguage": "Nyelv Választása",
+    "statusDeveloping": "Fejlesztés Alatt",
     "statusPlanned": "Tervezett",
     "statusFuture": "Jövő",
     "statusInProgress": "Folyamatban"

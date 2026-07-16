@@ -4,7 +4,7 @@ import PageHeader, { ContentSection, BackLink } from "@/components/PageHeader";
 import Section from "@/components/Section";
 import PreflightAuditBadge from "@/components/PreflightAuditBadge";
 
-export default async function TechnologyPage({
+export default async function SecurityPage({
   params,
 }: {
   params: Promise<{ locale: string }>;
@@ -15,7 +15,7 @@ export default async function TechnologyPage({
 }
 
 function Content() {
-  const t = useTranslations("technology");
+  const t = useTranslations("security");
   const common = useTranslations("common");
 
   return (
@@ -25,7 +25,6 @@ function Content() {
         <ContentSection title={t("section1Title")} text={t("section1Text")} />
         <ContentSection title={t("section2Title")} text={t("section2Text")} />
         <ContentSection title={t("section3Title")} text={t("section3Text")} />
-        <ContentSection title={t("section4Title")} text={t("section4Text")} />
         <PreflightAuditBadge className="mt-2" />
         <BackLink label={common("backToHome")} />
       </Section>

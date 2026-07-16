@@ -2,6 +2,7 @@
 
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
+import PreflightAuditBadge from "@/components/PreflightAuditBadge";
 
 export default function Footer() {
   const t = useTranslations("footer");
@@ -72,6 +73,9 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-white/10 pt-8">
+          <div className="mb-6">
+            <PreflightAuditBadge variant="compact" />
+          </div>
           <p className="text-xs text-silver-400 mb-4 leading-relaxed">{t("legal")}</p>
           <div className="flex flex-col sm:flex-row justify-between items-center gap-2">
             <p className="text-sm text-silver-400">
