@@ -235,6 +235,40 @@
     "tvkGroup": "TVK Group",
     "legal": "EnergieMIND is a developing energy intelligence project. No investment returns are promised. ENM token details are maintained at enm.network."
   },
+  "preflightAudit": {
+    "sealAlt": "Preflight Audit verification seal",
+    "verifiedBy": "Verified by Preflight Audit",
+    "subtitle": "Independent Launch Readiness Assessment",
+    "coversLabel": "Assessment covers:",
+    "verifyLink": "View verification",
+    "areas": {
+      "platformSecurity": "Platform Security",
+      "infrastructure": "Infrastructure",
+      "operationalReadiness": "Operational Readiness",
+      "technologyArchitecture": "Technology Architecture",
+      "deploymentReadiness": "Deployment Readiness"
+    }
+  },
+  "platformOverview": {
+    "pageTitle": "Platform Overview",
+    "pageIntro": "An overview of the EnergieMIND platform — energy intelligence, monitoring, optimization and infrastructure coordination in one coordinated layer.",
+    "section1Title": "Unified Energy Layer",
+    "section1Text": "EnergieMIND is designed as a coordination platform connecting energy monitoring, mining operations, heat recovery and AI-assisted optimization into a single operational view.",
+    "section2Title": "Monitoring & Intelligence",
+    "section2Text": "The platform architecture supports real-time dashboards, operational metrics and pattern analysis across connected energy and mining infrastructure.",
+    "section3Title": "Deployment Model",
+    "section3Text": "EnergieMIND is being prepared for pilot deployments across hotels, commercial buildings, agricultural facilities and industrial sites — with modular integration into existing infrastructure."
+  },
+  "security": {
+    "pageTitle": "Security",
+    "pageIntro": "Security and operational readiness considerations for the EnergieMIND platform — from infrastructure design through deployment preparation.",
+    "section1Title": "Platform Security",
+    "section1Text": "EnergieMIND is being developed with security-conscious architecture for monitoring systems, data flows and operational interfaces across connected infrastructure.",
+    "section2Title": "Infrastructure & Operations",
+    "section2Text": "Infrastructure design considers operational resilience, access controls and secure coordination between energy systems, mining hardware and heating infrastructure.",
+    "section3Title": "Independent Assessment",
+    "section3Text": "EnergieMIND has completed an independent launch readiness assessment through Preflight Audit, covering platform security, infrastructure, operational readiness, technology architecture and deployment readiness."
+  },
   "common": {
     "learnMore": "Learn More",
     "backToHome": "Back to Home",

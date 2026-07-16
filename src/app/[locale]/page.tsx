@@ -6,6 +6,7 @@ import Section from "@/components/Section";
 import PillarCard from "@/components/PillarCard";
 import EcosystemLayer from "@/components/EcosystemLayer";
 import EnmPreview from "@/components/EnmPreview";
+import PreflightAuditBadge from "@/components/PreflightAuditBadge";
 
 export default async function HomePage({
   params,
@@ -179,6 +180,12 @@ function HomeContent() {
           <Link href="/ecosystem" className="btn-secondary">
             {t("common.learnMore")}
           </Link>
+        </div>
+      </Section>
+
+      <Section id="trust" className="py-12 lg:py-16">
+        <div className="max-w-3xl mx-auto">
+          <PreflightAuditBadge />
         </div>
       </Section>
 
