@@ -1,3 +1,4 @@
+import Script from "next/script";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages, setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
@@ -37,6 +38,17 @@ export default async function LocaleLayout({
           <main>{children}</main>
           <Footer />
         </NextIntlClientProvider>
+        <Script
+          id="sovra-ai-advisor-loader"
+          src="https://www.sovra.network/assets/sovra-advisor.js"
+          data-api="https://www.sovra.network/api/advisor"
+          data-site="EnergieMIND"
+          data-accent="#16a34a"
+          data-context="public"
+          data-support={`/${locale}/contact`}
+          data-privacy="https://www.sovra.network/advisor-privacy/"
+          strategy="afterInteractive"
+        />
       </body>
     </html>
   );
