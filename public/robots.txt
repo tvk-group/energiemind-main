@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://energiemind.com/sitemap.xml
+Sitemap: https://www.energiemind.com/sitemap.xml

@@ -33,6 +33,32 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} dir={dir} className={inter.variable}>
       <body className="antialiased font-sans">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@graph": [
+                {
+                  "@type": "WebSite",
+                  "@id": "https://www.energiemind.com/#website",
+                  url: "https://www.energiemind.com/",
+                  name: "EnergieMIND",
+                },
+                {
+                  "@type": "WebPage",
+                  "@id": `https://www.energiemind.com/${locale}/#webpage`,
+                  url: `https://www.energiemind.com/${locale}/`,
+                  name: "EnergieMIND | Energy Intelligence Platform",
+                  description:
+                    "Development-stage energy intelligence platform for monitoring, analytics and workflow concepts.",
+                  inLanguage: locale,
+                  isPartOf: { "@id": "https://www.energiemind.com/#website" },
+                },
+              ],
+            }).replace(/</g, "\\u003c"),
+          }}
+        />
         <NextIntlClientProvider messages={messages}>
           <Header />
           <main>{children}</main>
