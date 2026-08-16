@@ -1,0 +1,10 @@
+{
+  "name": "EnergieMIND",
+  "short_name": "EnergieMIND",
+  "description": "Development-stage energy intelligence platform.",
+  "start_url": "/en/",
+  "display": "standalone",
+  "background_color": "#f8faf8",
+  "theme_color": "#087443",
+  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]
+}
